@@ -1,74 +1,101 @@
 # 🎓 Innera
 
-> Empowering learners through structured, personalized, and accessible education.
+> A modern educational platform designed to make learning simple, engaging, and accessible.
 
-## 📖 About
-
-Innera is an educational platform designed to help students and professionals learn through structured courses, personalized learning paths, quizzes, and progress tracking.
-
-The goal of Innera is to create a modern learning ecosystem that makes quality education accessible and engaging.
+![Status](https://img.shields.io/badge/Status-Production-success)
+![Platform](https://img.shields.io/badge/Platform-Android-blue)
+![Built With](https://img.shields.io/badge/Built%20With-React%20Native-61DAFB)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
-## 🎯 Target Audience
+## 📖 About
+
+Innera is an educational platform that helps students learn through structured learning paths, subject-wise content, quizzes, and progress tracking.
+
+The application is designed with scalability in mind and aims to support school students, competitive exam aspirants, and lifelong learners through an intuitive mobile experience.
+
+---
+
+## 🎯 Target Users
 
 - School Students
 - College Students
 - Competitive Exam Aspirants
-- Working Professionals
+- Self Learners
 
 ---
 
-## ✨ Current Features
+## ✨ Features
 
-- ✅ User Authentication
-- ✅ Personalized Dashboard
-- ✅ Progress Tracking
+- Secure Login
+- Subject-wise Learning
+- Chapter Navigation
+- Progress Tracking
+- Clean & Modern UI
+- Responsive Mobile Experience
 
----
+### 🚧 Upcoming Features
 
-## 🚀 Upcoming Features
-
-- 🎥 Video Courses
-- 👨‍🏫 Live Classes
-- 🤖 AI Learning Assistant
-- 📝 Smart Notes
-- 📚 Interactive Quizzes
-- 🏆 Certificates
-- 📈 Personalized Recommendations
+- AI Study Assistant
+- Video Courses
+- Live Classes
+- Practice Quizzes
+- Notes
+- Certificates
+- Leaderboard
+- Parent Dashboard
 
 ---
 
 ## 🛠 Tech Stack
 
-- React
 - React Native
 - Expo
+- TypeScript
 - Firebase
+- React Navigation
 
 ---
 
-## 👨‍💻 My Role
+## 📂 Project Structure
 
-- Product Planning
-- UI/UX Design
-- Frontend Development
-- Mobile App Development
-- Backend Integration
-- Firebase Integration
-- Testing
-- Deployment
-
----
-
-## 📱 Project Status
-
-**Production**
+src/
+├── assets/
+├── components/
+├── firebase/
+├── navigation/
+├── screens/
+├── theme/
 
 ---
 
-## 📩 Contact
+## 📱 Screenshots
 
-**Developer:** Nikesh Kumar
+Coming Soon
 
-Building modern educational technology products.
+---
+
+## 🚀 Future Roadmap
+
+- AI Tutor
+- Personalized Learning
+- Gamification
+- Doubt Solving
+- Performance Analytics
+- Offline Learning
+
+---
+
+## 👨‍💻 Developer
+
+**Nikesh Kumar**
+
+AI Engineer | Mobile App Developer | Mathematics Graduate
+
+GitHub:
+https://github.com/itsmenikeshraj99
+
+---
+
+⭐ If you like this project, don't forget to star the repository.
