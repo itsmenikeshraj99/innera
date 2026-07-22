@@ -9,6 +9,12 @@
 
 ---
 
+<p align="center">
+  <img src="./screenshots/logo.png" alt="Innera Logo" width="180"/>
+</p>
+
+---
+
 # 📚 About
 
 **Innera** is a modern educational mobile application built with **React Native**, **Expo**, **TypeScript**, and **Firebase**.
@@ -77,7 +83,6 @@ The app is designed for students of all age groups and provides structured learn
 
 <p align="center">
 <img src="./screenshots/subscription.png" width="220"/>
-<img src="./screenshots/logo.png" width="220"/>
 </p>
 
 ---
