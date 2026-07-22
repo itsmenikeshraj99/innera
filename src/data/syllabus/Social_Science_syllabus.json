@@ -1,0 +1,3310 @@
+{
+  "subjectId": "socialScience",
+  "classes": [
+    {
+      "classId": "class6",
+      "subjects": {
+        "history": [
+          {
+            "en": "What, Where, How and When?",
+            "hi": "कब, कहाँ और कैसे?",
+            "topics_en": [
+              "Sources of history — manuscripts, inscriptions, coins",
+              "Meaning of dates and periods",
+              "Importance of the past",
+              "Archaeological finds",
+              "River valley sites in India"
+            ],
+            "topics_hi": [
+              "इतिहास के स्रोत — पांडुलिपि, शिलालेख, सिक्के",
+              "तिथियों और कालखंडों का महत्व",
+              "पुरातात्विक खोजें",
+              "नदी घाटी स्थल"
+            ]
+          },
+          {
+            "en": "On the Trail of the Earliest People",
+            "hi": "आखेट से भोजन संग्रह",
+            "topics_en": [
+              "Hunter-gatherers and their lifestyle",
+              "Tools made of stone",
+              "Rock paintings",
+              "Sites: Bhimbetka, Hunsgi",
+              "Fire, shelter, and food in early times"
+            ],
+            "topics_hi": [
+              "आखेटक-संग्राहक और उनकी जीवनशैली",
+              "पाषाण उपकरण",
+              "शैलचित्र",
+              "भीमबेटका, हुंसगी स्थल",
+              "आग, आश्रय और भोजन"
+            ]
+          },
+          {
+            "en": "From Gathering to Growing Food",
+            "hi": "भोजन: संग्रह से उत्पादन तक",
+            "topics_en": [
+              "Beginning of farming and animal domestication",
+              "Neolithic sites: Mehrgarh, Daojali Hading",
+              "Grain storage and pottery",
+              "Village settlements"
+            ],
+            "topics_hi": [
+              "खेती और पशुपालन की शुरुआत",
+              "मेहरगढ़ जैसे नवपाषाण स्थल",
+              "अनाज भंडारण और मृद्भांड",
+              "ग्राम बस्तियाँ"
+            ]
+          },
+          {
+            "en": "In the Earliest Cities",
+            "hi": "आरंभिक नगर",
+            "topics_en": [
+              "Features of Harappan civilization",
+              "Town planning: drains, roads, granaries",
+              "Crafts, trade, and seals",
+              "Decline of the civilization"
+            ],
+            "topics_hi": [
+              "हड़प्पा सभ्यता की विशेषताएँ",
+              "नगर-नियोजन: नालियाँ, सड़कें, अनाज भंडार",
+              "शिल्प, व्यापार और मुहरें",
+              "सभ्यता का पतन"
+            ]
+          },
+          {
+            "en": "What Books and Burials Tell Us",
+            "hi": "पुस्तकें और कब्रें क्या बताती हैं",
+            "topics_en": [
+              "The Vedas — Rigveda, Samaveda, Yajurveda, Atharvaveda",
+              "Megaliths and burial practices",
+              "Iron tools and agriculture"
+            ],
+            "topics_hi": [
+              "वेद — ऋग्वेद, सामवेद, यजुर्वेद, अथर्ववेद",
+              "महापाषाण और दफन प्रथाएँ",
+              "लोहे के औजार और कृषि"
+            ]
+          },
+          {
+            "en": "Kingdoms, Kings and an Early Republic",
+            "hi": "राज्य, राजा और एक आरंभिक गणराज्य",
+            "topics_en": [
+              "Janapadas and Mahajanapadas",
+              "Magadha's rise to power",
+              "Vajji — the republic",
+              "Taxation and armies"
+            ],
+            "topics_hi": [
+              "जनपद और महाजनपद",
+              "मगध का उदय",
+              "वज्जि गणराज्य",
+              "कराधान और सेनाएँ"
+            ]
+          },
+          {
+            "en": "New Questions and Ideas",
+            "hi": "नए प्रश्न नए विचार",
+            "topics_en": [
+              "Upanishads and quest for truth",
+              "Mahavira and Jainism",
+              "Gautam Buddha and Buddhism",
+              "Sangha, monasteries"
+            ],
+            "topics_hi": [
+              "उपनिषद और सत्य की खोज",
+              "महावीर और जैन धर्म",
+              "गौतम बुद्ध और बौद्ध धर्म",
+              "संघ, मठ"
+            ]
+          },
+          {
+            "en": "Ashoka, The Emperor Who Gave Up War",
+            "hi": "अशोक — एक अनोखा सम्राट",
+            "topics_en": [
+              "Mauryan Empire — Chandragupta, Bindusara, Ashoka",
+              "Kalinga War and its effect",
+              "Ashoka's Dhamma",
+              "Edicts and pillars"
+            ],
+            "topics_hi": [
+              "मौर्य साम्राज्य — चंद्रगुप्त, बिंदुसार, अशोक",
+              "कलिंग युद्ध और उसका प्रभाव",
+              "अशोक का धम्म",
+              "शिलालेख और स्तंभ"
+            ]
+          },
+          {
+            "en": "Vital Villages, Thriving Towns",
+            "hi": "खुशहाल गाँव और समृद्ध शहर",
+            "topics_en": [
+              "Iron tools and agriculture",
+              "Grihapatis and dasa-karmakara",
+              "Trade and crafts",
+              "Punch-marked coins",
+              "Shrenis (guilds)"
+            ],
+            "topics_hi": [
+              "लोहे के औजार और कृषि",
+              "गृहपतियाँ और दास-कर्मकार",
+              "व्यापार और शिल्प",
+              "आहत सिक्के",
+              "श्रेणियाँ"
+            ]
+          },
+          {
+            "en": "Traders, Kings and Pilgrims",
+            "hi": "व्यापारी, राजा और तीर्थयात्री",
+            "topics_en": [
+              "Silk Route — east-west trade",
+              "Buddhist pilgrims to China",
+              "Kings and religious donations",
+              "Kushanas and their rule"
+            ],
+            "topics_hi": [
+              "रेशम मार्ग",
+              "बौद्ध तीर्थयात्री",
+              "राजा और धार्मिक दान",
+              "कुषाण राज्य"
+            ]
+          },
+          {
+            "en": "New Empires and Kingdoms",
+            "hi": "नए साम्राज्य और राज्य",
+            "topics_en": [
+              "Gupta Empire — Samudragupta, Chandragupta II",
+              "Prashastis and inscriptions",
+              "Harshavardhana",
+              "Pallavas, Chalukyas, Pulakesi II"
+            ],
+            "topics_hi": [
+              "गुप्त साम्राज्य — समुद्रगुप्त, चंद्रगुप्त द्वितीय",
+              "प्रशस्तियाँ और शिलालेख",
+              "हर्षवर्धन",
+              "पल्लव, चालुक्य"
+            ]
+          },
+          {
+            "en": "Buildings, Paintings and Books",
+            "hi": "इमारतें, चित्र और किताबें",
+            "topics_en": [
+              "Stupas, temples, and their features",
+              "Ajanta caves and paintings",
+              "Literature: Kalidasa, Aryabhata",
+              "Panchatantra"
+            ],
+            "topics_hi": [
+              "स्तूप, मंदिर और उनकी विशेषताएँ",
+              "अजंता गुफाएँ और चित्रकला",
+              "साहित्य: कालिदास, आर्यभट्ट",
+              "पंचतंत्र"
+            ]
+          }
+        ],
+        "geography": [
+          {
+            "en": "The Earth in the Solar System",
+            "hi": "सौर मंडल में पृथ्वी",
+            "topics_en": [
+              "Solar system planets and their order",
+              "Earth's unique features supporting life",
+              "Moon — natural satellite",
+              "Stars, constellations, Pole Star"
+            ],
+            "topics_hi": [
+              "सौर मंडल के ग्रह",
+              "पृथ्वी की विशेषताएँ",
+              "चंद्रमा — प्राकृतिक उपग्रह",
+              "तारे और नक्षत्र"
+            ]
+          },
+          {
+            "en": "Globe: Latitudes and Longitudes",
+            "hi": "ग्लोब: अक्षांश और देशांतर",
+            "topics_en": [
+              "Globe as a model of Earth",
+              "Latitudes: Equator, Tropics, Polar circles",
+              "Longitudes and Prime Meridian",
+              "Time zones and IST"
+            ],
+            "topics_hi": [
+              "ग्लोब",
+              "अक्षांश: भूमध्य रेखा, कर्क रेखा",
+              "देशांतर और प्रधान मध्याह्न रेखा",
+              "समय क्षेत्र और IST"
+            ]
+          },
+          {
+            "en": "Motions of the Earth",
+            "hi": "पृथ्वी की गतियाँ",
+            "topics_en": [
+              "Rotation — day and night",
+              "Revolution — seasons",
+              "Summer and winter solstice",
+              "Equinoxes"
+            ],
+            "topics_hi": [
+              "घूर्णन — दिन और रात",
+              "परिक्रमण — ऋतुएँ",
+              "ग्रीष्म और शीत अयनांत",
+              "विषुव"
+            ]
+          },
+          {
+            "en": "Maps",
+            "hi": "मानचित्र",
+            "topics_en": [
+              "Types of maps — physical, political, thematic",
+              "Scale and distance",
+              "Symbols and conventional signs",
+              "Compass directions"
+            ],
+            "topics_hi": [
+              "मानचित्र के प्रकार",
+              "मापक",
+              "चिह्न और पारंपरिक संकेत",
+              "दिशाएँ"
+            ]
+          },
+          {
+            "en": "Major Domains of the Earth",
+            "hi": "पृथ्वी के प्रमुख परिमंडल",
+            "topics_en": [
+              "Lithosphere, Hydrosphere, Atmosphere, Biosphere",
+              "Oceans and continents",
+              "Interaction of domains"
+            ],
+            "topics_hi": [
+              "स्थलमंडल, जलमंडल, वायुमंडल, जीवमंडल",
+              "महासागर और महाद्वीप"
+            ]
+          },
+          {
+            "en": "Major Landforms of the Earth",
+            "hi": "पृथ्वी के प्रमुख स्थलरूप",
+            "topics_en": [
+              "Mountains — fold, block, volcanic",
+              "Plateaus and plains",
+              "Their uses for humans"
+            ],
+            "topics_hi": [
+              "पर्वत — वलित, खंड, ज्वालामुखी",
+              "पठार और मैदान",
+              "मनुष्य के लिए उपयोग"
+            ]
+          },
+          {
+            "en": "Our Country – India",
+            "hi": "हमारा देश — भारत",
+            "topics_en": [
+              "Location of India",
+              "Neighbours of India",
+              "States and union territories",
+              "Physical features overview"
+            ],
+            "topics_hi": [
+              "भारत की स्थिति",
+              "पड़ोसी देश",
+              "राज्य और केंद्रशासित प्रदेश"
+            ]
+          },
+          {
+            "en": "India: Climate, Vegetation and Wildlife",
+            "hi": "भारत: जलवायु, वनस्पति और वन्यजीव",
+            "topics_en": [
+              "Seasons in India",
+              "Natural vegetation types",
+              "Wildlife sanctuaries and national parks",
+              "Biodiversity threats"
+            ],
+            "topics_hi": [
+              "भारत की ऋतुएँ",
+              "प्राकृतिक वनस्पति",
+              "वन्यजीव अभयारण्य और राष्ट्रीय उद्यान"
+            ]
+          }
+        ],
+        "civics": [
+          {
+            "en": "Understanding Diversity",
+            "hi": "विविधता की समझ",
+            "topics_en": [
+              "Unity in diversity in India",
+              "Sources of diversity — religion, region, language",
+              "Prejudice and discrimination",
+              "Diversity as a strength"
+            ],
+            "topics_hi": [
+              "भारत में विविधता में एकता",
+              "विविधता के स्रोत",
+              "पूर्वाग्रह और भेदभाव",
+              "विविधता एक शक्ति"
+            ]
+          },
+          {
+            "en": "Diversity and Discrimination",
+            "hi": "विविधता और भेदभाव",
+            "topics_en": [
+              "Inequality and stereotypes",
+              "Untouchability and its effects",
+              "Struggles against discrimination",
+              "Constitutional provisions"
+            ],
+            "topics_hi": [
+              "असमानता और रूढ़िवाद",
+              "अस्पृश्यता",
+              "भेदभाव के विरुद्ध संघर्ष"
+            ]
+          },
+          {
+            "en": "What is Government?",
+            "hi": "सरकार क्या है?",
+            "topics_en": [
+              "Need for government",
+              "Types of government — democracy, monarchy",
+              "Levels of government",
+              "Laws and governance"
+            ],
+            "topics_hi": [
+              "सरकार की आवश्यकता",
+              "सरकार के प्रकार",
+              "कानून और शासन"
+            ]
+          },
+          {
+            "en": "Key Elements of a Democratic Government",
+            "hi": "लोकतांत्रिक सरकार के मुख्य तत्व",
+            "topics_en": [
+              "Participation of citizens",
+              "Equality and justice",
+              "Elections and accountability",
+              "Conflict resolution"
+            ],
+            "topics_hi": [
+              "नागरिकों की भागीदारी",
+              "समानता और न्याय",
+              "चुनाव",
+              "जवाबदेही"
+            ]
+          },
+          {
+            "en": "Panchayati Raj",
+            "hi": "पंचायती राज",
+            "topics_en": [
+              "Three tiers — gram panchayat, panchayat samiti, zila parishad",
+              "Functions of panchayat",
+              "Ward panch",
+              "Gram sabha"
+            ],
+            "topics_hi": [
+              "ग्राम पंचायत, पंचायत समिति, जिला परिषद",
+              "पंचायत के कार्य",
+              "वार्ड पंच",
+              "ग्राम सभा"
+            ]
+          },
+          {
+            "en": "Rural Administration",
+            "hi": "ग्रामीण प्रशासन",
+            "topics_en": [
+              "Role of patwari",
+              "Police and law & order",
+              "Land disputes resolution"
+            ],
+            "topics_hi": [
+              "पटवारी की भूमिका",
+              "पुलिस और कानून-व्यवस्था",
+              "भूमि विवाद"
+            ]
+          },
+          {
+            "en": "Urban Administration",
+            "hi": "नगरीय प्रशासन",
+            "topics_en": [
+              "Municipal corporation structure",
+              "Ward councillors",
+              "Services provided by municipalities",
+              "Mayor and commissioner"
+            ],
+            "topics_hi": [
+              "नगर-निगम संरचना",
+              "पार्षद",
+              "नगर पालिका की सेवाएँ",
+              "महापौर"
+            ]
+          },
+          {
+            "en": "Rural Livelihoods",
+            "hi": "ग्रामीण आजीविका",
+            "topics_en": [
+              "Farming and non-farming livelihoods",
+              "Kisan (farmer) problems",
+              "Seasonal unemployment",
+              "Crafts and small businesses"
+            ],
+            "topics_hi": [
+              "खेती और गैर-खेती",
+              "किसानों की समस्याएँ",
+              "मौसमी बेरोजगारी"
+            ]
+          },
+          {
+            "en": "Urban Livelihoods",
+            "hi": "शहरी आजीविका",
+            "topics_en": [
+              "Street vendors, factory workers, service sector",
+              "Permanent and contractual jobs",
+              "Working conditions and rights"
+            ],
+            "topics_hi": [
+              "पटरी विक्रेता, कारखाना मजदूर, सेवा क्षेत्र",
+              "स्थायी और ठेका नौकरी"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "classId": "class7",
+      "subjects": {
+        "history": [
+          {
+            "en": "Tracing Changes Through a Thousand Years",
+            "hi": "हजार वर्षों के दौरान हुए परिवर्तनों की पड़ताल",
+            "topics_en": [
+              "Maps of 1154 AD and 1720 AD",
+              "New terminology — Hindustan, foreigner",
+              "Types of historical sources",
+              "Shifts in land names"
+            ],
+            "topics_hi": [
+              "1154 ई. और 1720 ई. के मानचित्र",
+              "नई शब्दावली",
+              "ऐतिहासिक स्रोतों के प्रकार"
+            ]
+          },
+          {
+            "en": "New Kings and Kingdoms",
+            "hi": "नए राजा और उनके राज्य",
+            "topics_en": [
+              "Emergence of Rajputs",
+              "Land grants and brahmanas",
+              "Warfare for wealth — Kanauj triangle",
+              "Rashtrakutas, Pratiharas, Palas"
+            ],
+            "topics_hi": [
+              "राजपूतों का उदय",
+              "भूमि अनुदान",
+              "कन्नौज के लिए त्रिपक्षीय संघर्ष",
+              "राष्ट्रकूट, प्रतिहार, पाल"
+            ]
+          },
+          {
+            "en": "The Delhi Sultanate",
+            "hi": "दिल्ली के सुल्तान",
+            "topics_en": [
+              "Ghori's conquest",
+              "Slave Dynasty — Iltutmish, Razia",
+              "Khilji, Tughlaq, Sayyid, Lodi Dynasties",
+              "Administration and revenue"
+            ],
+            "topics_hi": [
+              "गौरी की विजय",
+              "दास वंश — इल्तुतमिश, रजिया",
+              "खिलजी, तुगलक, सैयद, लोदी वंश",
+              "प्रशासन और राजस्व"
+            ]
+          },
+          {
+            "en": "The Mughal Empire",
+            "hi": "मुगल साम्राज्य",
+            "topics_en": [
+              "Babur, Humayun, Akbar, Jahangir, Shah Jahan, Aurangzeb",
+              "Mansabdari and jagir system",
+              "Mughal administration",
+              "Art and architecture"
+            ],
+            "topics_hi": [
+              "बाबर, हुमायूं, अकबर, जहाँगीर, शाहजहाँ, औरंगजेब",
+              "मनसबदारी और जागीर प्रणाली",
+              "मुगल प्रशासन",
+              "कला और वास्तुकला"
+            ]
+          },
+          {
+            "en": "Rulers and Buildings",
+            "hi": "शासक और इमारतें",
+            "topics_en": [
+              "Temples, mosques, tombs — architecture styles",
+              "Qutb Minar, Taj Mahal, Red Fort",
+              "Regional architecture"
+            ],
+            "topics_hi": [
+              "मंदिर, मस्जिद, मकबरे",
+              "कुतुब मीनार, ताजमहल, लाल किला",
+              "क्षेत्रीय वास्तुकला"
+            ]
+          },
+          {
+            "en": "Towns, Traders and Craftspersons",
+            "hi": "नगर, व्यापारी और कारीगर",
+            "topics_en": [
+              "Temple towns and pilgrimage centres",
+              "Administrative towns",
+              "Merchants and trade networks",
+              "Artisan guilds"
+            ],
+            "topics_hi": [
+              "मंदिर नगर",
+              "प्रशासनिक नगर",
+              "व्यापारी और व्यापार नेटवर्क",
+              "कारीगर श्रेणियाँ"
+            ]
+          },
+          {
+            "en": "Tribes, Nomads and Settled Communities",
+            "hi": "जनजातियाँ, खानाबदोश और एक जगह बसे समुदाय",
+            "topics_en": [
+              "Tribal peoples — Ahoms, Gonds, Bhils",
+              "Nomadic pastoralists",
+              "Relations with settled communities",
+              "Changing societies"
+            ],
+            "topics_hi": [
+              "जनजातीय लोग — अहोम, गोंड, भील",
+              "घुमंतू चरवाहे",
+              "बदलते समाज"
+            ]
+          },
+          {
+            "en": "Devotional Paths to the Divine",
+            "hi": "ईश्वर से अनुराग",
+            "topics_en": [
+              "Bhakti movement — Alvars, Nayanars",
+              "Sant poets — Kabir, Mirabai, Tukaram",
+              "Sufism and its orders",
+              "Social reforms through Bhakti"
+            ],
+            "topics_hi": [
+              "भक्ति आंदोलन — आलवार, नयनार",
+              "संत कवि — कबीर, मीराबाई, तुकाराम",
+              "सूफीवाद"
+            ]
+          },
+          {
+            "en": "The Making of Regional Cultures",
+            "hi": "क्षेत्रीय संस्कृतियों का निर्माण",
+            "topics_en": [
+              "Chera kingdom and Malayalam",
+              "Rajput clans and traditions",
+              "Bengal and fish, Bhoomi, Bhashan",
+              "Regional cuisine and dress"
+            ],
+            "topics_hi": [
+              "चेर राज्य और मलयालम",
+              "राजपूत परंपराएँ",
+              "बंगाल की क्षेत्रीय संस्कृति"
+            ]
+          },
+          {
+            "en": "Eighteenth Century Political Formations",
+            "hi": "अठारहवीं शताब्दी में नए राजनीतिक गठन",
+            "topics_en": [
+              "Decline of Mughals",
+              "Rise of Marathas, Sikhs, Jats",
+              "Nawabs of Bengal, Awadh",
+              "Regional kingdoms"
+            ],
+            "topics_hi": [
+              "मुगलों का पतन",
+              "मराठा, सिख, जाट का उदय",
+              "बंगाल, अवध के नवाब"
+            ]
+          }
+        ],
+        "geography": [
+          {
+            "en": "Environment",
+            "hi": "पर्यावरण",
+            "topics_en": [
+              "Components of environment",
+              "Natural and human-made environment",
+              "Human environment interaction",
+              "Ecosystem concept"
+            ],
+            "topics_hi": [
+              "पर्यावरण के घटक",
+              "प्राकृतिक और मानव निर्मित पर्यावरण",
+              "पारिस्थितिकी तंत्र"
+            ]
+          },
+          {
+            "en": "Inside Our Earth",
+            "hi": "हमारी पृथ्वी के अंदर",
+            "topics_en": [
+              "Layers of earth — crust, mantle, core",
+              "Types of rocks",
+              "Rock cycle",
+              "Minerals and their uses"
+            ],
+            "topics_hi": [
+              "पृथ्वी की परतें — भूपर्पटी, मेंटल, क्रोड",
+              "चट्टानों के प्रकार",
+              "खनिज"
+            ]
+          },
+          {
+            "en": "Our Changing Earth",
+            "hi": "हमारी बदलती पृथ्वी",
+            "topics_en": [
+              "Lithospheric plates and movement",
+              "Earthquakes and volcanoes",
+              "Weathering and erosion",
+              "Deposition and landforms"
+            ],
+            "topics_hi": [
+              "स्थलमंडलीय प्लेटें",
+              "भूकंप और ज्वालामुखी",
+              "अपक्षय और अपरदन"
+            ]
+          },
+          {
+            "en": "Air",
+            "hi": "वायु",
+            "topics_en": [
+              "Composition of atmosphere",
+              "Weather and climate",
+              "Types of rainfall",
+              "Atmospheric pressure and winds"
+            ],
+            "topics_hi": [
+              "वायुमंडल की संरचना",
+              "मौसम और जलवायु",
+              "वर्षा के प्रकार",
+              "वायुदाब और पवनें"
+            ]
+          },
+          {
+            "en": "Water",
+            "hi": "जल",
+            "topics_en": [
+              "Water cycle",
+              "Distribution of water on Earth",
+              "Ocean circulation — waves, tides, currents",
+              "Importance of fresh water"
+            ],
+            "topics_hi": [
+              "जल चक्र",
+              "पृथ्वी पर जल का वितरण",
+              "महासागरीय जल — तरंगें, ज्वार, धाराएँ"
+            ]
+          },
+          {
+            "en": "Natural Vegetation and Wildlife",
+            "hi": "प्राकृतिक वनस्पति एवं वन्यजीव",
+            "topics_en": [
+              "Tropical rainforest, grassland, desert vegetation",
+              "Temperate and polar vegetation",
+              "Wildlife and biodiversity",
+              "Threats and conservation"
+            ],
+            "topics_hi": [
+              "उष्णकटिबंधीय वर्षावन, घासभूमि, मरुस्थलीय वनस्पति",
+              "वन्यजीव और जैव विविधता"
+            ]
+          },
+          {
+            "en": "Human Environment — Settlement, Transport and Communication",
+            "hi": "मानवीय पर्यावरण — बस्तियाँ, परिवहन और संचार",
+            "topics_en": [
+              "Types of settlements — rural, urban",
+              "Transport — road, rail, water, air",
+              "Communication systems",
+              "Impact of globalisation"
+            ],
+            "topics_hi": [
+              "बस्तियों के प्रकार",
+              "परिवहन के साधन",
+              "संचार प्रणाली"
+            ]
+          },
+          {
+            "en": "Human-Environment Interaction: Tropical and Subtropical Region",
+            "hi": "उष्णकटिबंधीय और उपोष्णकटिबंधीय प्रदेश में जीवन",
+            "topics_en": [
+              "Amazon rainforest — lifestyle and culture",
+              "Congo basin",
+              "Threats to tropical forests"
+            ],
+            "topics_hi": [
+              "अमेज़न वर्षावन",
+              "कांगो बेसिन",
+              "वनों पर खतरे"
+            ]
+          },
+          {
+            "en": "Life in the Temperate Grasslands",
+            "hi": "शीतोष्ण घासभूमि में जीवन",
+            "topics_en": [
+              "Prairies (North America) and Velds (South Africa)",
+              "Climate and vegetation",
+              "Human life and economic activities"
+            ],
+            "topics_hi": [
+              "प्रेयरी और वेल्ड",
+              "जलवायु और वनस्पति",
+              "मानवीय गतिविधियाँ"
+            ]
+          },
+          {
+            "en": "Life in the Deserts",
+            "hi": "मरुस्थल में जीवन",
+            "topics_en": [
+              "Sahara Desert — climate, people, wildlife",
+              "Ladakh — cold desert",
+              "Adaptation strategies"
+            ],
+            "topics_hi": [
+              "सहारा मरुस्थल",
+              "लद्दाख — ठंडा मरुस्थल",
+              "अनुकूलन"
+            ]
+          }
+        ],
+        "civics": [
+          {
+            "en": "On Equality",
+            "hi": "समानता पर",
+            "topics_en": [
+              "Principle of equality in democracy",
+              "Caste, class, gender inequality",
+              "Constitutional equality",
+              "Unequal access to resources"
+            ],
+            "topics_hi": [
+              "लोकतंत्र में समानता का सिद्धांत",
+              "जाति, वर्ग, लिंग असमानता",
+              "संवैधानिक समानता"
+            ]
+          },
+          {
+            "en": "Role of the Government in Health",
+            "hi": "स्वास्थ्य में सरकार की भूमिका",
+            "topics_en": [
+              "Public vs private healthcare",
+              "Government responsibilities",
+              "Costa Rica model",
+              "Health as a right"
+            ],
+            "topics_hi": [
+              "सार्वजनिक और निजी स्वास्थ्य सेवा",
+              "सरकार की जिम्मेदारी",
+              "स्वास्थ्य एक अधिकार"
+            ]
+          },
+          {
+            "en": "How the State Government Works",
+            "hi": "राज्य सरकार कैसे काम करती है?",
+            "topics_en": [
+              "State legislature — MLA, Chief Minister, Cabinet",
+              "Legislature vs executive",
+              "State and central roles"
+            ],
+            "topics_hi": [
+              "राज्य विधानमंडल — विधायक, मुख्यमंत्री, मंत्रिमंडल",
+              "विधानमंडल और कार्यपालिका"
+            ]
+          },
+          {
+            "en": "Growing Up as Boys and Girls",
+            "hi": "लड़के और लड़कियों के रूप में बड़ा होना",
+            "topics_en": [
+              "Gender roles and socialisation",
+              "Samoan vs Indian examples",
+              "Women's work and its value",
+              "Challenging stereotypes"
+            ],
+            "topics_hi": [
+              "लिंग भूमिकाएँ और समाजीकरण",
+              "महिलाओं का कार्य",
+              "रूढ़ियों को चुनौती"
+            ]
+          },
+          {
+            "en": "Women Change the World",
+            "hi": "महिलाएँ ने बदली दुनिया",
+            "topics_en": [
+              "Historical struggle for education",
+              "Rokeya Sakhawat Hossain",
+              "Women in workforce",
+              "Gender gap and initiatives"
+            ],
+            "topics_hi": [
+              "शिक्षा के लिए ऐतिहासिक संघर्ष",
+              "रोकेया सखावत हुसैन",
+              "कार्यबल में महिलाएँ"
+            ]
+          },
+          {
+            "en": "Understanding Media",
+            "hi": "मीडिया को समझना",
+            "topics_en": [
+              "Role of media in democracy",
+              "Print and electronic media",
+              "Censorship and media freedom",
+              "Advertising influence"
+            ],
+            "topics_hi": [
+              "लोकतंत्र में मीडिया की भूमिका",
+              "मुद्रण और इलेक्ट्रॉनिक मीडिया",
+              "विज्ञापन का प्रभाव"
+            ]
+          },
+          {
+            "en": "Understanding Advertising",
+            "hi": "विज्ञापन को समझना",
+            "topics_en": [
+              "How advertising works",
+              "Brand creation and values",
+              "Misleading ads",
+              "Consumer awareness"
+            ],
+            "topics_hi": [
+              "विज्ञापन कैसे काम करता है",
+              "ब्रांड निर्माण",
+              "भ्रामक विज्ञापन"
+            ]
+          },
+          {
+            "en": "Markets Around Us",
+            "hi": "हमारे आसपास के बाजार",
+            "topics_en": [
+              "Chain of markets — wholesale, retail",
+              "Weekly markets",
+              "Shopping malls vs street shops",
+              "Who benefits in the chain"
+            ],
+            "topics_hi": [
+              "बाजारों की शृंखला — थोक, खुदरा",
+              "साप्ताहिक बाजार"
+            ]
+          },
+          {
+            "en": "A Shirt in the Market",
+            "hi": "बाजार में एक कमीज",
+            "topics_en": [
+              "Cotton farmer's situation",
+              "Weaver's work and earnings",
+              "Cloth merchant and exporter",
+              "Unequal earnings in chain"
+            ],
+            "topics_hi": [
+              "कपास किसान की स्थिति",
+              "बुनकर का काम",
+              "असमान आय"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "classId": "class8",
+      "subjects": {
+        "history": [
+          {
+            "en": "How, When and Where",
+            "hi": "कैसे, कब और कहाँ",
+            "topics_en": [
+              "British and the idea of history",
+              "Dates and colonial history",
+              "Official records and archives",
+              "Surveys and classification"
+            ],
+            "topics_hi": [
+              "ब्रिटिश और इतिहास की अवधारणा",
+              "तिथियाँ और औपनिवेशिक इतिहास",
+              "सरकारी अभिलेख"
+            ]
+          },
+          {
+            "en": "From Trade to Territory",
+            "hi": "व्यापार से साम्राज्य तक",
+            "topics_en": [
+              "East India Company — formation and trade",
+              "Bengal conquest — Plassey 1757",
+              "Doctrine of Lapse — Dalhousie",
+              "Expansion policies"
+            ],
+            "topics_hi": [
+              "ईस्ट इंडिया कंपनी — गठन और व्यापार",
+              "बंगाल की विजय — प्लासी 1757",
+              "व्यपगत का सिद्धांत — डलहौजी",
+              "विस्तार नीतियाँ"
+            ]
+          },
+          {
+            "en": "Ruling the Countryside",
+            "hi": "ग्रामीण क्षेत्रों पर शासन",
+            "topics_en": [
+              "Permanent Settlement — Bengal",
+              "Ryotwari and Mahalwari systems",
+              "Indigo revolt 1859",
+              "Impact of revenue systems on farmers"
+            ],
+            "topics_hi": [
+              "स्थायी बंदोबस्त — बंगाल",
+              "रैयतवाड़ी और महालवाड़ी प्रणाली",
+              "नील विद्रोह 1859"
+            ]
+          },
+          {
+            "en": "Tribals, Dikus and the Vision of a Golden Age",
+            "hi": "जनजातियाँ, दीकू और स्वर्णिम काल की कल्पना",
+            "topics_en": [
+              "Tribal lifestyles and forest laws",
+              "Birsa Munda movement",
+              "Santhal rebellion",
+              "Impact of colonial policies on tribes"
+            ],
+            "topics_hi": [
+              "जनजातीय जीवनशैली और वन कानून",
+              "बिरसा मुंडा आंदोलन",
+              "संथाल विद्रोह"
+            ]
+          },
+          {
+            "en": "When People Rebel",
+            "hi": "जब जनता विद्रोह करती है — 1857 और उसके बाद",
+            "topics_en": [
+              "Causes of Revolt of 1857",
+              "Sepoy grievances",
+              "Spread of rebellion",
+              "Aftermath — British Crown takes over"
+            ],
+            "topics_hi": [
+              "1857 के विद्रोह के कारण",
+              "सिपाही असंतोष",
+              "विद्रोह का प्रसार",
+              "ब्रिटिश ताज का शासन"
+            ]
+          },
+          {
+            "en": "Civilising the 'Native', Educating the Nation",
+            "hi": "'देशी' को सभ्य बनाना, राष्ट्र को शिक्षित करना",
+            "topics_en": [
+              "Wood's Despatch 1854",
+              "Oriental vs Anglicist debate",
+              "Mahatma Gandhi on education",
+              "Tagore's Shantiniketan"
+            ],
+            "topics_hi": [
+              "वुड का घोषणापत्र 1854",
+              "प्राच्यवादी-आंग्लवादी विवाद",
+              "गांधी और टैगोर के विचार"
+            ]
+          },
+          {
+            "en": "Women, Caste and Reform",
+            "hi": "महिलाएँ, जाति एवं सुधार",
+            "topics_en": [
+              "Sati abolition — Ram Mohan Roy",
+              "Widow Remarriage Act",
+              "Jyotirao Phule and caste",
+              "Women's education movement"
+            ],
+            "topics_hi": [
+              "सती प्रथा उन्मूलन — राम मोहन राय",
+              "विधवा पुनर्विवाह अधिनियम",
+              "ज्योतिबा फुले और जाति"
+            ]
+          },
+          {
+            "en": "The Making of the National Movement 1870s–1947",
+            "hi": "राष्ट्रीय आंदोलन का संघटन",
+            "topics_en": [
+              "Early Congress — moderate phase",
+              "Partition of Bengal 1905",
+              "Non-Cooperation Movement",
+              "Civil Disobedience, Quit India"
+            ],
+            "topics_hi": [
+              "प्रारंभिक कांग्रेस",
+              "बंगाल विभाजन 1905",
+              "असहयोग आंदोलन",
+              "सविनय अवज्ञा, भारत छोड़ो"
+            ]
+          },
+          {
+            "en": "India After Independence",
+            "hi": "स्वतंत्रता के बाद भारत",
+            "topics_en": [
+              "Challenges at independence",
+              "Integration of princely states",
+              "Constitution framing",
+              "Five-Year Plans and nation building"
+            ],
+            "topics_hi": [
+              "स्वतंत्रता की चुनौतियाँ",
+              "रियासतों का एकीकरण",
+              "संविधान निर्माण",
+              "पंचवर्षीय योजनाएँ"
+            ]
+          }
+        ],
+        "geography": [
+          {
+            "en": "Resources",
+            "hi": "संसाधन",
+            "topics_en": [
+              "Types of resources — natural, human, man-made",
+              "Biotic and abiotic",
+              "Actual and potential resources",
+              "Sustainable development"
+            ],
+            "topics_hi": [
+              "संसाधनों के प्रकार — प्राकृतिक, मानवीय, मानव निर्मित",
+              "जैविक और अजैविक",
+              "सतत् विकास"
+            ]
+          },
+          {
+            "en": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+            "hi": "भूमि, मृदा, जल, वनस्पति और वन्यजीव संसाधन",
+            "topics_en": [
+              "Land use patterns",
+              "Types of soil and conservation",
+              "Water scarcity and conservation",
+              "Deforestation and its impact"
+            ],
+            "topics_hi": [
+              "भूमि उपयोग",
+              "मृदा के प्रकार और संरक्षण",
+              "जल की कमी",
+              "वनोन्मूलन"
+            ]
+          },
+          {
+            "en": "Mineral and Power Resources",
+            "hi": "खनिज और शक्ति संसाधन",
+            "topics_en": [
+              "Types of minerals — ferrous, non-ferrous",
+              "Coal, petroleum, natural gas",
+              "Nuclear and renewable energy",
+              "Conservation of minerals"
+            ],
+            "topics_hi": [
+              "खनिजों के प्रकार",
+              "कोयला, पेट्रोलियम, प्राकृतिक गैस",
+              "परमाणु और नवीकरणीय ऊर्जा"
+            ]
+          },
+          {
+            "en": "Agriculture",
+            "hi": "कृषि",
+            "topics_en": [
+              "Types of farming — subsistence, commercial",
+              "Crop types and seasons",
+              "Food crops — wheat, rice",
+              "Cash crops — cotton, sugarcane, tea"
+            ],
+            "topics_hi": [
+              "खेती के प्रकार — निर्वाह, वाणिज्यिक",
+              "खाद्य फसलें — गेहूँ, चावल",
+              "नकदी फसलें — कपास, गन्ना"
+            ]
+          },
+          {
+            "en": "Industries",
+            "hi": "उद्योग",
+            "topics_en": [
+              "Classification of industries",
+              "Iron and steel industry",
+              "Cotton textile industry",
+              "Information technology sector"
+            ],
+            "topics_hi": [
+              "उद्योगों का वर्गीकरण",
+              "लोहा और इस्पात उद्योग",
+              "सूती वस्त्र उद्योग",
+              "सूचना प्रौद्योगिकी"
+            ]
+          },
+          {
+            "en": "Human Resources",
+            "hi": "मानव संसाधन",
+            "topics_en": [
+              "Population distribution",
+              "Factors affecting population",
+              "Population change",
+              "Human development index"
+            ],
+            "topics_hi": [
+              "जनसंख्या वितरण",
+              "जनसंख्या परिवर्तन",
+              "मानव विकास सूचकांक"
+            ]
+          }
+        ],
+        "civics": [
+          {
+            "en": "The Indian Constitution",
+            "hi": "भारतीय संविधान",
+            "topics_en": [
+              "Need for a constitution",
+              "Key features of Indian Constitution",
+              "Fundamental Rights and Duties",
+              "Directive Principles"
+            ],
+            "topics_hi": [
+              "संविधान की आवश्यकता",
+              "भारतीय संविधान की प्रमुख विशेषताएँ",
+              "मौलिक अधिकार और कर्तव्य",
+              "नीति निर्देशक तत्व"
+            ]
+          },
+          {
+            "en": "Understanding Secularism",
+            "hi": "धर्मनिरपेक्षता की समझ",
+            "topics_en": [
+              "Meaning of secularism",
+              "Indian model of secularism",
+              "Separation of state and religion",
+              "Examples from India"
+            ],
+            "topics_hi": [
+              "धर्मनिरपेक्षता का अर्थ",
+              "भारतीय धर्मनिरपेक्षता का मॉडल",
+              "राज्य और धर्म का पृथक्करण"
+            ]
+          },
+          {
+            "en": "Parliament and the Making of Laws",
+            "hi": "संसद और कानून बनाने की प्रक्रिया",
+            "topics_en": [
+              "Lok Sabha and Rajya Sabha",
+              "How a bill becomes law",
+              "Role of the Speaker",
+              "Parliamentary debates"
+            ],
+            "topics_hi": [
+              "लोकसभा और राज्यसभा",
+              "विधेयक कैसे कानून बनता है",
+              "संसदीय समितियाँ"
+            ]
+          },
+          {
+            "en": "Judiciary",
+            "hi": "न्यायपालिका",
+            "topics_en": [
+              "Structure — Supreme Court to District Court",
+              "Independent judiciary",
+              "Public Interest Litigation",
+              "Access to courts"
+            ],
+            "topics_hi": [
+              "न्यायपालिका की संरचना",
+              "स्वतंत्र न्यायपालिका",
+              "जनहित याचिका (PIL)"
+            ]
+          },
+          {
+            "en": "Understanding Marginalisation",
+            "hi": "हाशिए की आवाजें को समझना",
+            "topics_en": [
+              "Adivasi communities",
+              "Minorities in India",
+              "Economic and social marginalisation",
+              "Voices of the marginalised"
+            ],
+            "topics_hi": [
+              "आदिवासी समुदाय",
+              "अल्पसंख्यक",
+              "हाशिए पर धकेले जाने की आवाजें"
+            ]
+          },
+          {
+            "en": "Confronting Marginalisation",
+            "hi": "हाशियाकरण से मुकाबला",
+            "topics_en": [
+              "Constitutional provisions for marginalised",
+              "Reservations policy",
+              "Dalit rights movements",
+              "Adivasi land rights"
+            ],
+            "topics_hi": [
+              "संवैधानिक प्रावधान",
+              "आरक्षण नीति",
+              "दलित अधिकार आंदोलन"
+            ]
+          },
+          {
+            "en": "Public Facilities",
+            "hi": "सार्वजनिक सुविधाएँ",
+            "topics_en": [
+              "Water as a public facility",
+              "Role of government in services",
+              "Private vs public provision",
+              "Right to water"
+            ],
+            "topics_hi": [
+              "जल एक सार्वजनिक सुविधा",
+              "सरकार की भूमिका",
+              "जल का अधिकार"
+            ]
+          },
+          {
+            "en": "Law and Social Justice",
+            "hi": "कानून और सामाजिक न्याय",
+            "topics_en": [
+              "Bhopal gas tragedy",
+              "Child labour laws",
+              "Minimum wage legislation",
+              "Corporate responsibility"
+            ],
+            "topics_hi": [
+              "भोपाल गैस त्रासदी",
+              "बाल श्रम कानून",
+              "न्यूनतम वेतन कानून"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "classId": "class9",
+      "subjects": {
+        "history": [
+          {
+            "en": "The French Revolution",
+            "hi": "फ्रांसीसी क्रांति",
+            "topics_en": [
+              "Causes — social, political, economic",
+              "Estates and inequality",
+              "Declaration of Rights of Man",
+              "Reign of Terror — Robespierre",
+              "Rise of Napoleon Bonaparte",
+              "Impact on Europe and India"
+            ],
+            "topics_hi": [
+              "कारण — सामाजिक, राजनीतिक, आर्थिक",
+              "तीन वर्ग और असमानता",
+              "मनुष्य के अधिकारों की घोषणा",
+              "आतंक का राज — रोबेस्पियर",
+              "नेपोलियन बोनापार्ट का उदय"
+            ]
+          },
+          {
+            "en": "Socialism in Europe and the Russian Revolution",
+            "hi": "यूरोप में समाजवाद एवं रूसी क्रांति",
+            "topics_en": [
+              "Liberals, radicals, conservatives",
+              "Industrial society and workers",
+              "Bolshevik Revolution 1917",
+              "Lenin and the Soviet state",
+              "Stalin's collectivisation",
+              "Impact of socialism globally"
+            ],
+            "topics_hi": [
+              "उदारवादी, कट्टरपंथी, रूढ़िवादी",
+              "बोल्शेविक क्रांति 1917",
+              "लेनिन और सोवियत राज्य",
+              "स्टालिन का सामूहिकीकरण"
+            ]
+          },
+          {
+            "en": "Nazism and the Rise of Hitler",
+            "hi": "नात्सीवाद और हिटलर का उदय",
+            "topics_en": [
+              "Weimar Republic's weakness",
+              "Hitler's rise to power",
+              "Nazi ideology — race, Aryan supremacy",
+              "Holocaust",
+              "World War II and aftermath"
+            ],
+            "topics_hi": [
+              "वाइमर गणराज्य की कमजोरी",
+              "हिटलर का सत्तारोहण",
+              "नात्सी विचारधारा",
+              "प्रलय (Holocaust)"
+            ]
+          },
+          {
+            "en": "Forest Society and Colonialism",
+            "hi": "वन समाज और उपनिवेशवाद",
+            "topics_en": [
+              "Forest laws under British",
+              "Scientific forestry",
+              "Impact on tribals and pastoralists",
+              "Rebellion in forests — Bastar"
+            ],
+            "topics_hi": [
+              "ब्रिटिश वन कानून",
+              "वैज्ञानिक वानिकी",
+              "जनजातियों और चरवाहों पर प्रभाव",
+              "बस्तर विद्रोह"
+            ]
+          },
+          {
+            "en": "Pastoralists in the Modern World",
+            "hi": "आधुनिक विश्व में चरवाहे",
+            "topics_en": [
+              "Maasai of Africa",
+              "Pastoral nomads of India",
+              "Colonial impact",
+              "Shrinking grazing lands",
+              "Adaptation strategies"
+            ],
+            "topics_hi": [
+              "अफ्रीका के मसाई",
+              "भारत के घुमंतू चरवाहे",
+              "औपनिवेशिक प्रभाव",
+              "चरागाहों की घटती जमीन"
+            ]
+          }
+        ],
+        "geography": [
+          {
+            "en": "India – Size and Location",
+            "hi": "भारत — आकार और स्थिति",
+            "topics_en": [
+              "India's geographical location",
+              "Latitudes and longitudes",
+              "Neighbours of India",
+              "Importance of India's location"
+            ],
+            "topics_hi": [
+              "भारत की भौगोलिक स्थिति",
+              "अक्षांश और देशांतर",
+              "पड़ोसी देश",
+              "भारत की स्थिति का महत्व"
+            ]
+          },
+          {
+            "en": "Physical Features of India",
+            "hi": "भारत का भौतिक स्वरूप",
+            "topics_en": [
+              "Himalayas — formation, ranges, passes",
+              "Northern Plains — Indus, Ganga, Brahmaputra",
+              "Peninsular Plateau",
+              "Coastal plains, Islands"
+            ],
+            "topics_hi": [
+              "हिमालय — निर्माण, श्रेणियाँ, दर्रे",
+              "उत्तरी मैदान",
+              "प्रायद्वीपीय पठार",
+              "तटीय मैदान, द्वीप"
+            ]
+          },
+          {
+            "en": "Drainage",
+            "hi": "अपवाह",
+            "topics_en": [
+              "Himalayan rivers — Ganga, Indus, Brahmaputra",
+              "Peninsular rivers — east and west flowing",
+              "Lakes in India",
+              "Role of rivers in Indian economy"
+            ],
+            "topics_hi": [
+              "हिमालयी नदियाँ — गंगा, सिंधु, ब्रह्मपुत्र",
+              "प्रायद्वीपीय नदियाँ",
+              "भारत की झीलें"
+            ]
+          },
+          {
+            "en": "Climate",
+            "hi": "जलवायु",
+            "topics_en": [
+              "Factors affecting climate",
+              "Monsoon — onset and retreat",
+              "Seasons of India",
+              "Distribution of rainfall",
+              "Jet stream"
+            ],
+            "topics_hi": [
+              "जलवायु को प्रभावित करने वाले कारक",
+              "मानसून — आगमन और वापसी",
+              "भारत की ऋतुएँ",
+              "वर्षा का वितरण"
+            ]
+          },
+          {
+            "en": "Natural Vegetation and Wildlife",
+            "hi": "प्राकृतिक वनस्पति तथा वन्य प्राणी",
+            "topics_en": [
+              "Factors controlling vegetation",
+              "Types: tropical evergreen to alpine",
+              "Biodiversity hotspots",
+              "Project Tiger, conservation reserves"
+            ],
+            "topics_hi": [
+              "वनस्पति के प्रकार",
+              "जैव विविधता",
+              "प्रोजेक्ट टाइगर"
+            ]
+          },
+          {
+            "en": "Population",
+            "hi": "जनसंख्या",
+            "topics_en": [
+              "Population size and distribution",
+              "Population growth",
+              "Age-sex composition",
+              "Literacy rate",
+              "Occupational structure"
+            ],
+            "topics_hi": [
+              "जनसंख्या का आकार और वितरण",
+              "जनसंख्या वृद्धि",
+              "साक्षरता दर",
+              "व्यावसायिक संरचना"
+            ]
+          }
+        ],
+        "politicalScience": [
+          {
+            "en": "What is Democracy? Why Democracy?",
+            "hi": "लोकतंत्र क्या? लोकतंत्र क्यों?",
+            "topics_en": [
+              "Definition of democracy",
+              "Features of democracy",
+              "Arguments for and against",
+              "Comparison with other systems"
+            ],
+            "topics_hi": [
+              "लोकतंत्र की परिभाषा",
+              "लोकतंत्र की विशेषताएँ",
+              "अन्य प्रणालियों से तुलना"
+            ]
+          },
+          {
+            "en": "Constitutional Design",
+            "hi": "संविधान निर्माण",
+            "topics_en": [
+              "South Africa's constitution making",
+              "Indian Constituent Assembly",
+              "Guiding values",
+              "Preamble analysis"
+            ],
+            "topics_hi": [
+              "दक्षिण अफ्रीका का संविधान",
+              "भारतीय संविधान सभा",
+              "प्रस्तावना का विश्लेषण"
+            ]
+          },
+          {
+            "en": "Electoral Politics",
+            "hi": "चुनावी राजनीति",
+            "topics_en": [
+              "Why elections?",
+              "Indian electoral system",
+              "Model Code of Conduct",
+              "Election Commission"
+            ],
+            "topics_hi": [
+              "चुनाव क्यों?",
+              "भारतीय चुनाव प्रणाली",
+              "चुनाव आयोग"
+            ]
+          },
+          {
+            "en": "Working of Institutions",
+            "hi": "संस्थाओं का कामकाज",
+            "topics_en": [
+              "Parliament — Lok Sabha, Rajya Sabha",
+              "Prime Minister and Cabinet",
+              "Supreme Court",
+              "Checks and balances"
+            ],
+            "topics_hi": [
+              "संसद",
+              "प्रधानमंत्री और मंत्रिमंडल",
+              "सर्वोच्च न्यायालय",
+              "नियंत्रण और संतुलन"
+            ]
+          },
+          {
+            "en": "Democratic Rights",
+            "hi": "लोकतांत्रिक अधिकार",
+            "topics_en": [
+              "Rights in a democracy",
+              "Fundamental Rights in India",
+              "Expanding scope of rights",
+              "Rights vs state"
+            ],
+            "topics_hi": [
+              "लोकतंत्र में अधिकार",
+              "भारत के मौलिक अधिकार",
+              "अधिकारों का विस्तार"
+            ]
+          }
+        ],
+        "economics": [
+          {
+            "en": "The Story of Village Palampur",
+            "hi": "पालमपुर गाँव की कहानी",
+            "topics_en": [
+              "Farming in Palampur",
+              "Non-farm activities",
+              "Capital and labour in village",
+              "Fixed and working capital"
+            ],
+            "topics_hi": [
+              "पालमपुर में खेती",
+              "गैर-कृषि गतिविधियाँ",
+              "गाँव में पूँजी और श्रम",
+              "स्थिर और कार्यशील पूँजी"
+            ]
+          },
+          {
+            "en": "People as Resource",
+            "hi": "संसाधन के रूप में लोग",
+            "topics_en": [
+              "Human capital formation",
+              "Role of education and health",
+              "Unemployment — rural and urban",
+              "Quality of population"
+            ],
+            "topics_hi": [
+              "मानव पूँजी निर्माण",
+              "शिक्षा और स्वास्थ्य की भूमिका",
+              "बेरोजगारी"
+            ]
+          },
+          {
+            "en": "Poverty as a Challenge",
+            "hi": "निर्धनता: एक चुनौती",
+            "topics_en": [
+              "Poverty line concept",
+              "Social groups vulnerable to poverty",
+              "Government anti-poverty programmes",
+              "Global poverty comparison"
+            ],
+            "topics_hi": [
+              "गरीबी रेखा",
+              "गरीबी के प्रति संवेदनशील सामाजिक समूह",
+              "सरकारी कार्यक्रम"
+            ]
+          },
+          {
+            "en": "Food Security in India",
+            "hi": "भारत में खाद्य सुरक्षा",
+            "topics_en": [
+              "Dimensions of food security",
+              "Buffer stock and PDS",
+              "Ration cards and FCI",
+              "Food insecurity — who suffers"
+            ],
+            "topics_hi": [
+              "खाद्य सुरक्षा के आयाम",
+              "बफर स्टॉक और PDS",
+              "राशन कार्ड और FCI"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "classId": "class10",
+      "subjects": {
+        "history": [
+          {
+            "en": "The Rise of Nationalism in Europe",
+            "hi": "यूरोप में राष्ट्रवाद का उदय",
+            "topics_en": [
+              "Frederic Sorrieu's painting",
+              "Making of nationalism",
+              "Romanticism",
+              "Revolution of 1848",
+              "Unification of Germany and Italy",
+              "Visual imagery and nationalism"
+            ],
+            "topics_hi": [
+              "फ्रेडरिक सोरयू का चित्र",
+              "राष्ट्रवाद का निर्माण",
+              "जर्मनी और इटली का एकीकरण",
+              "दृश्य कल्पना और राष्ट्रवाद"
+            ]
+          },
+          {
+            "en": "Nationalism in India",
+            "hi": "भारत में राष्ट्रवाद",
+            "topics_en": [
+              "First World War and India",
+              "Rowlatt Act and protests",
+              "Non-Cooperation Movement 1920",
+              "Civil Disobedience Movement 1930",
+              "Dandi March",
+              "Quit India Movement 1942"
+            ],
+            "topics_hi": [
+              "प्रथम विश्व युद्ध और भारत",
+              "रॉलेट एक्ट और विरोध",
+              "असहयोग आंदोलन 1920",
+              "सविनय अवज्ञा और दांडी मार्च",
+              "भारत छोड़ो आंदोलन 1942"
+            ]
+          },
+          {
+            "en": "The Making of a Global World",
+            "hi": "भूमंडलीकृत विश्व का बनना",
+            "topics_en": [
+              "Pre-modern world trade",
+              "19th century — food, silver, trade",
+              "Indentured labour and migration",
+              "Bretton Woods institutions",
+              "Post-WWII economic order"
+            ],
+            "topics_hi": [
+              "प्रारंभिक आधुनिक दुनिया",
+              "19वीं सदी — भोजन, चाँदी, व्यापार",
+              "बंधुआ मजदूर और प्रवास",
+              "ब्रेटन वुड्स संस्थाएँ"
+            ]
+          },
+          {
+            "en": "The Age of Industrialisation",
+            "hi": "औद्योगीकरण का युग",
+            "topics_en": [
+              "Proto-industrialisation in Britain",
+              "Industrial Revolution",
+              "Factory system and workers",
+              "Industrialisation in India",
+              "Manchester cloth vs Indian handlooms"
+            ],
+            "topics_hi": [
+              "ब्रिटेन में प्रोटो-औद्योगीकरण",
+              "कारखाना प्रणाली",
+              "भारत में औद्योगीकरण",
+              "भारतीय हथकरघे बनाम मैनचेस्टर"
+            ]
+          },
+          {
+            "en": "Print Culture and the Modern World",
+            "hi": "मुद्रण संस्कृति और आधुनिक दुनिया",
+            "topics_en": [
+              "Gutenberg press",
+              "Print in Europe — Reformation",
+              "Print in India — newspapers, books",
+              "Vernacular literature",
+              "Women, low castes and print"
+            ],
+            "topics_hi": [
+              "गुटेनबर्ग प्रेस",
+              "यूरोप में मुद्रण",
+              "भारत में मुद्रण",
+              "महिलाएँ, दलित और मुद्रण"
+            ]
+          }
+        ],
+        "geography": [
+          {
+            "en": "Resources and Development",
+            "hi": "संसाधन और विकास",
+            "topics_en": [
+              "Types and development of resources",
+              "Resource planning in India",
+              "Land degradation and conservation",
+              "Types of soil"
+            ],
+            "topics_hi": [
+              "संसाधनों के प्रकार और विकास",
+              "भारत में संसाधन नियोजन",
+              "भूमि निम्नीकरण और संरक्षण",
+              "मृदा के प्रकार"
+            ]
+          },
+          {
+            "en": "Forest and Wildlife Resources",
+            "hi": "वन एवं वन्यजीव संसाधन",
+            "topics_en": [
+              "Types and distribution of forests",
+              "Depletion of flora and fauna",
+              "Conservation — Project Tiger",
+              "Community and conservation"
+            ],
+            "topics_hi": [
+              "वनों के प्रकार और वितरण",
+              "वनस्पति एवं जीव-जंतु की कमी",
+              "संरक्षण — प्रोजेक्ट टाइगर"
+            ]
+          },
+          {
+            "en": "Water Resources",
+            "hi": "जल संसाधन",
+            "topics_en": [
+              "Water scarcity",
+              "Multi-purpose river projects",
+              "Rainwater harvesting",
+              "Advantages and disadvantages"
+            ],
+            "topics_hi": [
+              "जल की कमी",
+              "बहुउद्देश्यीय नदी परियोजनाएँ",
+              "वर्षा जल संग्रहण"
+            ]
+          },
+          {
+            "en": "Agriculture",
+            "hi": "कृषि",
+            "topics_en": [
+              "Types of farming in India",
+              "Major crops — food and non-food",
+              "Technological reforms",
+              "Globalisation and agriculture"
+            ],
+            "topics_hi": [
+              "भारत में खेती के प्रकार",
+              "प्रमुख फसलें",
+              "तकनीकी सुधार",
+              "वैश्वीकरण और कृषि"
+            ]
+          },
+          {
+            "en": "Minerals and Energy Resources",
+            "hi": "खनिज तथा ऊर्जा संसाधन",
+            "topics_en": [
+              "Types and distribution of minerals",
+              "Conservation of minerals",
+              "Conventional and non-conventional energy",
+              "Solar, wind, biogas"
+            ],
+            "topics_hi": [
+              "खनिजों के प्रकार और वितरण",
+              "पारंपरिक और गैर-पारंपरिक ऊर्जा",
+              "सौर, पवन, बायोगैस"
+            ]
+          },
+          {
+            "en": "Manufacturing Industries",
+            "hi": "विनिर्माण उद्योग",
+            "topics_en": [
+              "Importance and classification",
+              "Cotton textile, iron & steel",
+              "Cement, chemical, automobile industries",
+              "Industrial pollution"
+            ],
+            "topics_hi": [
+              "महत्व और वर्गीकरण",
+              "कपड़ा, लोहा-इस्पात, सीमेंट उद्योग",
+              "औद्योगिक प्रदूषण"
+            ]
+          },
+          {
+            "en": "Lifelines of National Economy",
+            "hi": "राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ",
+            "topics_en": [
+              "Roadways, railways, airways, waterways",
+              "Oil and gas pipelines",
+              "International trade",
+              "Tourism as trade"
+            ],
+            "topics_hi": [
+              "सड़क, रेल, जल, वायु परिवहन",
+              "अंतर्राष्ट्रीय व्यापार",
+              "पर्यटन"
+            ]
+          }
+        ],
+        "politicalScience": [
+          {
+            "en": "Power Sharing",
+            "hi": "सत्ता की साझेदारी",
+            "topics_en": [
+              "Belgium vs Sri Lanka case studies",
+              "Why power sharing is important",
+              "Forms of power sharing",
+              "Majoritarianism and its dangers"
+            ],
+            "topics_hi": [
+              "बेल्जियम बनाम श्रीलंका",
+              "सत्ता साझेदारी क्यों?",
+              "सत्ता साझेदारी के रूप"
+            ]
+          },
+          {
+            "en": "Federalism",
+            "hi": "संघवाद",
+            "topics_en": [
+              "Features of Indian federalism",
+              "Union list, State list, Concurrent list",
+              "Linguistic reorganisation of states",
+              "Decentralisation in India"
+            ],
+            "topics_hi": [
+              "भारतीय संघवाद की विशेषताएँ",
+              "संघ सूची, राज्य सूची, समवर्ती सूची",
+              "भाषायी पुनर्गठन",
+              "विकेंद्रीकरण"
+            ]
+          },
+          {
+            "en": "Gender, Religion and Caste",
+            "hi": "लोकतंत्र और विविधता",
+            "topics_en": [
+              "Gender and politics",
+              "Communalism in India",
+              "Caste and democratic politics",
+              "Secularism in practice"
+            ],
+            "topics_hi": [
+              "लिंग और राजनीति",
+              "भारत में सांप्रदायिकता",
+              "जाति और राजनीति"
+            ]
+          },
+          {
+            "en": "Political Parties",
+            "hi": "राजनीतिक दल",
+            "topics_en": [
+              "Need for parties",
+              "Functions of political parties",
+              "National and regional parties",
+              "Challenges to political parties"
+            ],
+            "topics_hi": [
+              "दलों की आवश्यकता",
+              "राजनीतिक दलों के कार्य",
+              "राष्ट्रीय और क्षेत्रीय दल"
+            ]
+          },
+          {
+            "en": "Outcomes of Democracy",
+            "hi": "लोकतंत्र के परिणाम",
+            "topics_en": [
+              "How to assess democracy",
+              "Democracy and economic growth",
+              "Dignity and rights",
+              "Democracies and equality"
+            ],
+            "topics_hi": [
+              "लोकतंत्र का मूल्यांकन",
+              "लोकतंत्र और आर्थिक विकास",
+              "सम्मान और अधिकार"
+            ]
+          }
+        ],
+        "economics": [
+          {
+            "en": "Development",
+            "hi": "विकास",
+            "topics_en": [
+              "Different goals of development",
+              "National development concepts",
+              "Average income and per capita income",
+              "Human Development Index"
+            ],
+            "topics_hi": [
+              "विकास के विभिन्न लक्ष्य",
+              "राष्ट्रीय विकास",
+              "प्रति व्यक्ति आय",
+              "मानव विकास सूचकांक"
+            ]
+          },
+          {
+            "en": "Sectors of the Indian Economy",
+            "hi": "भारतीय अर्थव्यवस्था के क्षेत्रक",
+            "topics_en": [
+              "Primary, secondary, tertiary sectors",
+              "Organised vs unorganised sector",
+              "NREGA scheme",
+              "Historical shift between sectors"
+            ],
+            "topics_hi": [
+              "प्राथमिक, द्वितीयक, तृतीयक क्षेत्रक",
+              "संगठित और असंगठित क्षेत्रक",
+              "MGNREGA"
+            ]
+          },
+          {
+            "en": "Money and Credit",
+            "hi": "मुद्रा और साख",
+            "topics_en": [
+              "Money as medium of exchange",
+              "Modern forms of money",
+              "Formal and informal credit",
+              "Self Help Groups"
+            ],
+            "topics_hi": [
+              "मुद्रा — विनिमय का माध्यम",
+              "औपचारिक और अनौपचारिक साख",
+              "स्वयं सहायता समूह"
+            ]
+          },
+          {
+            "en": "Globalisation and the Indian Economy",
+            "hi": "वैश्वीकरण और भारतीय अर्थव्यवस्था",
+            "topics_en": [
+              "Production across countries",
+              "MNCs and their impact",
+              "Foreign trade and integration",
+              "WTO and free trade"
+            ],
+            "topics_hi": [
+              "बहुराष्ट्रीय कंपनियाँ",
+              "विदेश व्यापार",
+              "WTO और मुक्त व्यापार"
+            ]
+          },
+          {
+            "en": "Consumer Rights",
+            "hi": "उपभोक्ता अधिकार",
+            "topics_en": [
+              "Consumer exploitation",
+              "Consumer Protection Act 1986",
+              "COPRA — rights and remedies",
+              "RTI and consumer awareness"
+            ],
+            "topics_hi": [
+              "उपभोक्ता शोषण",
+              "उपभोक्ता संरक्षण अधिनियम 1986",
+              "COPRA — अधिकार और उपाय"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "classId": "class11",
+      "subjects": {
+        "politicalTheory": [
+          {
+            "en": "Political Theory: An Introduction",
+            "hi": "राजनीतिक सिद्धांत: एक परिचय",
+            "topics_en": [
+              "What is political theory?",
+              "Politics as activity and study",
+              "Classical and contemporary theory",
+              "Why study political theory"
+            ],
+            "topics_hi": [
+              "राजनीतिक सिद्धांत क्या है?",
+              "राजनीति — गतिविधि और अध्ययन",
+              "शास्त्रीय और समकालीन सिद्धांत"
+            ]
+          },
+          {
+            "en": "Freedom",
+            "hi": "स्वतंत्रता",
+            "topics_en": [
+              "Negative and positive freedom",
+              "Liberty and its constraints",
+              "John Stuart Mill's harm principle",
+              "Freedom and social context"
+            ],
+            "topics_hi": [
+              "नकारात्मक और सकारात्मक स्वतंत्रता",
+              "मिल का सिद्धांत",
+              "सामाजिक संदर्भ में स्वतंत्रता"
+            ]
+          },
+          {
+            "en": "Equality",
+            "hi": "समानता",
+            "topics_en": [
+              "Natural and social equality",
+              "Three dimensions of equality",
+              "Affirmative action",
+              "Critiques of equality"
+            ],
+            "topics_hi": [
+              "प्राकृतिक और सामाजिक समानता",
+              "सकारात्मक कार्रवाई",
+              "समानता की आलोचनाएँ"
+            ]
+          },
+          {
+            "en": "Social Justice",
+            "hi": "सामाजिक न्याय",
+            "topics_en": [
+              "Principles of justice",
+              "John Rawls's theory",
+              "Pursuit of equal opportunity",
+              "Addressing disadvantage"
+            ],
+            "topics_hi": [
+              "न्याय के सिद्धांत",
+              "जॉन रॉल्स का सिद्धांत",
+              "समान अवसर"
+            ]
+          },
+          {
+            "en": "Rights",
+            "hi": "अधिकार",
+            "topics_en": [
+              "Nature of rights",
+              "Types — legal, moral, political",
+              "Duties and rights",
+              "Rights of marginalized"
+            ],
+            "topics_hi": [
+              "अधिकारों की प्रकृति",
+              "अधिकारों के प्रकार",
+              "हाशिए पर रहने वालों के अधिकार"
+            ]
+          },
+          {
+            "en": "Citizenship",
+            "hi": "नागरिकता",
+            "topics_en": [
+              "Meaning of citizenship",
+              "National and global citizenship",
+              "Universal and differentiated citizenship",
+              "Refugees"
+            ],
+            "topics_hi": [
+              "नागरिकता का अर्थ",
+              "राष्ट्रीय और वैश्विक नागरिकता",
+              "शरणार्थी"
+            ]
+          },
+          {
+            "en": "Nationalism",
+            "hi": "राष्ट्रवाद",
+            "topics_en": [
+              "Nation and state",
+              "Liberal nationalism",
+              "Self-determination",
+              "Criticisms of nationalism"
+            ],
+            "topics_hi": [
+              "राष्ट्र और राज्य",
+              "उदारवादी राष्ट्रवाद",
+              "आत्मनिर्णय",
+              "राष्ट्रवाद की आलोचना"
+            ]
+          },
+          {
+            "en": "Secularism",
+            "hi": "धर्मनिरपेक्षता",
+            "topics_en": [
+              "Western and Indian secularism",
+              "Religion and state",
+              "Critiques of Indian secularism"
+            ],
+            "topics_hi": [
+              "पश्चिमी और भारतीय धर्मनिरपेक्षता",
+              "धर्म और राज्य"
+            ]
+          },
+          {
+            "en": "Peace",
+            "hi": "शांति",
+            "topics_en": [
+              "Obstacles to peace",
+              "Violence and conflict",
+              "World peace — UN role",
+              "Non-violent resistance"
+            ],
+            "topics_hi": [
+              "शांति में बाधाएँ",
+              "हिंसा और संघर्ष",
+              "UN की भूमिका"
+            ]
+          },
+          {
+            "en": "Development",
+            "hi": "विकास",
+            "topics_en": [
+              "Meaning of development",
+              "Development and rights",
+              "Environmental challenges",
+              "Sustainable development"
+            ],
+            "topics_hi": [
+              "विकास का अर्थ",
+              "पर्यावरणीय चुनौतियाँ",
+              "सतत् विकास"
+            ]
+          }
+        ],
+        "indianConstitution": [
+          {
+            "en": "Constitution: Why and How?",
+            "hi": "संविधान: क्यों और कैसे?",
+            "topics_en": [
+              "Need for a constitution",
+              "Making of Indian Constitution",
+              "Constituent Assembly debates",
+              "Borrowed features"
+            ],
+            "topics_hi": [
+              "संविधान की आवश्यकता",
+              "भारतीय संविधान का निर्माण",
+              "संविधान सभा की बहसें"
+            ]
+          },
+          {
+            "en": "Rights in the Indian Constitution",
+            "hi": "भारतीय संविधान में अधिकार",
+            "topics_en": [
+              "Fundamental Rights — Articles 12–35",
+              "Right to equality, freedom, against exploitation",
+              "Cultural, educational, constitutional remedies"
+            ],
+            "topics_hi": [
+              "मौलिक अधिकार — अनुच्छेद 12-35",
+              "समानता, स्वतंत्रता, शोषण के विरुद्ध अधिकार"
+            ]
+          },
+          {
+            "en": "Election and Representation",
+            "hi": "चुनाव और प्रतिनिधित्व",
+            "topics_en": [
+              "First Past the Post system",
+              "Proportional representation",
+              "Election Commission",
+              "Electoral reforms"
+            ],
+            "topics_hi": [
+              "सर्वाधिक मत वाले की जीत",
+              "चुनाव आयोग",
+              "चुनाव सुधार"
+            ]
+          },
+          {
+            "en": "Executive",
+            "hi": "कार्यपालिका",
+            "topics_en": [
+              "President — powers and functions",
+              "Prime Minister and Cabinet",
+              "Council of Ministers",
+              "Collective responsibility"
+            ],
+            "topics_hi": [
+              "राष्ट्रपति — शक्तियाँ और कार्य",
+              "प्रधानमंत्री और मंत्रिमंडल",
+              "सामूहिक जिम्मेदारी"
+            ]
+          },
+          {
+            "en": "Legislature",
+            "hi": "विधायिका",
+            "topics_en": [
+              "Lok Sabha and Rajya Sabha — composition",
+              "Legislative process",
+              "Parliamentary committees",
+              "Amendments procedure"
+            ],
+            "topics_hi": [
+              "लोकसभा और राज्यसभा",
+              "विधायी प्रक्रिया",
+              "संसदीय समितियाँ"
+            ]
+          },
+          {
+            "en": "Judiciary",
+            "hi": "न्यायपालिका",
+            "topics_en": [
+              "Structure of judiciary",
+              "Supreme Court — original, appellate",
+              "Judicial review",
+              "PIL"
+            ],
+            "topics_hi": [
+              "न्यायपालिका की संरचना",
+              "न्यायिक समीक्षा",
+              "PIL"
+            ]
+          },
+          {
+            "en": "Federalism",
+            "hi": "संघवाद",
+            "topics_en": [
+              "Federal and unitary features",
+              "Division of powers",
+              "Inter-state relations",
+              "Emergency provisions"
+            ],
+            "topics_hi": [
+              "संघीय और एकात्मक विशेषताएँ",
+              "शक्तियों का विभाजन",
+              "आपातकालीन प्रावधान"
+            ]
+          },
+          {
+            "en": "Local Governments",
+            "hi": "स्थानीय सरकारें",
+            "topics_en": [
+              "73rd and 74th Amendments",
+              "Panchayati Raj and municipalities",
+              "Powers and functions",
+              "Challenges"
+            ],
+            "topics_hi": [
+              "73वाँ और 74वाँ संशोधन",
+              "पंचायती राज और नगर पालिकाएँ"
+            ]
+          },
+          {
+            "en": "Constitution as a Living Document",
+            "hi": "एक जीवंत दस्तावेज के रूप में संविधान",
+            "topics_en": [
+              "Amending the Constitution",
+              "Basic structure doctrine",
+              "Evolving constitution",
+              "Constitutionalism"
+            ],
+            "topics_hi": [
+              "संविधान में संशोधन",
+              "मूल संरचना सिद्धांत"
+            ]
+          },
+          {
+            "en": "The Philosophy of the Constitution",
+            "hi": "संविधान का दर्शन",
+            "topics_en": [
+              "Preamble values",
+              "Liberty, equality, fraternity",
+              "Secular and socialist ideals",
+              "Ambedkar's vision"
+            ],
+            "topics_hi": [
+              "प्रस्तावना के मूल्य",
+              "स्वतंत्रता, समानता, बंधुत्व",
+              "अंबेडकर की दृष्टि"
+            ]
+          }
+        ],
+        "physicalGeography": [
+          {
+            "en": "Geography as a Discipline",
+            "hi": "भूगोल एक विषय के रूप में",
+            "topics_en": [
+              "Scope of geography",
+              "Physical and human geography",
+              "Branches of geography"
+            ],
+            "topics_hi": [
+              "भूगोल का क्षेत्र",
+              "भौतिक और मानव भूगोल"
+            ]
+          },
+          {
+            "en": "The Origin and Evolution of the Earth",
+            "hi": "पृथ्वी की उत्पत्ति एवं विकास",
+            "topics_en": [
+              "Big Bang theory",
+              "Solar system formation",
+              "Interior of the Earth"
+            ],
+            "topics_hi": [
+              "बिग बैंग सिद्धांत",
+              "सौर मंडल का निर्माण",
+              "पृथ्वी का आंतरिक भाग"
+            ]
+          },
+          {
+            "en": "Interior of the Earth",
+            "hi": "पृथ्वी की आंतरिक संरचना",
+            "topics_en": [
+              "Sources of information",
+              "Structure — crust, mantle, core",
+              "Earthquakes and seismic waves"
+            ],
+            "topics_hi": [
+              "सूचना के स्रोत",
+              "भूपर्पटी, मेंटल, क्रोड",
+              "भूकंप और भूकंपीय तरंगें"
+            ]
+          },
+          {
+            "en": "Distribution of Oceans and Continents",
+            "hi": "महासागरों और महाद्वीपों का वितरण",
+            "topics_en": [
+              "Continental drift theory",
+              "Sea floor spreading",
+              "Plate tectonics"
+            ],
+            "topics_hi": [
+              "महाद्वीपीय विस्थापन सिद्धांत",
+              "समुद्री तल प्रसरण",
+              "प्लेट विवर्तनिकी"
+            ]
+          },
+          {
+            "en": "Minerals and Rocks",
+            "hi": "खनिज एवं शैल",
+            "topics_en": [
+              "Classification of minerals",
+              "Types of rocks",
+              "Rock cycle"
+            ],
+            "topics_hi": [
+              "खनिजों का वर्गीकरण",
+              "शैलों के प्रकार",
+              "शैल चक्र"
+            ]
+          },
+          {
+            "en": "Geomorphic Processes",
+            "hi": "भू-आकृतिक प्रक्रियाएँ",
+            "topics_en": [
+              "Endogenous and exogenous forces",
+              "Weathering",
+              "Mass movement"
+            ],
+            "topics_hi": [
+              "अंतर्जात और बहिर्जात बल",
+              "अपक्षय",
+              "भू-स्खलन"
+            ]
+          },
+          {
+            "en": "Landforms and their Evolution",
+            "hi": "भू-आकृतियाँ और उनका विकास",
+            "topics_en": [
+              "Work of rivers, glaciers",
+              "Wind and wave action",
+              "Karst topography"
+            ],
+            "topics_hi": [
+              "नदी, हिमनद, पवन का कार्य",
+              "कार्स्ट स्थलाकृति"
+            ]
+          },
+          {
+            "en": "Composition and Structure of Atmosphere",
+            "hi": "वायुमंडल की संरचना तथा संघटन",
+            "topics_en": [
+              "Layers of atmosphere",
+              "Composition",
+              "Ozone layer"
+            ],
+            "topics_hi": [
+              "वायुमंडल की परतें",
+              "ओजोन परत"
+            ]
+          },
+          {
+            "en": "Solar Radiation, Heat Balance and Temperature",
+            "hi": "सौर विकिरण, ऊष्मा संतुलन एवं तापमान",
+            "topics_en": [
+              "Insolation",
+              "Albedo",
+              "Heat budget of Earth"
+            ],
+            "topics_hi": [
+              "सूर्यातप",
+              "एल्बिडो",
+              "पृथ्वी का ऊष्मा बजट"
+            ]
+          },
+          {
+            "en": "Atmospheric Circulation and Weather Systems",
+            "hi": "वायुमंडलीय परिसंचरण एवं मौसम प्रणाली",
+            "topics_en": [
+              "Pressure belts",
+              "Winds — planetary, periodic",
+              "Cyclones, anticyclones"
+            ],
+            "topics_hi": [
+              "दाब कटिबंध",
+              "पवन",
+              "चक्रवात, प्रतिचक्रवात"
+            ]
+          },
+          {
+            "en": "Water in the Atmosphere",
+            "hi": "वायुमंडल में जल",
+            "topics_en": [
+              "Humidity, evaporation",
+              "Clouds and precipitation",
+              "Types of rainfall"
+            ],
+            "topics_hi": [
+              "आर्द्रता, वाष्पीकरण",
+              "बादल और वर्षण"
+            ]
+          },
+          {
+            "en": "World Climate and Climate Change",
+            "hi": "विश्व की जलवायु एवं जलवायु परिवर्तन",
+            "topics_en": [
+              "Classification of climates",
+              "Greenhouse effect",
+              "Global warming"
+            ],
+            "topics_hi": [
+              "जलवायु का वर्गीकरण",
+              "ग्रीनहाउस प्रभाव",
+              "वैश्विक ताप वृद्धि"
+            ]
+          },
+          {
+            "en": "Water (Oceans)",
+            "hi": "जल (महासागर)",
+            "topics_en": [
+              "Salinity",
+              "Ocean temperature",
+              "Currents and tides"
+            ],
+            "topics_hi": [
+              "लवणता",
+              "महासागर का तापमान",
+              "धाराएँ और ज्वार"
+            ]
+          },
+          {
+            "en": "Movements of Ocean Water",
+            "hi": "महासागरीय जल की गतियाँ",
+            "topics_en": [
+              "Waves, tides, ocean currents",
+              "Upwelling",
+              "Economic importance"
+            ],
+            "topics_hi": [
+              "तरंगें, ज्वार, महासागरीय धाराएँ"
+            ]
+          },
+          {
+            "en": "Life on the Earth",
+            "hi": "पृथ्वी पर जीवन",
+            "topics_en": [
+              "Biosphere",
+              "Biodiversity",
+              "Ecosystems"
+            ],
+            "topics_hi": [
+              "जीवमंडल",
+              "जैव विविधता",
+              "पारिस्थितिकी तंत्र"
+            ]
+          },
+          {
+            "en": "Biodiversity and Conservation",
+            "hi": "जैव विविधता एवं संरक्षण",
+            "topics_en": [
+              "Importance of biodiversity",
+              "Threats",
+              "Conservation strategies"
+            ],
+            "topics_hi": [
+              "जैव विविधता का महत्व",
+              "खतरे",
+              "संरक्षण उपाय"
+            ]
+          }
+        ],
+        "economics": [
+          {
+            "en": "Indian Economy on the Eve of Independence",
+            "hi": "स्वतंत्रता की पूर्व संध्या पर भारतीय अर्थव्यवस्था",
+            "topics_en": [
+              "Colonial legacy",
+              "Agricultural stagnation",
+              "Industrial underdevelopment",
+              "Foreign trade drain"
+            ],
+            "topics_hi": [
+              "औपनिवेशिक विरासत",
+              "कृषि का ठहराव",
+              "औद्योगिक पिछड़ापन"
+            ]
+          },
+          {
+            "en": "Indian Economy 1950–1990",
+            "hi": "1950-1990 के बीच भारतीय अर्थव्यवस्था",
+            "topics_en": [
+              "Planning and mixed economy",
+              "Public sector role",
+              "Green Revolution",
+              "Industrial policy"
+            ],
+            "topics_hi": [
+              "योजना और मिश्रित अर्थव्यवस्था",
+              "हरित क्रांति",
+              "औद्योगिक नीति"
+            ]
+          },
+          {
+            "en": "Liberalisation, Privatisation and Globalisation",
+            "hi": "उदारीकरण, निजीकरण और वैश्वीकरण",
+            "topics_en": [
+              "1991 crisis",
+              "LPG reforms",
+              "WTO membership",
+              "Impact of globalisation"
+            ],
+            "topics_hi": [
+              "1991 की आर्थिक संकट",
+              "LPG सुधार",
+              "WTO सदस्यता"
+            ]
+          },
+          {
+            "en": "Poverty",
+            "hi": "निर्धनता",
+            "topics_en": [
+              "Poverty line definition",
+              "Causes of poverty",
+              "Anti-poverty measures",
+              "MGNREGA"
+            ],
+            "topics_hi": [
+              "गरीबी रेखा",
+              "निर्धनता के कारण",
+              "MGNREGA"
+            ]
+          },
+          {
+            "en": "Human Capital Formation",
+            "hi": "मानव पूँजी निर्माण",
+            "topics_en": [
+              "Education and health investment",
+              "India's human capital",
+              "Challenges",
+              "Role of government"
+            ],
+            "topics_hi": [
+              "शिक्षा और स्वास्थ्य निवेश",
+              "भारत की मानव पूँजी",
+              "चुनौतियाँ"
+            ]
+          },
+          {
+            "en": "Rural Development",
+            "hi": "ग्रामीण विकास",
+            "topics_en": [
+              "Agricultural credit",
+              "Land reforms",
+              "Rural infrastructure",
+              "Alternative farming"
+            ],
+            "topics_hi": [
+              "कृषि साख",
+              "भूमि सुधार",
+              "ग्रामीण अवसंरचना"
+            ]
+          },
+          {
+            "en": "Employment: Growth, Informalisation and Other Issues",
+            "hi": "रोजगार: संवृद्धि, अनौपचारीकरण और अन्य मुद्दे",
+            "topics_en": [
+              "Worker population ratio",
+              "Informalisation",
+              "Unemployment types",
+              "Policy"
+            ],
+            "topics_hi": [
+              "श्रमिक-जनसंख्या अनुपात",
+              "अनौपचारीकरण",
+              "बेरोजगारी के प्रकार"
+            ]
+          },
+          {
+            "en": "Infrastructure",
+            "hi": "अवसंरचना",
+            "topics_en": [
+              "Meaning and types",
+              "Energy sector",
+              "Health and education infrastructure",
+              "Challenges"
+            ],
+            "topics_hi": [
+              "अर्थ और प्रकार",
+              "ऊर्जा क्षेत्र",
+              "स्वास्थ्य और शिक्षा अवसंरचना"
+            ]
+          },
+          {
+            "en": "Environment and Sustainable Development",
+            "hi": "पर्यावरण और धारणीय विकास",
+            "topics_en": [
+              "Environment as capital",
+              "Pollution and degradation",
+              "Sustainable development goals"
+            ],
+            "topics_hi": [
+              "पर्यावरण एक पूँजी",
+              "प्रदूषण और निम्नीकरण",
+              "SDGs"
+            ]
+          },
+          {
+            "en": "Comparative Development Experiences",
+            "hi": "तुलनात्मक विकास अनुभव",
+            "topics_en": [
+              "India vs China vs Pakistan",
+              "Development indicators",
+              "Policy comparison"
+            ],
+            "topics_hi": [
+              "भारत बनाम चीन बनाम पाकिस्तान",
+              "विकास संकेतक"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "classId": "class12",
+      "subjects": {
+        "politicalScience": [
+          {
+            "en": "The Cold War Era",
+            "hi": "शीत युद्ध का दौर",
+            "topics_en": [
+              "Bi-polar world",
+              "Arms race",
+              "Non-Aligned Movement",
+              "Proxy wars",
+              "End of Cold War"
+            ],
+            "topics_hi": [
+              "द्विध्रुवीय विश्व",
+              "हथियारों की होड़",
+              "गुटनिरपेक्ष आंदोलन",
+              "शीत युद्ध का अंत"
+            ]
+          },
+          {
+            "en": "The End of Bipolarity",
+            "hi": "द्विध्रुवीयता का अंत",
+            "topics_en": [
+              "Disintegration of USSR",
+              "Shock therapy in Russia",
+              "New nations",
+              "India and new Russia"
+            ],
+            "topics_hi": [
+              "USSR का विघटन",
+              "रूस में शॉक थेरेपी",
+              "नए राष्ट्र",
+              "भारत और नया रूस"
+            ]
+          },
+          {
+            "en": "US Hegemony in World Politics",
+            "hi": "विश्व राजनीति में अमेरिकी वर्चस्व",
+            "topics_en": [
+              "Gulf War 1991",
+              "US as sole superpower",
+              "9/11 and War on Terror",
+              "Challenges to US hegemony"
+            ],
+            "topics_hi": [
+              "खाड़ी युद्ध 1991",
+              "एकध्रुवीय महाशक्ति",
+              "9/11 और आतंक के खिलाफ युद्ध"
+            ]
+          },
+          {
+            "en": "Alternative Centres of Power",
+            "hi": "सत्ता के वैकल्पिक केन्द्र",
+            "topics_en": [
+              "Rise of EU",
+              "ASEAN",
+              "China's economic rise",
+              "India as emerging power"
+            ],
+            "topics_hi": [
+              "EU का उदय",
+              "ASEAN",
+              "चीन का आर्थिक उदय",
+              "भारत उभरती शक्ति"
+            ]
+          },
+          {
+            "en": "Contemporary South Asia",
+            "hi": "समकालीन दक्षिण एशिया",
+            "topics_en": [
+              "Democratisation trends",
+              "India-Pakistan conflict",
+              "SAARC",
+              "Relations with neighbours"
+            ],
+            "topics_hi": [
+              "लोकतंत्रीकरण",
+              "भारत-पाकिस्तान संघर्ष",
+              "SAARC"
+            ]
+          },
+          {
+            "en": "International Organisations",
+            "hi": "अंतर्राष्ट्रीय संगठन",
+            "topics_en": [
+              "UN structure and functions",
+              "Reforms of UN",
+              "IMF and World Bank",
+              "NGOs"
+            ],
+            "topics_hi": [
+              "UN — संरचना और कार्य",
+              "UN में सुधार",
+              "IMF और विश्व बैंक"
+            ]
+          },
+          {
+            "en": "Security in the Contemporary World",
+            "hi": "समकालीन विश्व में सुरक्षा",
+            "topics_en": [
+              "Traditional vs non-traditional security",
+              "Terrorism",
+              "Human security",
+              "Disarmament"
+            ],
+            "topics_hi": [
+              "पारंपरिक और गैर-पारंपरिक सुरक्षा",
+              "आतंकवाद",
+              "निरस्त्रीकरण"
+            ]
+          },
+          {
+            "en": "Environment and Natural Resources",
+            "hi": "पर्यावरण और प्राकृतिक संसाधन",
+            "topics_en": [
+              "Global commons",
+              "Climate change negotiations",
+              "Kyoto Protocol",
+              "North-South divide"
+            ],
+            "topics_hi": [
+              "वैश्विक सामूहिक वस्तुएँ",
+              "जलवायु परिवर्तन वार्ता",
+              "क्योटो प्रोटोकॉल"
+            ]
+          },
+          {
+            "en": "Globalisation",
+            "hi": "वैश्वीकरण",
+            "topics_en": [
+              "Concepts of globalisation",
+              "Economic and cultural globalisation",
+              "Resistance movements",
+              "India and globalisation"
+            ],
+            "topics_hi": [
+              "वैश्वीकरण की अवधारणाएँ",
+              "आर्थिक और सांस्कृतिक वैश्वीकरण",
+              "भारत और वैश्वीकरण"
+            ]
+          }
+        ],
+        "politicsInIndia": [
+          {
+            "en": "Challenges of Nation Building",
+            "hi": "राष्ट्र-निर्माण की चुनौतियाँ",
+            "topics_en": [
+              "Partition legacy",
+              "Integration of princely states",
+              "Reorganisation of states"
+            ],
+            "topics_hi": [
+              "विभाजन की विरासत",
+              "रियासतों का एकीकरण",
+              "राज्यों का पुनर्गठन"
+            ]
+          },
+          {
+            "en": "Era of One-Party Dominance",
+            "hi": "एक दल के प्रभुत्व का दौर",
+            "topics_en": [
+              "Congress dominance",
+              "First three general elections",
+              "Socialist and communal parties"
+            ],
+            "topics_hi": [
+              "कांग्रेस का वर्चस्व",
+              "पहले तीन आम चुनाव"
+            ]
+          },
+          {
+            "en": "Politics of Planned Development",
+            "hi": "नियोजित विकास की राजनीति",
+            "topics_en": [
+              "Five Year Plans",
+              "Mixed economy",
+              "Controversy over development model"
+            ],
+            "topics_hi": [
+              "पंचवर्षीय योजनाएँ",
+              "मिश्रित अर्थव्यवस्था",
+              "विकास मॉडल पर विवाद"
+            ]
+          },
+          {
+            "en": "India's External Relations",
+            "hi": "भारत के विदेश संबंध",
+            "topics_en": [
+              "Non-Alignment",
+              "India-China War 1962",
+              "India-Pakistan Wars",
+              "Nuclear policy"
+            ],
+            "topics_hi": [
+              "गुटनिरपेक्षता",
+              "भारत-चीन युद्ध 1962",
+              "भारत-पाकिस्तान युद्ध"
+            ]
+          },
+          {
+            "en": "Challenges to the Congress System",
+            "hi": "कांग्रेस प्रणाली को चुनौतियाँ",
+            "topics_en": [
+              "Non-Congress governments",
+              "Indira Gandhi's rise",
+              "1967 elections"
+            ],
+            "topics_hi": [
+              "गैर-कांग्रेसी सरकारें",
+              "इंदिरा गांधी का उदय",
+              "1967 के चुनाव"
+            ]
+          },
+          {
+            "en": "The Crisis of Democratic Order",
+            "hi": "लोकतांत्रिक व्यवस्था का संकट",
+            "topics_en": [
+              "1971 elections",
+              "JP movement",
+              "Emergency 1975–77",
+              "Aftermath"
+            ],
+            "topics_hi": [
+              "1971 के चुनाव",
+              "JP आंदोलन",
+              "आपातकाल 1975-77"
+            ]
+          },
+          {
+            "en": "Rise of Popular Movements",
+            "hi": "जन आंदोलनों का उदय",
+            "topics_en": [
+              "Chipko movement",
+              "Dalit movement",
+              "Anti-arrack movement",
+              "Farmers' movements"
+            ],
+            "topics_hi": [
+              "चिपको आंदोलन",
+              "दलित आंदोलन",
+              "किसान आंदोलन"
+            ]
+          },
+          {
+            "en": "Regional Aspirations",
+            "hi": "क्षेत्रीय आकांक्षाएँ",
+            "topics_en": [
+              "Punjab crisis",
+              "Northeast insurgencies",
+              "Jammu & Kashmir",
+              "Demands for statehood"
+            ],
+            "topics_hi": [
+              "पंजाब संकट",
+              "पूर्वोत्तर",
+              "जम्मू-कश्मीर"
+            ]
+          },
+          {
+            "en": "Recent Developments in Indian Politics",
+            "hi": "भारतीय राजनीति: नए बदलाव",
+            "topics_en": [
+              "Coalition era",
+              "BJP's rise",
+              "Social justice politics",
+              "New issues"
+            ],
+            "topics_hi": [
+              "गठबंधन का युग",
+              "BJP का उदय",
+              "सामाजिक न्याय की राजनीति"
+            ]
+          }
+        ],
+        "humanGeography": [
+          {
+            "en": "Human Geography: Nature and Scope",
+            "hi": "मानव भूगोल: प्रकृति एवं विषय क्षेत्र",
+            "topics_en": [
+              "Nature of human geography",
+              "Naturalism and possibilism",
+              "Schools of thought"
+            ],
+            "topics_hi": [
+              "मानव भूगोल की प्रकृति",
+              "नियतिवाद और संभाववाद"
+            ]
+          },
+          {
+            "en": "The World Population: Distribution, Density and Growth",
+            "hi": "विश्व जनसंख्या: वितरण, घनत्व और वृद्धि",
+            "topics_en": [
+              "Population distribution",
+              "Factors affecting density",
+              "Population growth and change"
+            ],
+            "topics_hi": [
+              "जनसंख्या वितरण",
+              "घनत्व को प्रभावित करने वाले कारक"
+            ]
+          },
+          {
+            "en": "Population Composition",
+            "hi": "जनसंख्या संघटन",
+            "topics_en": [
+              "Sex ratio",
+              "Age structure",
+              "Literacy, occupation",
+              "Demographic dividend"
+            ],
+            "topics_hi": [
+              "लिंगानुपात",
+              "आयु संरचना",
+              "साक्षरता, व्यवसाय"
+            ]
+          },
+          {
+            "en": "Human Development",
+            "hi": "मानव विकास",
+            "topics_en": [
+              "Concept and indicators",
+              "HDI components",
+              "International comparisons"
+            ],
+            "topics_hi": [
+              "अवधारणा और संकेतक",
+              "HDI घटक"
+            ]
+          },
+          {
+            "en": "Primary Activities",
+            "hi": "प्राथमिक क्रियाएँ",
+            "topics_en": [
+              "Gathering and pastoral",
+              "Mining",
+              "Agriculture types"
+            ],
+            "topics_hi": [
+              "संग्रहण और पशुपालन",
+              "खनन",
+              "कृषि के प्रकार"
+            ]
+          },
+          {
+            "en": "Secondary Activities",
+            "hi": "द्वितीयक क्रियाएँ",
+            "topics_en": [
+              "Manufacturing types",
+              "Industrial regions",
+              "Footloose industries"
+            ],
+            "topics_hi": [
+              "विनिर्माण के प्रकार",
+              "औद्योगिक प्रदेश"
+            ]
+          },
+          {
+            "en": "Tertiary and Quaternary Activities",
+            "hi": "तृतीयक और चतुर्थ क्रियाएँ",
+            "topics_en": [
+              "Trade, transport, communication",
+              "Outsourcing",
+              "Knowledge economy"
+            ],
+            "topics_hi": [
+              "व्यापार, परिवहन, संचार",
+              "ज्ञान अर्थव्यवस्था"
+            ]
+          },
+          {
+            "en": "Transport and Communication",
+            "hi": "परिवहन एवं संचार",
+            "topics_en": [
+              "Roads, rail, waterways, airways",
+              "Communication revolution",
+              "Satellite networks"
+            ],
+            "topics_hi": [
+              "सड़क, रेल, जलमार्ग",
+              "संचार क्रांति"
+            ]
+          },
+          {
+            "en": "International Trade",
+            "hi": "अंतर्राष्ट्रीय व्यापार",
+            "topics_en": [
+              "Basis and patterns",
+              "WTO",
+              "Trading blocs"
+            ],
+            "topics_hi": [
+              "आधार और पैटर्न",
+              "व्यापार गुट"
+            ]
+          },
+          {
+            "en": "Human Settlements",
+            "hi": "मानव बस्तियाँ",
+            "topics_en": [
+              "Types of settlements",
+              "Functional classification",
+              "Urbanisation"
+            ],
+            "topics_hi": [
+              "बस्तियों के प्रकार",
+              "नगरीकरण"
+            ]
+          }
+        ],
+        "indiaPeopleEconomy": [
+          {
+            "en": "Population: Distribution, Density, Growth and Composition",
+            "hi": "जनसंख्या: वितरण, घनत्व, वृद्धि और संघटन",
+            "topics_en": [
+              "State-wise distribution",
+              "Urban-rural composition",
+              "Migrants and migration"
+            ],
+            "topics_hi": [
+              "राज्यवार वितरण",
+              "शहरी-ग्रामीण संघटन",
+              "प्रवासी"
+            ]
+          },
+          {
+            "en": "Migration: Types, Causes and Consequences",
+            "hi": "प्रवास: प्रकार, कारण और परिणाम",
+            "topics_en": [
+              "Push and pull factors",
+              "Internal and international migration",
+              "Impact on source and destination"
+            ],
+            "topics_hi": [
+              "अपकर्ष और प्रतिकर्षण कारक",
+              "आंतरिक और अंतर्राष्ट्रीय प्रवास"
+            ]
+          },
+          {
+            "en": "Human Development",
+            "hi": "मानव विकास",
+            "topics_en": [
+              "India's HDI",
+              "State-wise disparities",
+              "Gender development index"
+            ],
+            "topics_hi": [
+              "भारत का HDI",
+              "राज्यवार असमानताएँ",
+              "लैंगिक विकास सूचकांक"
+            ]
+          },
+          {
+            "en": "Human Settlements",
+            "hi": "मानव बस्तियाँ",
+            "topics_en": [
+              "Rural settlement patterns",
+              "Urban growth",
+              "Smart cities"
+            ],
+            "topics_hi": [
+              "ग्रामीण बस्ती पैटर्न",
+              "शहरी वृद्धि",
+              "स्मार्ट शहर"
+            ]
+          },
+          {
+            "en": "Land Resources and Agriculture",
+            "hi": "भूमि संसाधन और कृषि",
+            "topics_en": [
+              "Land use in India",
+              "Agricultural regions",
+              "Technological inputs",
+              "Food security"
+            ],
+            "topics_hi": [
+              "भारत में भूमि उपयोग",
+              "कृषि प्रदेश",
+              "तकनीकी निवेश"
+            ]
+          },
+          {
+            "en": "Water Resources",
+            "hi": "जल संसाधन",
+            "topics_en": [
+              "Groundwater depletion",
+              "Inter-basin transfer",
+              "Rainwater harvesting"
+            ],
+            "topics_hi": [
+              "भूजल की कमी",
+              "अंतर-बेसिन स्थानांतरण",
+              "वर्षा जल संग्रहण"
+            ]
+          },
+          {
+            "en": "Mineral and Energy Resources",
+            "hi": "खनिज और ऊर्जा संसाधन",
+            "topics_en": [
+              "Distribution of minerals",
+              "Energy crisis",
+              "Renewable energy push"
+            ],
+            "topics_hi": [
+              "खनिजों का वितरण",
+              "ऊर्जा संकट",
+              "नवीकरणीय ऊर्जा"
+            ]
+          },
+          {
+            "en": "Manufacturing Industries",
+            "hi": "विनिर्माण उद्योग",
+            "topics_en": [
+              "Agro-based industries",
+              "Steel and cement",
+              "IT industry clusters"
+            ],
+            "topics_hi": [
+              "कृषि आधारित उद्योग",
+              "इस्पात और सीमेंट",
+              "IT उद्योग समूह"
+            ]
+          },
+          {
+            "en": "Planning and Sustainable Development",
+            "hi": "नियोजन और सतत् विकास",
+            "topics_en": [
+              "Five year plans to NITI Aayog",
+              "Sustainable development goals",
+              "Case studies"
+            ],
+            "topics_hi": [
+              "पंचवर्षीय योजनाओं से नीति आयोग तक",
+              "SDGs"
+            ]
+          },
+          {
+            "en": "Transport and Communication",
+            "hi": "परिवहन और संचार",
+            "topics_en": [
+              "National highway network",
+              "Rail network",
+              "IT and telecom"
+            ],
+            "topics_hi": [
+              "राष्ट्रीय राजमार्ग नेटवर्क",
+              "रेल नेटवर्क",
+              "IT और दूरसंचार"
+            ]
+          },
+          {
+            "en": "International Trade",
+            "hi": "अंतर्राष्ट्रीय व्यापार",
+            "topics_en": [
+              "India's trade partners",
+              "Composition of trade",
+              "Trade balance"
+            ],
+            "topics_hi": [
+              "भारत के व्यापारिक साझेदार",
+              "व्यापार संतुलन"
+            ]
+          },
+          {
+            "en": "Geographical Perspective on Selected Issues",
+            "hi": "चयनित मुद्दों पर भौगोलिक दृष्टिकोण",
+            "topics_en": [
+              "Land degradation",
+              "Urban waste management",
+              "Water pollution"
+            ],
+            "topics_hi": [
+              "भूमि निम्नीकरण",
+              "शहरी अपशिष्ट प्रबंधन",
+              "जल प्रदूषण"
+            ]
+          }
+        ],
+        "macroEconomics": [
+          {
+            "en": "Introduction to Macroeconomics",
+            "hi": "समष्टि अर्थशास्त्र का परिचय",
+            "topics_en": [
+              "Micro vs macro",
+              "Circular flow of income",
+              "Economic agents"
+            ],
+            "topics_hi": [
+              "व्यष्टि बनाम समष्टि",
+              "आय का चक्रीय प्रवाह",
+              "आर्थिक कर्ता"
+            ]
+          },
+          {
+            "en": "National Income Accounting",
+            "hi": "राष्ट्रीय आय का लेखांकन",
+            "topics_en": [
+              "GDP, GNP, NNP, NDP",
+              "Methods of measurement",
+              "Real vs nominal GDP"
+            ],
+            "topics_hi": [
+              "GDP, GNP, NNP, NDP",
+              "माप की विधियाँ",
+              "वास्तविक बनाम नाममात्र GDP"
+            ]
+          },
+          {
+            "en": "Money and Banking",
+            "hi": "मुद्रा और बैंकिंग",
+            "topics_en": [
+              "Functions of money",
+              "Commercial banks",
+              "Central Bank — RBI",
+              "Credit creation"
+            ],
+            "topics_hi": [
+              "मुद्रा के कार्य",
+              "वाणिज्यिक बैंक",
+              "केंद्रीय बैंक — RBI",
+              "साख निर्माण"
+            ]
+          },
+          {
+            "en": "Determination of Income and Employment",
+            "hi": "आय और रोजगार का निर्धारण",
+            "topics_en": [
+              "Effective demand",
+              "Consumption and saving functions",
+              "Multiplier effect"
+            ],
+            "topics_hi": [
+              "प्रभावी माँग",
+              "उपभोग और बचत",
+              "गुणक प्रभाव"
+            ]
+          },
+          {
+            "en": "Government Budget and Economy",
+            "hi": "सरकारी बजट और अर्थव्यवस्था",
+            "topics_en": [
+              "Components of budget",
+              "Fiscal deficit",
+              "Revenue and capital receipts",
+              "Types of taxes"
+            ],
+            "topics_hi": [
+              "बजट के घटक",
+              "राजकोषीय घाटा",
+              "करों के प्रकार"
+            ]
+          },
+          {
+            "en": "Open Economy Macroeconomics",
+            "hi": "खुली अर्थव्यवस्था: समष्टि अर्थशास्त्र",
+            "topics_en": [
+              "Balance of Payments",
+              "Foreign exchange market",
+              "Exchange rate systems"
+            ],
+            "topics_hi": [
+              "भुगतान संतुलन",
+              "विदेशी विनिमय बाजार",
+              "विनिमय दर प्रणाली"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

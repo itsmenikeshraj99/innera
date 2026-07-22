@@ -1,0 +1,883 @@
+{
+  "subjectId": "science",
+  "classes": [
+    {
+      "classId": "class6",
+      "subjects": {
+        "physics": [
+          {
+            "en": "Motion and Measurement of Distances",
+            "hi": "गति एवं दूरियों का मापन",
+            "topics": [
+              {"en": "Story of transport and need for measurement", "hi": "परिवहन की कहानी एवं मापन की आवश्यकता"},
+              {"en": "Standard units of measurement (SI units)", "hi": "मापन के मानक मात्रक (SI मात्रक)"},
+              {"en": "Correct method of measuring length", "hi": "लंबाई मापने की सही विधि"},
+              {"en": "Measuring length of a curved line", "hi": "वक्र रेखा की लंबाई मापना"},
+              {"en": "Types of motion: rectilinear, circular, periodic", "hi": "गति के प्रकार: सरल रेखीय, वृत्तीय, आवर्ती"}
+            ]
+          },
+          {
+            "en": "Light, Shadows and Reflections",
+            "hi": "प्रकाश, छाया एवं परावर्तन",
+            "topics": [
+              {"en": "Transparent, opaque and translucent objects", "hi": "पारदर्शी, अपारदर्शी एवं पारभासी वस्तुएँ"},
+              {"en": "Formation and characteristics of shadows", "hi": "छाया का बनना एवं इसकी विशेषताएँ"},
+              {"en": "Pinhole camera", "hi": "पिनहोल कैमरा"},
+              {"en": "Mirrors and reflection of light", "hi": "दर्पण एवं प्रकाश का परावर्तन"}
+            ]
+          },
+          {
+            "en": "Electricity and Circuits",
+            "hi": "विद्युत तथा परिपथ",
+            "topics": [
+              {"en": "Electric cell, bulb and connecting wires", "hi": "विद्युत सेल, बल्ब एवं संयोजक तार"},
+              {"en": "Complete and open electric circuit", "hi": "पूर्ण एवं खुला विद्युत परिपथ"},
+              {"en": "Conductors and insulators", "hi": "चालक एवं कुचालक"},
+              {"en": "Electric switches and their working", "hi": "विद्युत स्विच एवं इनकी कार्यप्रणाली"}
+            ]
+          },
+          {
+            "en": "Fun with Magnets",
+            "hi": "चुंबकों से मित्रता",
+            "topics": [
+              {"en": "Natural and artificial magnets", "hi": "प्राकृतिक एवं कृत्रिम चुंबक"},
+              {"en": "Poles of a magnet", "hi": "चुंबक के ध्रुव"},
+              {"en": "Attraction and repulsion between magnets", "hi": "चुंबकों के बीच आकर्षण एवं प्रतिकर्षण"},
+              {"en": "Finding directions using a magnetic compass", "hi": "दिक्सूचक द्वारा दिशा ज्ञात करना"}
+            ]
+          }
+        ],
+        "chemistry": [
+          {
+            "en": "Sorting Materials into Groups",
+            "hi": "वस्तुओं के समूह बनाना",
+            "topics": [
+              {"en": "Objects around us and their properties", "hi": "हमारे आस-पास की वस्तुएँ एवं उनके गुण"},
+              {"en": "Appearance, hardness and solubility", "hi": "दिखावट, कठोरता एवं घुलनशीलता"},
+              {"en": "Objects that float or sink", "hi": "तैरने या डूबने वाली वस्तुएँ"},
+              {"en": "Transparency of materials", "hi": "पदार्थों की पारदर्शिता"}
+            ]
+          },
+          {
+            "en": "Separation of Substances",
+            "hi": "पदार्थों का पृथक्करण",
+            "topics": [
+              {"en": "Why do we need to separate substances", "hi": "पदार्थों को अलग करने की आवश्यकता क्यों"},
+              {"en": "Handpicking, threshing, winnowing, sieving", "hi": "हाथ से चुनना, दंराई, ओसाना, छानना"},
+              {"en": "Sedimentation, decantation, filtration", "hi": "अवसादन, निथारना, निस्यंदन"},
+              {"en": "Evaporation and its uses", "hi": "वाष्पन एवं इसके उपयोग"}
+            ]
+          },
+          {
+            "en": "Changes Around Us",
+            "hi": "हमारे चारों ओर होने वाले परिवर्तन",
+            "topics": [
+              {"en": "Reversible and irreversible changes", "hi": "उत्क्रमणीय एवं अनुत्क्रमणीय परिवर्तन"},
+              {"en": "Changes by heating and cooling", "hi": "गर्म करने एवं ठंडा करने से होने वाले परिवर्तन"},
+              {"en": "Changes involving mixing of substances", "hi": "पदार्थों के मिश्रण से होने वाले परिवर्तन"}
+            ]
+          },
+          {
+            "en": "Water",
+            "hi": "जल",
+            "topics": [
+              {"en": "Sources of water", "hi": "जल के स्रोत"},
+              {"en": "Water cycle", "hi": "जल चक्र"},
+              {"en": "Measurement of rainfall", "hi": "वर्षा का मापन"},
+              {"en": "Effects of scarcity and excess of water", "hi": "जल की कमी एवं अधिकता के प्रभाव"}
+            ]
+          },
+          {
+            "en": "Air Around Us",
+            "hi": "हमारे चारों ओर वायु",
+            "topics": [
+              {"en": "Composition of air", "hi": "वायु की संरचना"},
+              {"en": "Role of oxygen in burning and breathing", "hi": "दहन एवं श्वसन में ऑक्सीजन की भूमिका"},
+              {"en": "How aquatic organisms get oxygen", "hi": "जलीय जीवों को ऑक्सीजन कैसे मिलती है"}
+            ]
+          }
+        ],
+        "biology": [
+          {
+            "en": "Food: Where Does It Come From?",
+            "hi": "भोजन: यह कहाँ से आता है?",
+            "topics": [
+              {"en": "Food materials and their sources", "hi": "खाद्य सामग्री एवं इनके स्रोत"},
+              {"en": "Plant products and animal products", "hi": "पादप उत्पाद एवं प्राणि उत्पाद"},
+              {"en": "What different animals eat", "hi": "विभिन्न प्राणी क्या खाते हैं"}
+            ]
+          },
+          {
+            "en": "Components of Food",
+            "hi": "भोजन के घटक",
+            "topics": [
+              {"en": "Nutrients: carbohydrates, proteins, fats", "hi": "पोषक तत्व: कार्बोहाइड्रेट, प्रोटीन, वसा"},
+              {"en": "Vitamins and minerals", "hi": "विटामिन एवं खनिज"},
+              {"en": "Balanced diet", "hi": "संतुलित आहार"},
+              {"en": "Deficiency diseases", "hi": "अभाव जनित रोग"}
+            ]
+          },
+          {
+            "en": "Fibre to Fabric",
+            "hi": "रेशों से वस्त्र तक",
+            "topics": [
+              {"en": "Plant fibres: cotton and jute", "hi": "पादप रेशे: कपास एवं जूट"},
+              {"en": "Animal fibres: wool and silk", "hi": "प्राणि रेशे: ऊन एवं रेशम"},
+              {"en": "Brief history of clothing", "hi": "वस्त्रों का संक्षिप्त इतिहास"}
+            ]
+          },
+          {
+            "en": "Living Organisms and Their Surroundings",
+            "hi": "सजीव एवं इनका परिवेश",
+            "topics": [
+              {"en": "Habitat and adaptation", "hi": "आवास एवं अनुकूलन"},
+              {"en": "Biotic and abiotic components", "hi": "सजीव एवं निर्जीव घटक"},
+              {"en": "Characteristics of living organisms", "hi": "सजीवों की विशेषताएँ"}
+            ]
+          },
+          {
+            "en": "Body Movements",
+            "hi": "शरीर में गति",
+            "topics": [
+              {"en": "Human skeletal system and joints", "hi": "मानव कंकाल तंत्र एवं संधियाँ"},
+              {"en": "Movement in earthworm, snail, cockroach", "hi": "केंचुआ, घोंघा, तिलचट्टे में गति"},
+              {"en": "Movement in birds, fish and snakes", "hi": "पक्षी, मछली एवं साँप में गति"}
+            ]
+          },
+          {
+            "en": "Garbage In, Garbage Out",
+            "hi": "कचरा: संग्रहण एवं निपटान",
+            "topics": [
+              {"en": "Waste disposal methods", "hi": "अपशिष्ट निपटान की विधियाँ"},
+              {"en": "Vermicomposting", "hi": "वर्मी-कंपोस्टिंग"},
+              {"en": "Recycling of paper and plastics", "hi": "कागज एवं प्लास्टिक का पुनर्चक्रण"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "classId": "class7",
+      "subjects": {
+        "physics": [
+          {
+            "en": "Heat", "hi": "ऊष्मा",
+            "topics": [
+              {"en": "Hot and cold; temperature", "hi": "गर्म एवं ठंडा; ताप"},
+              {"en": "Clinical and laboratory thermometers", "hi": "चिकित्सा एवं प्रयोगशाला थर्मामीटर"},
+              {"en": "Transfer of heat: conduction, convection, radiation", "hi": "ऊष्मा का स्थानांतरण: चालन, संवहन, विकिरण"},
+              {"en": "Sea breeze and land breeze", "hi": "समुद्री एवं स्थलीय समीर"}
+            ]
+          },
+          {
+            "en": "Motion and Time", "hi": "गति एवं समय",
+            "topics": [
+              {"en": "Slow and fast motion", "hi": "धीमी एवं तेज़ गति"},
+              {"en": "Speed and its units", "hi": "चाल एवं इसके मात्रक"},
+              {"en": "Simple pendulum and time period", "hi": "सरल लोलक एवं आवर्तकाल"},
+              {"en": "Distance-time graph", "hi": "दूरी-समय ग्राफ"}
+            ]
+          },
+          {
+            "en": "Electric Current and Its Effects", "hi": "विद्युत धारा एवं इसके प्रभाव",
+            "topics": [
+              {"en": "Symbols of electric components", "hi": "विद्युत घटकों के प्रतीक"},
+              {"en": "Heating effect of electric current", "hi": "विद्युत धारा का ऊष्मीय प्रभाव"},
+              {"en": "Magnetic effect of current; electromagnet", "hi": "धारा का चुंबकीय प्रभाव; विद्युत चुंबक"},
+              {"en": "Electric bell", "hi": "विद्युत घंटी"}
+            ]
+          },
+          {
+            "en": "Light", "hi": "प्रकाश",
+            "topics": [
+              {"en": "Reflection of light and lateral inversion", "hi": "प्रकाश का परावर्तन एवं पार्श्व प्रतिलोमन"},
+              {"en": "Multiple images with two or more mirrors", "hi": "दो या अधिक दर्पणों से बहु प्रतिबिंब"},
+              {"en": "Concave and convex mirrors/lenses", "hi": "अवतल एवं उत्तल दर्पण/लेंस"},
+              {"en": "Sunlight: white or coloured", "hi": "सूर्य का प्रकाश: श्वेत या रंगीन"}
+            ]
+          }
+        ],
+        "chemistry": [
+          {
+            "en": "Acids, Bases and Salts", "hi": "अम्ल, क्षारक एवं लवण",
+            "topics": [
+              {"en": "Natural indicators: litmus, turmeric", "hi": "प्राकृतिक सूचक: लिटमस, हल्दी"},
+              {"en": "Neutralisation reaction", "hi": "उदासीनीकरण अभिक्रिया"},
+              {"en": "Applications in daily life", "hi": "दैनिक जीवन में उपयोग"}
+            ]
+          },
+          {
+            "en": "Physical and Chemical Changes", "hi": "भौतिक एवं रासायनिक परिवर्तन",
+            "topics": [
+              {"en": "Characteristics of physical and chemical changes", "hi": "भौतिक एवं रासायनिक परिवर्तनों की विशेषताएँ"},
+              {"en": "Rusting of iron and its prevention", "hi": "लोहे में जंग लगना एवं रोकथाम"},
+              {"en": "Crystallisation", "hi": "क्रिस्टलीकरण"}
+            ]
+          },
+          {
+            "en": "Water: A Precious Resource", "hi": "जल: एक अनमोल संसाधन",
+            "topics": [
+              {"en": "Water table and its depletion", "hi": "भूजल स्तर एवं इसकी कमी"},
+              {"en": "Distribution of water and scarcity", "hi": "जल का वितरण एवं जल संकट"},
+              {"en": "Rainwater harvesting", "hi": "वर्षा जल संग्रहण"}
+            ]
+          }
+        ],
+        "biology": [
+          {
+            "en": "Nutrition in Plants", "hi": "पादपों में पोषण",
+            "topics": [
+              {"en": "Modes of nutrition: autotrophic, heterotrophic", "hi": "पोषण के प्रकार: स्वपोषी, विषमपोषी"},
+              {"en": "Process of photosynthesis", "hi": "प्रकाश संश्लेषण की प्रक्रिया"},
+              {"en": "Saprophytes, parasites, symbiosis", "hi": "मृतजीवी, परजीवी, सहजीवन"},
+              {"en": "Insectivorous plants", "hi": "कीटभक्षी पादप"}
+            ]
+          },
+          {
+            "en": "Nutrition in Animals", "hi": "प्राणियों में पोषण",
+            "topics": [
+              {"en": "Different modes of taking food", "hi": "भोजन ग्रहण करने के विभिन्न तरीके"},
+              {"en": "Digestion in humans", "hi": "मानव में पाचन"},
+              {"en": "Digestion in grass-eating animals and amoeba", "hi": "रोमन्थी प्राणियों एवं अमीबा में पाचन"}
+            ]
+          },
+          {
+            "en": "Fibre to Fabric", "hi": "रेशों से वस्त्र तक",
+            "topics": [
+              {"en": "Wool: rearing and processing", "hi": "ऊन: पालन एवं प्रसंस्करण"},
+              {"en": "Silk: sericulture", "hi": "रेशम: रेशम उत्पादन"},
+              {"en": "Life history of silk moth", "hi": "रेशम कीट का जीवन चक्र"}
+            ]
+          },
+          {
+            "en": "Weather, Climate and Adaptations of Animals", "hi": "मौसम, जलवायु एवं जीवों का अनुकूलन",
+            "topics": [
+              {"en": "Weather versus climate", "hi": "मौसम बनाम जलवायु"},
+              {"en": "Climate of polar and tropical regions", "hi": "ध्रुवीय एवं उष्णकटिबंधीय क्षेत्रों की जलवायु"},
+              {"en": "Adaptations in polar bear, penguin, lion", "hi": "ध्रुवीय भालू, पेंगुइन, शेर में अनुकूलन"}
+            ]
+          },
+          {
+            "en": "Winds, Storms and Cyclones", "hi": "पवन, तूफान एवं चक्रवात",
+            "topics": [
+              {"en": "Air exerts pressure", "hi": "वायु दाब डालती है"},
+              {"en": "High speed winds and destruction", "hi": "तेज़ हवाओं से हानि"},
+              {"en": "Formation of thunderstorm and cyclone", "hi": "तड़ित तूफान एवं चक्रवात का निर्माण"},
+              {"en": "Cyclone safety measures", "hi": "चक्रवात सुरक्षा उपाय"}
+            ]
+          },
+          {
+            "en": "Soil", "hi": "मृदा",
+            "topics": [
+              {"en": "Soil profile and types (sandy, clayey, loamy)", "hi": "मृदा प्रोफाइल एवं प्रकार (बलुई, चिकनी, दोमट)"},
+              {"en": "Soil properties: percolation rate, moisture", "hi": "मृदा के गुण: रिसाव दर, नमी"},
+              {"en": "Soil and crops", "hi": "मृदा एवं फसलें"}
+            ]
+          },
+          {
+            "en": "Respiration in Organisms", "hi": "जीवों में श्वसन",
+            "topics": [
+              {"en": "Why organisms respire", "hi": "जीव श्वसन क्यों करते हैं"},
+              {"en": "Aerobic and anaerobic breathing", "hi": "वायवीय एवं अवायवीय श्वसन"},
+              {"en": "Human respiratory system", "hi": "मानव श्वसन तंत्र"},
+              {"en": "Respiration in fish, insects, earthworm", "hi": "मछली, कीट, केंचुआ में श्वसन"}
+            ]
+          },
+          {
+            "en": "Transportation in Animals and Plants", "hi": "जंतुओं तथा पादपों में परिवहन",
+            "topics": [
+              {"en": "Human circulatory system: heart, vessels, blood", "hi": "मानव परिसंचरण तंत्र: हृदय, रक्त वाहिकाएँ, रक्त"},
+              {"en": "Excretion in humans", "hi": "मानव में उत्सर्जन"},
+              {"en": "Transport in plants: xylem and phloem", "hi": "पादपों में परिवहन: जाइलम एवं फ्लोएम"}
+            ]
+          },
+          {
+            "en": "Reproduction in Plants", "hi": "पादपों में जनन",
+            "topics": [
+              {"en": "Asexual reproduction: budding, fragmentation, spore formation", "hi": "अलैंगिक जनन: मुकुलन, खंडन, बीजाणु निर्माण"},
+              {"en": "Vegetative propagation", "hi": "कायिक प्रवर्धन"},
+              {"en": "Pollination and fertilisation", "hi": "परागण एवं निषेचन"},
+              {"en": "Seed/fruit formation and dispersal", "hi": "बीज/फल निर्माण एवं प्रकीर्णन"}
+            ]
+          },
+          {
+            "en": "Forests: Our Lifeline", "hi": "वन: हमारी जीवनरेखा",
+            "topics": [
+              {"en": "Forest as an ecosystem", "hi": "वन एक पारिस्थितिकी तंत्र के रूप में"},
+              {"en": "Interdependence of plants and animals", "hi": "पादप एवं प्राणियों की अंतर्निर्भरता"},
+              {"en": "Decomposers and their role", "hi": "अपघटक एवं उनकी भूमिका"}
+            ]
+          },
+          {
+            "en": "Wastewater Story", "hi": "अपशिष्ट जल की कहानी",
+            "topics": [
+              {"en": "Sewage and its treatment", "hi": "वाहित मल एवं इसका उपचार"},
+              {"en": "Sewage treatment plant (STP)", "hi": "वाहित मल उपचार संयंत्र (STP)"},
+              {"en": "Better housekeeping practices", "hi": "बेहतर स्वच्छता प्रथाएँ"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "classId": "class8",
+      "subjects": {
+        "physics": [
+          {
+            "en": "Force and Pressure", "hi": "बल तथा दाब",
+            "topics": [
+              {"en": "Effects of force; types of force", "hi": "बल के प्रभाव; बल के प्रकार"},
+              {"en": "Muscular, contact and non-contact forces", "hi": "पेशीय, स्पर्श एवं अस्पर्श बल"},
+              {"en": "Pressure exerted by liquids and gases", "hi": "द्रव एवं गैसों द्वारा दाब"}
+            ]
+          },
+          {
+            "en": "Friction", "hi": "घर्षण",
+            "topics": [
+              {"en": "Factors affecting friction", "hi": "घर्षण को प्रभावित करने वाले कारक"},
+              {"en": "Friction: friend and foe", "hi": "घर्षण: मित्र एवं शत्रु"},
+              {"en": "Increasing/reducing friction; rolling and fluid friction", "hi": "घर्षण बढ़ाना/घटाना; लोटनिक एवं तरल घर्षण"}
+            ]
+          },
+          {
+            "en": "Sound", "hi": "ध्वनि",
+            "topics": [
+              {"en": "Production of sound by vibration", "hi": "कंपन द्वारा ध्वनि उत्पादन"},
+              {"en": "Propagation, amplitude, frequency, pitch", "hi": "संचरण, आयाम, आवृत्ति, तारत्व"},
+              {"en": "Audible range; noise and music", "hi": "श्रव्य परिसर; शोर एवं संगीत"},
+              {"en": "Noise pollution", "hi": "ध्वनि प्रदूषण"}
+            ]
+          },
+          {
+            "en": "Chemical Effects of Electric Current", "hi": "विद्युत धारा के रासायनिक प्रभाव",
+            "topics": [
+              {"en": "Conduction of electricity in liquids", "hi": "द्रवों में विद्युत का चालन"},
+              {"en": "Electroplating", "hi": "विद्युत लेपन (इलेक्ट्रोप्लेटिंग)"}
+            ]
+          },
+          {
+            "en": "Some Natural Phenomena", "hi": "कुछ प्राकृतिक परिघटनाएँ",
+            "topics": [
+              {"en": "Lightning and charging by rubbing", "hi": "तड़ित एवं रगड़ से आवेशन"},
+              {"en": "Types of charges; electroscope", "hi": "आवेशों के प्रकार; विद्युतदर्शी"},
+              {"en": "Earthquakes and safety measures", "hi": "भूकंप एवं सुरक्षा उपाय"}
+            ]
+          },
+          {
+            "en": "Light", "hi": "प्रकाश",
+            "topics": [
+              {"en": "Reflection and lateral inversion", "hi": "परावर्तन एवं पार्श्व प्रतिलोमन"},
+              {"en": "Structure of human eye and eye care", "hi": "मानव नेत्र की संरचना एवं देखभाल"},
+              {"en": "Braille system", "hi": "ब्रेल लिपि"}
+            ]
+          },
+          {
+            "en": "Stars and the Solar System", "hi": "तारे एवं सौर परिवार",
+            "topics": [
+              {"en": "Phases of the moon", "hi": "चंद्रमा की कलाएँ"},
+              {"en": "Stars and constellations", "hi": "तारे एवं तारामंडल"},
+              {"en": "The Solar System: planets, asteroids, meteors, comets", "hi": "सौर परिवार: ग्रह, क्षुद्रग्रह, उल्का, धूमकेतु"}
+            ]
+          }
+        ],
+        "chemistry": [
+          {
+            "en": "Synthetic Fibres and Plastics", "hi": "संश्लेषित रेशे एवं प्लास्टिक",
+            "topics": [
+              {"en": "Types: rayon, nylon, polyester, acrylic", "hi": "प्रकार: रेयॉन, नायलॉन, पॉलिएस्टर, ऐक्रेलिक"},
+              {"en": "Thermoplastics and thermosetting plastics", "hi": "तापसुघट्य एवं तापदृढ़ प्लास्टिक"},
+              {"en": "Plastics and the environment", "hi": "प्लास्टिक एवं पर्यावरण"}
+            ]
+          },
+          {
+            "en": "Materials: Metals and Non-Metals", "hi": "पदार्थ: धातु एवं अधातु",
+            "topics": [
+              {"en": "Physical and chemical properties", "hi": "भौतिक एवं रासायनिक गुण"},
+              {"en": "Reaction with oxygen, water, acids", "hi": "ऑक्सीजन, जल, अम्ल से अभिक्रिया"},
+              {"en": "Uses of metals and non-metals", "hi": "धातु एवं अधातु के उपयोग"}
+            ]
+          },
+          {
+            "en": "Coal and Petroleum", "hi": "कोयला एवं पेट्रोलियम",
+            "topics": [
+              {"en": "Exhaustible and inexhaustible resources", "hi": "क्षयशील एवं अक्षयशील संसाधन"},
+              {"en": "Formation of coal and petroleum", "hi": "कोयले एवं पेट्रोलियम का निर्माण"},
+              {"en": "Refining products; CNG/PNG", "hi": "शोधन उत्पाद; CNG/PNG"}
+            ]
+          },
+          {
+            "en": "Combustion and Flame", "hi": "दहन एवं ज्वाला",
+            "topics": [
+              {"en": "Combustible and non-combustible substances", "hi": "दहनशील एवं अदहनशील पदार्थ"},
+              {"en": "Conditions and types of combustion", "hi": "दहन की शर्तें एवं प्रकार"},
+              {"en": "Flame structure; fuel efficiency; fire extinguishers", "hi": "ज्वाला की संरचना; ईंधन दक्षता; अग्निशामक"}
+            ]
+          },
+          {
+            "en": "Pollution of Air and Water", "hi": "वायु एवं जल का प्रदूषण",
+            "topics": [
+              {"en": "Air pollutants; greenhouse effect", "hi": "वायु प्रदूषक; ग्रीनहाउस प्रभाव"},
+              {"en": "Global warming", "hi": "भूमंडलीय ऊष्मीकरण"},
+              {"en": "Water pollution; potable water", "hi": "जल प्रदूषण; पेय जल"}
+            ]
+          }
+        ],
+        "biology": [
+          {
+            "en": "Crop Production and Management", "hi": "फसल उत्पादन एवं प्रबंध",
+            "topics": [
+              {"en": "Preparation of soil and sowing", "hi": "मृदा तैयार करना एवं बुवाई"},
+              {"en": "Manure and fertilizers; irrigation", "hi": "खाद एवं उर्वरक; सिंचाई"},
+              {"en": "Weeding, harvesting and storage", "hi": "निराई, कटाई एवं भंडारण"}
+            ]
+          },
+          {
+            "en": "Microorganisms: Friend and Foe", "hi": "सूक्ष्मजीव: मित्र एवं शत्रु",
+            "topics": [
+              {"en": "Bacteria, fungi, protozoa, algae, viruses", "hi": "जीवाणु, कवक, प्रोटोज़ोआ, शैवाल, विषाणु"},
+              {"en": "Useful microbes: fermentation, medicine, agriculture", "hi": "उपयोगी सूक्ष्मजीव: किण्वन, औषधि, कृषि"},
+              {"en": "Harmful microbes; food preservation", "hi": "हानिकारक सूक्ष्मजीव; खाद्य परिरक्षण"},
+              {"en": "Nitrogen fixation", "hi": "नाइट्रोजन स्थिरीकरण"}
+            ]
+          },
+          {
+            "en": "Conservation of Plants and Animals", "hi": "पादप एवं जंतुओं का संरक्षण",
+            "topics": [
+              {"en": "Deforestation and its effects", "hi": "वनोन्मूलन एवं इसके प्रभाव"},
+              {"en": "Biosphere reserves, national parks, sanctuaries", "hi": "जीवमंडल आरक्षित क्षेत्र, राष्ट्रीय उद्यान, अभयारण्य"},
+              {"en": "Endangered species; Red Data Book; migration", "hi": "संकटग्रस्त प्रजातियाँ; रेड डाटा बुक; प्रवास"}
+            ]
+          },
+          {
+            "en": "Cell — Structure and Functions", "hi": "कोशिका — संरचना एवं कार्य",
+            "topics": [
+              {"en": "Discovery of cell; unicellular/multicellular organisms", "hi": "कोशिका की खोज; एककोशिकीय/बहुकोशिकीय जीव"},
+              {"en": "Cell shape and size", "hi": "कोशिका का आकार एवं माप"},
+              {"en": "Cell structure: membrane, cytoplasm, nucleus", "hi": "कोशिका संरचना: झिल्ली, कोशिकाद्रव्य, केंद्रक"},
+              {"en": "Plant cell vs animal cell", "hi": "पादप एवं प्राणि कोशिका की तुलना"}
+            ]
+          },
+          {
+            "en": "Reproduction in Animals", "hi": "जंतुओं में जनन",
+            "topics": [
+              {"en": "Sexual and asexual reproduction", "hi": "लैंगिक एवं अलैंगिक जनन"},
+              {"en": "Human reproductive systems", "hi": "मानव जनन तंत्र"},
+              {"en": "Fertilisation: internal/external", "hi": "निषेचन: आंतरिक/बाह्य"},
+              {"en": "Viviparous and oviparous animals", "hi": "जरायुज एवं अंडयुज प्राणी"}
+            ]
+          },
+          {
+            "en": "Reaching the Age of Adolescence", "hi": "किशोरावस्था की ओर",
+            "topics": [
+              {"en": "Puberty and hormonal changes", "hi": "यौवनारंभ एवं हार्मोनी परिवर्तन"},
+              {"en": "Secondary sexual characteristics", "hi": "द्वितीयक लैंगिक लक्षण"},
+              {"en": "Endocrine glands and hormones", "hi": "अंतःस्रावी ग्रंथियाँ एवं हार्मोन"},
+              {"en": "HIV/AIDS awareness", "hi": "HIV/AIDS जागरूकता"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "classId": "class9",
+      "subjects": {
+        "physics": [
+          {
+            "en": "Motion", "hi": "गति",
+            "topics": [
+              {"en": "Distance and displacement", "hi": "दूरी एवं विस्थापन"},
+              {"en": "Uniform and non-uniform motion", "hi": "एकसमान एवं असमान गति"},
+              {"en": "Speed, velocity, acceleration", "hi": "चाल, वेग, त्वरण"},
+              {"en": "Distance-time and velocity-time graphs", "hi": "दूरी-समय एवं वेग-समय ग्राफ"},
+              {"en": "Equations of motion; uniform circular motion", "hi": "गति के समीकरण; एकसमान वृत्तीय गति"}
+            ]
+          },
+          {
+            "en": "Force and Laws of Motion", "hi": "बल तथा गति के नियम",
+            "topics": [
+              {"en": "Balanced and unbalanced forces", "hi": "संतुलित एवं असंतुलित बल"},
+              {"en": "Newton's first, second and third laws", "hi": "न्यूटन के प्रथम, द्वितीय एवं तृतीय नियम"},
+              {"en": "Inertia and mass", "hi": "जड़त्व एवं द्रव्यमान"},
+              {"en": "Conservation of momentum", "hi": "संवेग संरक्षण"}
+            ]
+          },
+          {
+            "en": "Gravitation", "hi": "गुरुत्वाकर्षण",
+            "topics": [
+              {"en": "Universal law of gravitation", "hi": "सार्वत्रिक गुरुत्वाकर्षण नियम"},
+              {"en": "Free fall and acceleration due to gravity", "hi": "मुक्त पतन एवं गुरुत्वीय त्वरण"},
+              {"en": "Mass and weight", "hi": "द्रव्यमान एवं भार"},
+              {"en": "Thrust, pressure, buoyancy, Archimedes' principle", "hi": "प्रणोद, दाब, उत्प्लावकता, आर्किमिडीज़ सिद्धांत"}
+            ]
+          },
+          {
+            "en": "Work and Energy", "hi": "कार्य तथा ऊर्जा",
+            "topics": [
+              {"en": "Work done by a force", "hi": "बल द्वारा किया गया कार्य"},
+              {"en": "Kinetic and potential energy", "hi": "गतिज एवं स्थितिज ऊर्जा"},
+              {"en": "Law of conservation of energy", "hi": "ऊर्जा संरक्षण नियम"},
+              {"en": "Power and commercial unit of energy", "hi": "शक्ति एवं ऊर्जा की व्यावसायिक इकाई"}
+            ]
+          },
+          {
+            "en": "Sound", "hi": "ध्वनि",
+            "topics": [
+              {"en": "Production and propagation of sound", "hi": "ध्वनि का उत्पादन एवं संचरण"},
+              {"en": "Wavelength, frequency, speed of sound", "hi": "तरंगदैर्घ्य, आवृत्ति, ध्वनि की चाल"},
+              {"en": "Reflection of sound; echo; reverberation", "hi": "ध्वनि का परावर्तन; प्रतिध्वनि; अनुरणन"},
+              {"en": "Range of hearing; SONAR; structure of human ear", "hi": "श्रवण परास; सोनार; मानव कर्ण की संरचना"}
+            ]
+          }
+        ],
+        "chemistry": [
+          {
+            "en": "Matter in Our Surroundings", "hi": "हमारे आस-पास के पदार्थ",
+            "topics": [
+              {"en": "States of matter and characteristics", "hi": "द्रव्य की अवस्थाएँ एवं विशेषताएँ"},
+              {"en": "Change of state; evaporation", "hi": "अवस्था परिवर्तन; वाष्पीकरण"},
+              {"en": "Effect of temperature and pressure", "hi": "ताप एवं दाब का प्रभाव"}
+            ]
+          },
+          {
+            "en": "Is Matter Around Us Pure?", "hi": "क्या हमारे आस-पास के पदार्थ शुद्ध हैं?",
+            "topics": [
+              {"en": "Homogeneous and heterogeneous mixtures", "hi": "समांगी एवं विषमांगी मिश्रण"},
+              {"en": "Solutions, suspensions, colloids", "hi": "विलयन, निलंबन, कोलॉइड"},
+              {"en": "Separation techniques", "hi": "पृथक्करण तकनीकें"},
+              {"en": "Elements and compounds", "hi": "तत्व एवं यौगिक"}
+            ]
+          },
+          {
+            "en": "Atoms and Molecules", "hi": "परमाणु एवं अणु",
+            "topics": [
+              {"en": "Laws of chemical combination", "hi": "रासायनिक संयोजन के नियम"},
+              {"en": "Atomic mass and molecular mass", "hi": "परमाणु द्रव्यमान एवं आण्विक द्रव्यमान"},
+              {"en": "Mole concept", "hi": "मोल संकल्पना"},
+              {"en": "Chemical formulae and valency", "hi": "रासायनिक सूत्र एवं संयोजकता"}
+            ]
+          },
+          {
+            "en": "Structure of the Atom", "hi": "परमाणु की संरचना",
+            "topics": [
+              {"en": "Discovery of electron, proton, neutron", "hi": "इलेक्ट्रॉन, प्रोटॉन, न्यूट्रॉन की खोज"},
+              {"en": "Thomson's, Rutherford's, Bohr's models", "hi": "थॉमसन, रदरफोर्ड, बोहर के परमाणु मॉडल"},
+              {"en": "Distribution of electrons; valency", "hi": "इलेक्ट्रॉनों का वितरण; संयोजकता"},
+              {"en": "Isotopes and isobars", "hi": "समस्थानिक एवं समभारिक"}
+            ]
+          }
+        ],
+        "biology": [
+          {
+            "en": "The Fundamental Unit of Life", "hi": "जीवन की मौलिक इकाई",
+            "topics": [
+              {"en": "Cell theory", "hi": "कोशिका सिद्धांत"},
+              {"en": "Cell membrane, cell wall, nucleus", "hi": "कोशिका झिल्ली, कोशिका भित्ति, केंद्रक"},
+              {"en": "Cell organelles: ER, Golgi, mitochondria, plastids", "hi": "कोशिकांग: अंतर्द्रव्यी जालिका, गॉल्जी उपकरण, माइटोकॉन्ड्रिया, प्लास्टिड"}
+            ]
+          },
+          {
+            "en": "Tissues", "hi": "ऊतक",
+            "topics": [
+              {"en": "Meristematic and permanent plant tissues", "hi": "विभज्योतक एवं स्थायी पादप ऊतक"},
+              {"en": "Simple and complex permanent tissues", "hi": "सरल एवं जटिल स्थायी ऊतक"},
+              {"en": "Animal tissues: epithelial, connective, muscular, nervous", "hi": "प्राणि ऊतक: उपकला, संयोजी, पेशीय, तंत्रिका"}
+            ]
+          },
+          {
+            "en": "Diversity in Living Organisms", "hi": "जीवों में विविधता",
+            "topics": [
+              {"en": "Basis of classification and hierarchy", "hi": "वर्गीकरण का आधार एवं क्रम"},
+              {"en": "Five kingdom classification", "hi": "पंच जगत वर्गीकरण"},
+              {"en": "Plant classification", "hi": "पादप वर्गीकरण"},
+              {"en": "Animal classification: invertebrates and vertebrates", "hi": "प्राणि वर्गीकरण: अकशेरुकी एवं कशेरुकी"}
+            ]
+          },
+          {
+            "en": "Why Do We Fall Ill?", "hi": "हम बीमार क्यों होते हैं?",
+            "topics": [
+              {"en": "Health and disease", "hi": "स्वास्थ्य एवं रोग"},
+              {"en": "Acute and chronic diseases", "hi": "तीव्र एवं दीर्घकालिक रोग"},
+              {"en": "Infectious and non-infectious diseases", "hi": "संक्रामक एवं असंक्रामक रोग"},
+              {"en": "Means of spread; prevention and treatment", "hi": "प्रसार के साधन; रोकथाम एवं उपचार"}
+            ]
+          },
+          {
+            "en": "Natural Resources", "hi": "प्राकृतिक संपदा",
+            "topics": [
+              {"en": "Air, water and soil", "hi": "वायु, जल एवं मृदा"},
+              {"en": "Water, nitrogen, carbon and oxygen cycles", "hi": "जल, नाइट्रोजन, कार्बन एवं ऑक्सीजन चक्र"},
+              {"en": "Ozone layer", "hi": "ओज़ोन परत"}
+            ]
+          },
+          {
+            "en": "Improvement in Food Resources", "hi": "खाद्य संसाधनों में सुधार",
+            "topics": [
+              {"en": "Crop production improvement; cropping patterns", "hi": "फसल उत्पादन में सुधार; फसल प्रतिरूप"},
+              {"en": "Manure, fertilizers, irrigation", "hi": "खाद, उर्वरक, सिंचाई"},
+              {"en": "Animal husbandry, poultry, fish and bee farming", "hi": "पशुपालन, कुक्कुट पालन, मत्स्य एवं मधुमक्खी पालन"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "classId": "class10",
+      "subjects": {
+        "physics": [
+          {
+            "en": "Light — Reflection and Refraction", "hi": "प्रकाश — परावर्तन तथा अपवर्तन",
+            "topics": [
+              {"en": "Laws of reflection; spherical mirrors", "hi": "परावर्तन के नियम; गोलीय दर्पण"},
+              {"en": "Mirror formula and magnification", "hi": "दर्पण सूत्र एवं आवर्धन"},
+              {"en": "Refraction; laws of refraction; refractive index", "hi": "अपवर्तन; अपवर्तन के नियम; अपवर्तनांक"},
+              {"en": "Spherical lenses; lens formula; power of lens", "hi": "गोलीय लेंस; लेंस सूत्र; लेंस की क्षमता"}
+            ]
+          },
+          {
+            "en": "The Human Eye and the Colourful World", "hi": "मानव नेत्र तथा रंगबिरंगा संसार",
+            "topics": [
+              {"en": "Structure of eye; power of accommodation", "hi": "नेत्र की संरचना; समंजन क्षमता"},
+              {"en": "Defects of vision and correction", "hi": "दृष्टि दोष एवं निवारण"},
+              {"en": "Refraction through prism; dispersion", "hi": "प्रिज्म से अपवर्तन; वर्ण-विक्षेपण"},
+              {"en": "Atmospheric refraction; scattering; Tyndall effect", "hi": "वायुमंडलीय अपवर्तन; प्रकीर्णन; टिंडल प्रभाव"}
+            ]
+          },
+          {
+            "en": "Electricity", "hi": "विद्युत",
+            "topics": [
+              {"en": "Electric current and potential difference", "hi": "विद्युत धारा एवं विभवांतर"},
+              {"en": "Ohm's law and resistance", "hi": "ओम का नियम एवं प्रतिरोध"},
+              {"en": "Factors affecting resistance", "hi": "प्रतिरोध को प्रभावित करने वाले कारक"},
+              {"en": "Series and parallel combination of resistors", "hi": "प्रतिरोधों का श्रेणी एवं समांतर संयोजन"},
+              {"en": "Heating effect of current; electric power", "hi": "धारा का ऊष्मीय प्रभाव; विद्युत शक्ति"}
+            ]
+          },
+          {
+            "en": "Magnetic Effects of Electric Current", "hi": "विद्युत धारा के चुंबकीय प्रभाव",
+            "topics": [
+              {"en": "Magnetic field and field lines", "hi": "चुंबकीय क्षेत्र एवं क्षेत्र रेखाएँ"},
+              {"en": "Field due to current-carrying conductor/solenoid", "hi": "धारावाही चालक/परिनालिका से क्षेत्र"},
+              {"en": "Force on current-carrying conductor; Fleming's rule", "hi": "धारावाही चालक पर बल; फ्लेमिंग का नियम"},
+              {"en": "Electric motor, generator, domestic circuits", "hi": "विद्युत मोटर, जनित्र, घरेलू परिपथ"}
+            ]
+          },
+          {
+            "en": "Sources of Energy", "hi": "ऊर्जा के स्रोत",
+            "topics": [
+              {"en": "Conventional sources: fossil fuels, thermal power", "hi": "पारंपरिक स्रोत: जीवाश्म ईंधन, तापीय ऊर्जा"},
+              {"en": "Non-conventional: solar, wind, tidal, geothermal, nuclear", "hi": "गैर-पारंपरिक: सौर, पवन, ज्वारीय, भूतापीय, नाभिकीय"},
+              {"en": "Environmental consequences", "hi": "पर्यावरणीय परिणाम"}
+            ]
+          }
+        ],
+        "chemistry": [
+          {
+            "en": "Chemical Reactions and Equations", "hi": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+            "topics": [
+              {"en": "Writing and balancing chemical equations", "hi": "रासायनिक समीकरण लिखना एवं संतुलित करना"},
+              {"en": "Combination, decomposition, displacement reactions", "hi": "संयोजन, वियोजन, विस्थापन अभिक्रियाएँ"},
+              {"en": "Double displacement and redox reactions", "hi": "द्विविस्थापन एवं ऑक्सीकरण-अपचयन अभिक्रियाएँ"},
+              {"en": "Corrosion and rancidity", "hi": "संक्षारण एवं विकृतगंधिता"}
+            ]
+          },
+          {
+            "en": "Acids, Bases and Salts", "hi": "अम्ल, क्षारक एवं लवण",
+            "topics": [
+              {"en": "Chemical properties; reaction with metals/carbonates", "hi": "रासायनिक गुण; धातु/कार्बोनेट से अभिक्रिया"},
+              {"en": "pH scale and its importance", "hi": "pH स्केल एवं इसका महत्व"},
+              {"en": "Common salts: NaCl, bleaching powder, baking soda", "hi": "सामान्य लवण: NaCl, विरंजक चूर्ण, बेकिंग सोडा"},
+              {"en": "Washing soda and Plaster of Paris", "hi": "धोवन सोडा एवं प्लास्टर ऑफ पेरिस"}
+            ]
+          },
+          {
+            "en": "Metals and Non-metals", "hi": "धातु एवं अधातु",
+            "topics": [
+              {"en": "Physical and chemical properties", "hi": "भौतिक एवं रासायनिक गुण"},
+              {"en": "Reactivity series", "hi": "सक्रियता श्रेणी"},
+              {"en": "Ionic bond formation", "hi": "आयनिक बंध निर्माण"},
+              {"en": "Extraction of metals; corrosion and prevention", "hi": "धातुओं का निष्कर्षण; संक्षारण एवं रोकथाम"}
+            ]
+          },
+          {
+            "en": "Carbon and Its Compounds", "hi": "कार्बन एवं इसके यौगिक",
+            "topics": [
+              {"en": "Covalent bonding", "hi": "सहसंयोजक बंधन"},
+              {"en": "Versatile nature of carbon; catenation", "hi": "कार्बन की विशेष प्रकृति; शृंखलन"},
+              {"en": "Homologous series; functional groups; nomenclature", "hi": "समजातीय श्रेणी; क्रियात्मक समूह; नामकरण"},
+              {"en": "Ethanol, ethanoic acid; soaps and detergents", "hi": "एथेनॉल, एथेनॉइक अम्ल; साबुन एवं अपमार्जक"}
+            ]
+          },
+          {
+            "en": "Periodic Classification of Elements", "hi": "तत्वों का आवर्त वर्गीकरण",
+            "topics": [
+              {"en": "Mendeleev's periodic table", "hi": "मेंडलीफ की आवर्त सारणी"},
+              {"en": "Modern periodic table", "hi": "आधुनिक आवर्त सारणी"},
+              {"en": "Trends in valency, atomic size, metallic character", "hi": "संयोजकता, परमाण्विक आकार, धात्विक गुण में प्रवृत्तियाँ"}
+            ]
+          }
+        ],
+        "biology": [
+          {
+            "en": "Life Processes", "hi": "जैव प्रक्रम",
+            "topics": [
+              {"en": "Nutrition: autotrophic and heterotrophic; photosynthesis", "hi": "पोषण: स्वपोषी एवं विषमपोषी; प्रकाश संश्लेषण"},
+              {"en": "Respiration in plants and animals", "hi": "पादप एवं प्राणियों में श्वसन"},
+              {"en": "Transportation: circulatory system; transport in plants", "hi": "परिवहन: परिसंचरण तंत्र; पादपों में परिवहन"},
+              {"en": "Excretion: human excretory system", "hi": "उत्सर्जन: मानव उत्सर्जन तंत्र"}
+            ]
+          },
+          {
+            "en": "Control and Coordination", "hi": "नियंत्रण एवं समन्वय",
+            "topics": [
+              {"en": "Nervous system in humans; reflex action", "hi": "मानव में तंत्रिका तंत्र; प्रतिवर्ती क्रिया"},
+              {"en": "Coordination in plants: tropisms and hormones", "hi": "पादपों में समन्वय: अनुवर्तन एवं हार्मोन"},
+              {"en": "Human endocrine system", "hi": "मानव अंतःस्रावी तंत्र"}
+            ]
+          },
+          {
+            "en": "How Do Organisms Reproduce?", "hi": "जीव जनन कैसे करते हैं?",
+            "topics": [
+              {"en": "Asexual reproduction: fission, budding, spore formation", "hi": "अलैंगिक जनन: विखंडन, मुकुलन, बीजाणु निर्माण"},
+              {"en": "Vegetative propagation and regeneration", "hi": "कायिक प्रवर्धन एवं पुनरुद्भवन"},
+              {"en": "Sexual reproduction in plants and humans", "hi": "पादपों एवं मानव में लैंगिक जनन"},
+              {"en": "Reproductive health; contraception; STIs", "hi": "जनन स्वास्थ्य; गर्भनिरोधन; यौन संचारित रोग"}
+            ]
+          },
+          {
+            "en": "Heredity and Evolution", "hi": "आनुवंशिकता एवं जैव विकास",
+            "topics": [
+              {"en": "Mendel's laws; inheritance of traits", "hi": "मेंडल के नियम; लक्षणों की वंशागति"},
+              {"en": "Sex determination", "hi": "लिंग निर्धारण"},
+              {"en": "Evolution, speciation and evidences", "hi": "विकास, स्पीशीएशन एवं विकास के प्रमाण"}
+            ]
+          },
+          {
+            "en": "Our Environment", "hi": "हमारा पर्यावरण",
+            "topics": [
+              {"en": "Ecosystem components", "hi": "पारितंत्र के घटक"},
+              {"en": "Food chains and food webs", "hi": "खाद्य श्रृंखला एवं खाद्य जाल"},
+              {"en": "Ozone depletion; waste management", "hi": "ओज़ोन क्षरण; अपशिष्ट प्रबंधन"}
+            ]
+          },
+          {
+            "en": "Management of Natural Resources", "hi": "प्राकृतिक संसाधनों का प्रबंधन",
+            "topics": [
+              {"en": "Need for management of resources", "hi": "संसाधनों के प्रबंधन की आवश्यकता"},
+              {"en": "Forest and wildlife conservation", "hi": "वन एवं वन्यजीव संरक्षण"},
+              {"en": "Water harvesting; the 5 Rs", "hi": "जल संग्रहण; 5 R सिद्धांत"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "classId": "class11",
+      "subjects": {
+        "physics": [
+          {"en": "Units and Measurements", "hi": "मात्रक एवं मापन", "topics": [{"en": "SI units and dimensional analysis", "hi": "SI मात्रक एवं विमीय विश्लेषण"}, {"en": "Errors in measurement", "hi": "मापन में त्रुटियाँ"}, {"en": "Significant figures", "hi": "सार्थक अंक"}]},
+          {"en": "Motion in a Straight Line", "hi": "सरल रेखा में गति", "topics": [{"en": "Position, displacement and path length", "hi": "स्थिति, विस्थापन एवं पथ लंबाई"}, {"en": "Uniform/non-uniform velocity and acceleration", "hi": "एकसमान/असमान वेग एवं त्वरण"}, {"en": "Kinematic equations of motion", "hi": "गति के समीकरण"}, {"en": "Relative velocity", "hi": "सापेक्ष वेग"}]},
+          {"en": "Motion in a Plane", "hi": "समतल में गति", "topics": [{"en": "Scalars and vectors; vector addition", "hi": "अदिश एवं सदिश राशियाँ; सदिश योग"}, {"en": "Projectile motion", "hi": "प्रक्षेप्य गति"}, {"en": "Uniform circular motion", "hi": "एकसमान वृत्तीय गति"}]},
+          {"en": "Laws of Motion", "hi": "गति के नियम", "topics": [{"en": "Newton's laws of motion", "hi": "न्यूटन के गति के नियम"}, {"en": "Friction: static, kinetic, rolling", "hi": "घर्षण: स्थैतिक, गतिज, लोटनिक"}, {"en": "Dynamics of circular motion", "hi": "वृत्तीय गति की गतिकी"}]},
+          {"en": "Work, Energy and Power", "hi": "कार्य, ऊर्जा और शक्ति", "topics": [{"en": "Work-energy theorem", "hi": "कार्य-ऊर्जा प्रमेय"}, {"en": "Kinetic and potential energy", "hi": "गतिज एवं स्थितिज ऊर्जा"}, {"en": "Elastic and inelastic collisions", "hi": "प्रत्यास्थ एवं अप्रत्यास्थ संघट्ट"}]},
+          {"en": "System of Particles and Rotational Motion", "hi": "कणों के निकाय तथा घूर्णी गति", "topics": [{"en": "Centre of mass", "hi": "द्रव्यमान केंद्र"}, {"en": "Torque and angular momentum", "hi": "बल आघूर्ण एवं कोणीय संवेग"}, {"en": "Moment of inertia", "hi": "जड़त्व आघूर्ण"}]},
+          {"en": "Gravitation", "hi": "गुरुत्वाकर्षण", "topics": [{"en": "Kepler's laws", "hi": "केप्लर के नियम"}, {"en": "Universal law of gravitation", "hi": "सार्वत्रिक गुरुत्वाकर्षण नियम"}, {"en": "Escape velocity and orbital velocity", "hi": "पलायन वेग एवं कक्षीय वेग"}]},
+          {"en": "Mechanical Properties of Solids", "hi": "ठोसों के यांत्रिक गुण", "topics": [{"en": "Stress and strain", "hi": "प्रतिबल एवं विकृति"}, {"en": "Hooke's law", "hi": "हुक का नियम"}, {"en": "Elastic moduli", "hi": "प्रत्यास्थता गुणांक"}]},
+          {"en": "Mechanical Properties of Fluids", "hi": "तरलों के यांत्रिक गुण", "topics": [{"en": "Pressure and Pascal's law", "hi": "दाब एवं पास्कल का नियम"}, {"en": "Bernoulli's principle", "hi": "बरनौली सिद्धांत"}, {"en": "Viscosity and surface tension", "hi": "श्यानता एवं पृष्ठ तनाव"}]},
+          {"en": "Thermal Properties of Matter", "hi": "द्रव्य के तापीय गुण", "topics": [{"en": "Temperature scales; thermal expansion", "hi": "ताप के मापक्रम; ऊष्मीय प्रसार"}, {"en": "Calorimetry", "hi": "ऊष्मामिति"}, {"en": "Heat transfer: conduction, convection, radiation", "hi": "ऊष्मा स्थानांतरण"}]},
+          {"en": "Thermodynamics", "hi": "ऊष्मागतिकी", "topics": [{"en": "Laws of thermodynamics", "hi": "ऊष्मागतिकी के नियम"}, {"en": "Heat engines and refrigerators", "hi": "ऊष्मा इंजन एवं प्रशीतक"}]},
+          {"en": "Kinetic Theory", "hi": "अणुगति सिद्धांत", "topics": [{"en": "Assumptions of kinetic theory", "hi": "अणुगति सिद्धांत की अभिकल्पनाएँ"}, {"en": "Gas laws", "hi": "गैस नियम"}, {"en": "Degrees of freedom", "hi": "स्वातंत्र्य कोटि"}]},
+          {"en": "Oscillations", "hi": "दोलन", "topics": [{"en": "Simple harmonic motion (SHM)", "hi": "सरल आवर्त गति (SHM)"}, {"en": "Energy in SHM", "hi": "SHM में ऊर्जा"}, {"en": "Simple pendulum", "hi": "सरल लोलक"}]},
+          {"en": "Waves", "hi": "तरंगें", "topics": [{"en": "Wave motion and progressive waves", "hi": "तरंग गति एवं अग्रगामी तरंगें"}, {"en": "Superposition and standing waves", "hi": "अध्यारोपण एवं अप्रगामी तरंगें"}, {"en": "Doppler effect", "hi": "डॉप्लर प्रभाव"}]}
+        ],
+        "chemistry": [
+          {"en": "Some Basic Concepts of Chemistry", "hi": "रसायन विज्ञान की कुछ मूल अवधारणाएँ", "topics": [{"en": "Mole concept and molar mass", "hi": "मोल संकल्पना एवं मोलर द्रव्यमान"}, {"en": "Laws of chemical combination", "hi": "रासायनिक संयोजन के नियम"}, {"en": "Stoichiometric calculations", "hi": "मात्रात्मक गणना"}]},
+          {"en": "Structure of Atom", "hi": "परमाणु की संरचना", "topics": [{"en": "Discovery of subatomic particles", "hi": "उपपरमाण्विक कणों की खोज"}, {"en": "Bohr's model of atom", "hi": "बोहर का परमाणु मॉडल"}, {"en": "Quantum numbers", "hi": "क्वांटम संख्याएँ"}, {"en": "Electronic configuration of elements", "hi": "तत्वों का इलेक्ट्रॉनिक विन्यास"}]},
+          {"en": "Classification of Elements and Periodicity in Properties", "hi": "तत्वों का वर्गीकरण एवं गुणधर्मों में आवर्तिता", "topics": [{"en": "Modern periodic law", "hi": "आधुनिक आवर्त नियम"}, {"en": "Periodic trends: atomic radius, ionisation enthalpy, electronegativity", "hi": "आवर्त प्रवृत्तियाँ"}]},
+          {"en": "Chemical Bonding and Molecular Structure", "hi": "रासायनिक आबंधन तथा आण्विक संरचना", "topics": [{"en": "Ionic and covalent bonding", "hi": "आयनिक एवं सहसंयोजक आबंधन"}, {"en": "VSEPR theory", "hi": "VSEPR सिद्धांत"}, {"en": "Hybridisation", "hi": "संकरण"}, {"en": "Molecular orbital theory", "hi": "आण्विक कक्षक सिद्धांत"}]},
+          {"en": "States of Matter", "hi": "द्रव्य की अवस्थाएँ", "topics": [{"en": "Gas laws", "hi": "गैस नियम"}, {"en": "Kinetic theory of gases", "hi": "गैसों का अणुगति सिद्धांत"}, {"en": "Liquid state properties", "hi": "द्रव अवस्था के गुण"}]},
+          {"en": "Thermodynamics", "hi": "ऊष्मागतिकी", "topics": [{"en": "First law of thermodynamics", "hi": "ऊष्मागतिकी का प्रथम नियम"}, {"en": "Enthalpy and Hess's law", "hi": "एन्थैल्पी एवं हेस का नियम"}, {"en": "Entropy and Gibbs energy", "hi": "एन्ट्रॉपी एवं गिब्स ऊर्जा"}]},
+          {"en": "Equilibrium", "hi": "साम्यावस्था", "topics": [{"en": "Chemical equilibrium; Le Chatelier's principle", "hi": "रासायनिक साम्य; ले शातेलिए सिद्धांत"}, {"en": "Ionic equilibrium; pH", "hi": "आयनिक साम्य; pH"}, {"en": "Buffer solutions", "hi": "बफर विलयन"}]},
+          {"en": "Redox Reactions", "hi": "अपचयोपचय अभिक्रियाएँ", "topics": [{"en": "Oxidation number concept", "hi": "ऑक्सीकरण संख्या की अवधारणा"}, {"en": "Balancing redox equations", "hi": "अपचयोपचय समीकरण संतुलन"}]},
+          {"en": "Hydrogen", "hi": "हाइड्रोजन", "topics": [{"en": "Position in periodic table; preparation", "hi": "आवर्त सारणी में स्थिति; निर्माण"}, {"en": "Properties and hydrides", "hi": "गुण एवं हाइड्राइड"}, {"en": "Hydrogen peroxide", "hi": "हाइड्रोजन पेरॉक्साइड"}]},
+          {"en": "The s-Block Elements", "hi": "s-ब्लॉक तत्व", "topics": [{"en": "Alkali metals: properties and compounds", "hi": "क्षार धातुएँ: गुण एवं यौगिक"}, {"en": "Alkaline earth metals: properties and compounds", "hi": "क्षारीय मृदा धातुएँ: गुण एवं यौगिक"}]},
+          {"en": "The p-Block Elements (Groups 13 & 14)", "hi": "p-ब्लॉक तत्व (वर्ग 13 एवं 14)", "topics": [{"en": "Boron family: properties and compounds", "hi": "बोरॉन परिवार: गुण एवं यौगिक"}, {"en": "Carbon family: properties and compounds", "hi": "कार्बन परिवार: गुण एवं यौगिक"}]},
+          {"en": "Organic Chemistry — Basic Principles and Techniques", "hi": "कार्बनिक रसायन — आधारभूत सिद्धांत एवं तकनीकें", "topics": [{"en": "Classification and IUPAC nomenclature", "hi": "वर्गीकरण एवं IUPAC नामकरण"}, {"en": "Isomerism", "hi": "समावयवता"}, {"en": "Reaction mechanisms; purification methods", "hi": "अभिक्रिया क्रियाविधि; शुद्धिकरण विधियाँ"}]},
+          {"en": "Hydrocarbons", "hi": "हाइड्रोकार्बन", "topics": [{"en": "Alkanes, alkenes, alkynes", "hi": "ऐल्केन, ऐल्कीन, ऐल्काइन"}, {"en": "Aromatic hydrocarbons", "hi": "ऐरोमैटिक हाइड्रोकार्बन"}, {"en": "Preparation and properties", "hi": "निर्माण एवं गुण"}]}
+        ],
+        "biology": [
+          {"en": "The Living World", "hi": "जीव जगत", "topics": [{"en": "Diversity in the living world", "hi": "जीव जगत में विविधता"}, {"en": "Taxonomy and nomenclature", "hi": "वर्गिकी एवं नामकरण"}, {"en": "Taxonomic categories and hierarchy", "hi": "वर्गिकी वर्ग एवं क्रम"}]},
+          {"en": "Biological Classification", "hi": "जैव वर्गीकरण", "topics": [{"en": "Five kingdom classification", "hi": "पंच जगत वर्गीकरण प्रणाली"}, {"en": "Viruses, viroids and lichens", "hi": "विषाणु, विरोइड एवं लाइकेन"}]},
+          {"en": "Plant Kingdom", "hi": "वनस्पति जगत", "topics": [{"en": "Algae, bryophytes, pteridophytes", "hi": "शैवाल, ब्रायोफाइटा, टेरिडोफाइटा"}, {"en": "Gymnosperms and angiosperms", "hi": "अनावृतबीजी एवं आवृतबीजी"}, {"en": "Plant life cycles", "hi": "पादप जीवन चक्र"}]},
+          {"en": "Animal Kingdom", "hi": "प्राणि जगत", "topics": [{"en": "Basis of classification", "hi": "वर्गीकरण का आधार"}, {"en": "Non-chordates up to phylum level", "hi": "अकशेरुकी संघों का अध्ययन"}, {"en": "Chordates: classification overview", "hi": "रज्जुकी: वर्गीकरण"}]},
+          {"en": "Morphology of Flowering Plants", "hi": "पुष्पी पादपों की आकारिकी", "topics": [{"en": "Root, stem and leaf morphology", "hi": "जड़, तना एवं पत्ती की आकारिकी"}, {"en": "Inflorescence and flower structure", "hi": "पुष्पक्रम एवं पुष्प संरचना"}, {"en": "Fruit and seed", "hi": "फल एवं बीज"}]},
+          {"en": "Anatomy of Flowering Plants", "hi": "पुष्पी पादपों का शारीर", "topics": [{"en": "Tissues and tissue systems", "hi": "ऊतक एवं ऊतक तंत्र"}, {"en": "Anatomy of root, stem and leaf", "hi": "जड़, तना एवं पत्ती की शारीरिकी"}, {"en": "Secondary growth", "hi": "द्वितीयक वृद्धि"}]},
+          {"en": "Structural Organisation in Animals", "hi": "प्राणियों में संरचनात्मक संगठन", "topics": [{"en": "Animal tissues", "hi": "प्राणि ऊतक"}, {"en": "Morphology and anatomy of earthworm/cockroach/frog", "hi": "केंचुआ/तिलचट्टा/मेंढक की आकारिकी एवं शारीरिकी"}]},
+          {"en": "Cell: The Unit of Life", "hi": "कोशिका: जीवन की इकाई", "topics": [{"en": "Cell theory", "hi": "कोशिका सिद्धांत"}, {"en": "Prokaryotic and eukaryotic cells", "hi": "प्रोकैरियोटिक एवं यूकैरियोटिक कोशिका"}, {"en": "Cell organelles and their functions", "hi": "कोशिकांग एवं उनके कार्य"}]},
+          {"en": "Biomolecules", "hi": "जैव अणु", "topics": [{"en": "Carbohydrates, proteins, lipids", "hi": "कार्बोहाइड्रेट, प्रोटीन, वसा"}, {"en": "Nucleic acids", "hi": "न्यूक्लिक अम्ल"}, {"en": "Enzymes: structure and function", "hi": "एंजाइम: संरचना एवं कार्य"}]},
+          {"en": "Cell Cycle and Cell Division", "hi": "कोशिका चक्र एवं कोशिका विभाजन", "topics": [{"en": "Phases of cell cycle", "hi": "कोशिका चक्र की अवस्थाएँ"}, {"en": "Mitosis", "hi": "समसूत्रण"}, {"en": "Meiosis and its significance", "hi": "अर्धसूत्रण एवं इसका महत्व"}]},
+          {"en": "Transport in Plants", "hi": "पादपों में परिवहन", "topics": [{"en": "Diffusion and osmosis", "hi": "विसरण एवं परासरण"}, {"en": "Transpiration", "hi": "वाष्पोत्सर्जन"}, {"en": "Ascent of sap", "hi": "रस का आरोहण"}]},
+          {"en": "Mineral Nutrition", "hi": "खनिज पोषण", "topics": [{"en": "Essential mineral elements", "hi": "आवश्यक खनिज तत्व"}, {"en": "Deficiency symptoms", "hi": "अभाव के लक्षण"}, {"en": "Nitrogen fixation", "hi": "नाइट्रोजन स्थिरीकरण"}]},
+          {"en": "Photosynthesis in Higher Plants", "hi": "उच्च पादपों में प्रकाश संश्लेषण", "topics": [{"en": "Light reaction and dark reaction", "hi": "प्रकाश अभिक्रिया एवं अंधकार अभिक्रिया"}, {"en": "C3 and C4 pathways", "hi": "C3 एवं C4 पथ"}, {"en": "Factors affecting photosynthesis", "hi": "प्रकाश संश्लेषण को प्रभावित करने वाले कारक"}]},
+          {"en": "Respiration in Plants", "hi": "पादपों में श्वसन", "topics": [{"en": "Glycolysis", "hi": "ग्लाइकोलिसिस"}, {"en": "Fermentation", "hi": "किण्वन"}, {"en": "Krebs cycle and electron transport system", "hi": "क्रेब्स चक्र एवं इलेक्ट्रॉन परिवहन तंत्र"}]},
+          {"en": "Plant Growth and Development", "hi": "पादप वृद्धि एवं परिवर्धन", "topics": [{"en": "Phases of plant growth", "hi": "पादप वृद्धि की अवस्थाएँ"}, {"en": "Plant hormones", "hi": "पादप हार्मोन"}, {"en": "Photoperiodism and vernalisation", "hi": "प्रकाशकालिता एवं बसंतीकरण"}]},
+          {"en": "Digestion and Absorption", "hi": "पाचन एवं अवशोषण", "topics": [{"en": "Human alimentary canal", "hi": "मानव आहारनाल"}, {"en": "Digestive glands", "hi": "पाचक ग्रंथियाँ"}, {"en": "Absorption of digested food", "hi": "पचे हुए भोजन का अवशोषण"}]},
+          {"en": "Breathing and Exchange of Gases", "hi": "श्वसन एवं गैसों का विनिमय", "topics": [{"en": "Human respiratory organs", "hi": "मानव श्वसन अंग"}, {"en": "Mechanism of breathing", "hi": "श्वासोच्छ्वास क्रियाविधि"}, {"en": "Transport and exchange of gases", "hi": "गैसों का परिवहन एवं विनिमय"}]},
+          {"en": "Body Fluids and Circulation", "hi": "शरीर द्रव तथा परिसंचरण", "topics": [{"en": "Composition of blood and lymph", "hi": "रक्त एवं लसीका का संघटन"}, {"en": "Human heart and cardiac cycle", "hi": "मानव हृदय एवं हृदय चक्र"}, {"en": "Blood pressure", "hi": "रक्तचाप"}]},
+          {"en": "Excretory Products and Their Elimination", "hi": "उत्सर्जी उत्पाद तथा उनका निष्कासन", "topics": [{"en": "Modes of excretion", "hi": "उत्सर्जन के प्रकार"}, {"en": "Human excretory system", "hi": "मानव उत्सर्जन तंत्र"}, {"en": "Regulation of kidney function", "hi": "वृक्क क्रिया का नियमन"}]},
+          {"en": "Locomotion and Movement", "hi": "गमन एवं संचलन", "topics": [{"en": "Types of movement", "hi": "गति के प्रकार"}, {"en": "Muscle structure and contraction", "hi": "पेशी संरचना एवं संकुचन"}, {"en": "Skeletal system and joints", "hi": "कंकाल तंत्र एवं संधियाँ"}]},
+          {"en": "Neural Control and Coordination", "hi": "तंत्रिकीय नियंत्रण एवं समन्वय", "topics": [{"en": "Neuron structure and nerve impulse", "hi": "न्यूरॉन संरचना एवं तंत्रिका आवेग"}, {"en": "Human brain", "hi": "मानव मस्तिष्क"}, {"en": "Reflex action; sense organs", "hi": "प्रतिवर्ती क्रिया; ज्ञानेंद्रियाँ"}]},
+          {"en": "Chemical Coordination and Integration", "hi": "रासायनिक समन्वय तथा एकीकरण", "topics": [{"en": "Endocrine glands and hormones", "hi": "अंतःस्रावी ग्रंथियाँ एवं हार्मोन"}, {"en": "Mechanism of hormone action", "hi": "हार्मोन की क्रियाविधि"}]}
+        ]
+      }
+    },
+    {
+      "classId": "class12",
+      "subjects": {
+        "physics": [
+          {"en": "Electric Charges and Fields", "hi": "वैद्युत आवेश तथा क्षेत्र", "topics": [{"en": "Coulomb's law", "hi": "कूलॉम का नियम"}, {"en": "Electric field and field lines", "hi": "विद्युत क्षेत्र एवं क्षेत्र रेखाएँ"}, {"en": "Gauss's law and applications", "hi": "गॉस का नियम एवं अनुप्रयोग"}]},
+          {"en": "Electrostatic Potential and Capacitance", "hi": "स्थिरवैद्युत विभव तथा धारिता", "topics": [{"en": "Electrostatic potential and potential energy", "hi": "स्थिरवैद्युत विभव एवं स्थितिज ऊर्जा"}, {"en": "Capacitors and combination of capacitors", "hi": "संधारित्र एवं संधारित्रों का संयोजन"}, {"en": "Energy stored in a capacitor", "hi": "संधारित्र में संचित ऊर्जा"}]},
+          {"en": "Current Electricity", "hi": "विद्युत धारा", "topics": [{"en": "Ohm's law and resistivity", "hi": "ओम का नियम एवं प्रतिरोधकता"}, {"en": "Kirchhoff's laws", "hi": "किरचॉफ के नियम"}, {"en": "Wheatstone bridge and potentiometer", "hi": "व्हीटस्टोन ब्रिज एवं विभवमापी"}]},
+          {"en": "Moving Charges and Magnetism", "hi": "गतिमान आवेश तथा चुंबकत्व", "topics": [{"en": "Biot-Savart law and Ampere's law", "hi": "बायो-सावर्ट नियम एवं एम्पीयर नियम"}, {"en": "Force on a moving charge in magnetic field", "hi": "चुंबकीय क्षेत्र में गतिमान आवेश पर बल"}, {"en": "Moving coil galvanometer", "hi": "चल कुंडली धारामापी"}]},
+          {"en": "Magnetism and Matter", "hi": "चुंबकत्व एवं द्रव्य", "topics": [{"en": "Bar magnet and its properties", "hi": "छड़ चुंबक एवं इसके गुण"}, {"en": "Earth's magnetism", "hi": "पृथ्वी का चुंबकत्व"}, {"en": "Magnetic properties of materials", "hi": "पदार्थों के चुंबकीय गुण"}]},
+          {"en": "Electromagnetic Induction", "hi": "वैद्युतचुंबकीय प्रेरण", "topics": [{"en": "Faraday's laws of induction", "hi": "फैराडे के प्रेरण नियम"}, {"en": "Lenz's law and eddy currents", "hi": "लेंज़ का नियम एवं भँवर धाराएँ"}, {"en": "Self and mutual inductance", "hi": "स्व एवं अन्योन्य प्रेरकत्व"}]},
+          {"en": "Alternating Current", "hi": "प्रत्यावर्ती धारा", "topics": [{"en": "AC circuits and phasors", "hi": "AC परिपथ एवं फेज़र"}, {"en": "LCR circuit and resonance", "hi": "LCR परिपथ एवं अनुनाद"}, {"en": "Transformer", "hi": "ट्रांसफार्मर"}]},
+          {"en": "Electromagnetic Waves", "hi": "वैद्युतचुंबकीय तरंगें", "topics": [{"en": "Displacement current", "hi": "विस्थापन धारा"}, {"en": "Electromagnetic spectrum", "hi": "विद्युतचुंबकीय स्पेक्ट्रम"}]},
+          {"en": "Ray Optics and Optical Instruments", "hi": "किरण प्रकाशिकी एवं प्रकाशिक यंत्र", "topics": [{"en": "Reflection and refraction at spherical surfaces", "hi": "गोलीय पृष्ठों पर परावर्तन एवं अपवर्तन"}, {"en": "Lenses and lens maker's formula", "hi": "लेंस एवं लेंस निर्माता सूत्र"}, {"en": "Optical instruments: microscope, telescope", "hi": "प्रकाशिक यंत्र: सूक्ष्मदर्शी, दूरदर्शी"}]},
+          {"en": "Wave Optics", "hi": "तरंग प्रकाशिकी", "topics": [{"en": "Huygens' principle", "hi": "हाइगेंस सिद्धांत"}, {"en": "Interference of light; Young's double slit experiment", "hi": "प्रकाश का व्यतिकरण; यंग का द्विक-झिरी प्रयोग"}, {"en": "Diffraction and polarisation", "hi": "विवर्तन एवं ध्रुवण"}]},
+          {"en": "Dual Nature of Radiation and Matter", "hi": "विकिरण तथा द्रव्य की द्वैत प्रकृति", "topics": [{"en": "Photoelectric effect", "hi": "प्रकाश विद्युत प्रभाव"}, {"en": "Einstein's photoelectric equation", "hi": "आइंस्टाइन का प्रकाश विद्युत समीकरण"}, {"en": "de Broglie wavelength", "hi": "डी ब्रॉग्ली तरंगदैर्घ्य"}]},
+          {"en": "Atoms", "hi": "परमाणु", "topics": [{"en": "Rutherford's model and its limitations", "hi": "रदरफोर्ड मॉडल एवं इसकी सीमाएँ"}, {"en": "Bohr model and hydrogen spectrum", "hi": "बोहर मॉडल एवं हाइड्रोजन स्पेक्ट्रम"}]},
+          {"en": "Nuclei", "hi": "नाभिक", "topics": [{"en": "Composition and size of nucleus", "hi": "नाभिक की संरचना एवं आकार"}, {"en": "Radioactivity", "hi": "रेडियोऐक्टिवता"}, {"en": "Nuclear fission and fusion", "hi": "नाभिकीय विखंडन एवं संलयन"}]},
+          {"en": "Semiconductor Electronics", "hi": "अर्धचालक इलेक्ट्रॉनिकी", "topics": [{"en": "Semiconductors: intrinsic and extrinsic", "hi": "अर्धचालक: नैज एवं बाह्य"}, {"en": "p-n junction diode and applications", "hi": "p-n संधि डायोड एवं अनुप्रयोग"}, {"en": "Transistors and logic gates", "hi": "ट्रांजिस्टर एवं लॉजिक गेट"}]}
+        ],
+        "chemistry": [
+          {"en": "Solutions", "hi": "विलयन", "topics": [{"en": "Types of solutions; concentration terms", "hi": "विलयन के प्रकार; सांद्रता पद"}, {"en": "Raoult's law", "hi": "राउल्ट का नियम"}, {"en": "Colligative properties", "hi": "अणुसंख्य गुण"}]},
+          {"en": "Electrochemistry", "hi": "वैद्युतरसायन", "topics": [{"en": "Electrochemical cells", "hi": "वैद्युतरासायनिक सेल"}, {"en": "Nernst equation", "hi": "नर्नस्ट समीकरण"}, {"en": "Conductance; batteries and corrosion", "hi": "चालकता; बैटरी एवं संक्षारण"}]},
+          {"en": "Chemical Kinetics", "hi": "रासायनिक बलगतिकी", "topics": [{"en": "Rate of reaction", "hi": "अभिक्रिया की दर"}, {"en": "Order and molecularity", "hi": "कोटि एवं आणविकता"}, {"en": "Rate law; Arrhenius equation", "hi": "दर नियम; आर्रेनियस समीकरण"}]},
+          {"en": "The d- and f-Block Elements", "hi": "d- एवं f-ब्लॉक तत्व", "topics": [{"en": "Properties of transition elements", "hi": "संक्रमण तत्वों के गुण"}, {"en": "Lanthanoids and actinoids", "hi": "लैंथेनॉइड एवं एक्टिनॉइड"}]},
+          {"en": "Coordination Compounds", "hi": "उपसहसंयोजन यौगिक", "topics": [{"en": "Werner's theory", "hi": "वर्नर सिद्धांत"}, {"en": "Nomenclature and isomerism", "hi": "नामकरण एवं समावयवता"}, {"en": "Bonding theories (VBT, CFT)", "hi": "आबंधन सिद्धांत (VBT, CFT)"}]},
+          {"en": "Haloalkanes and Haloarenes", "hi": "हैलोऐल्केन तथा हैलोऐरीन", "topics": [{"en": "Nomenclature and preparation", "hi": "नामकरण एवं निर्माण"}, {"en": "Physical and chemical properties", "hi": "भौतिक एवं रासायनिक गुण"}]},
+          {"en": "Alcohols, Phenols and Ethers", "hi": "ऐल्कोहॉल, फीनॉल एवं ईथर", "topics": [{"en": "Preparation methods", "hi": "निर्माण विधियाँ"}, {"en": "Physical and chemical properties", "hi": "भौतिक एवं रासायनिक गुण"}]},
+          {"en": "Aldehydes, Ketones and Carboxylic Acids", "hi": "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल", "topics": [{"en": "Nomenclature and preparation", "hi": "नामकरण एवं निर्माण"}, {"en": "Chemical reactions", "hi": "रासायनिक अभिक्रियाएँ"}]},
+          {"en": "Amines", "hi": "ऐमीन", "topics": [{"en": "Classification and preparation", "hi": "वर्गीकरण एवं निर्माण"}, {"en": "Properties; diazonium salts", "hi": "गुण; डाइऐज़ोनियम लवण"}]},
+          {"en": "Biomolecules", "hi": "जैव अणु", "topics": [{"en": "Carbohydrates and proteins", "hi": "कार्बोहाइड्रेट एवं प्रोटीन"}, {"en": "Nucleic acids", "hi": "न्यूक्लिक अम्ल"}, {"en": "Vitamins and hormones", "hi": "विटामिन एवं हार्मोन"}]}
+        ],
+        "biology": [
+          {"en": "Reproduction in Organisms", "hi": "जीवों में जनन", "topics": [{"en": "Asexual and sexual reproduction", "hi": "अलैंगिक एवं लैंगिक जनन"}, {"en": "Life span of organisms", "hi": "जीवों की आयु"}]},
+          {"en": "Sexual Reproduction in Flowering Plants", "hi": "पुष्पी पादपों में लैंगिक जनन", "topics": [{"en": "Flower structure; pollination", "hi": "पुष्प संरचना; परागण"}, {"en": "Fertilisation and seed development", "hi": "निषेचन एवं बीज विकास"}]},
+          {"en": "Human Reproduction", "hi": "मानव जनन", "topics": [{"en": "Male and female reproductive systems", "hi": "नर एवं मादा जनन तंत्र"}, {"en": "Gametogenesis; fertilisation", "hi": "युग्मकजनन; निषेचन"}, {"en": "Embryonic development", "hi": "भ्रूण विकास"}]},
+          {"en": "Reproductive Health", "hi": "जनन स्वास्थ्य", "topics": [{"en": "Reproductive health and STDs", "hi": "जनन स्वास्थ्य एवं यौन संचारित रोग"}, {"en": "Birth control methods", "hi": "जन्म नियंत्रण विधियाँ"}, {"en": "Infertility and ART", "hi": "बंध्यता एवं ART"}]},
+          {"en": "Principles of Inheritance and Variation", "hi": "वंशागति एवं विविधता के सिद्धांत", "topics": [{"en": "Mendel's laws of inheritance", "hi": "मेंडल के वंशागति के नियम"}, {"en": "Chromosomal theory of inheritance", "hi": "वंशागति का गुणसूत्र सिद्धांत"}, {"en": "Mutations", "hi": "उत्परिवर्तन"}]},
+          {"en": "Molecular Basis of Inheritance", "hi": "वंशागति का आणविक आधार", "topics": [{"en": "DNA structure and replication", "hi": "DNA संरचना एवं प्रतिकृति"}, {"en": "Transcription and translation", "hi": "अनुलेखन एवं अनुवाद"}, {"en": "Human genome project", "hi": "मानव जीनोम परियोजना"}]},
+          {"en": "Evolution", "hi": "विकास", "topics": [{"en": "Origin of life", "hi": "जीवन की उत्पत्ति"}, {"en": "Theories of evolution", "hi": "विकास के सिद्धांत"}, {"en": "Human evolution", "hi": "मानव विकास"}]},
+          {"en": "Human Health and Disease", "hi": "मानव स्वास्थ्य तथा रोग", "topics": [{"en": "Common diseases and pathogens", "hi": "सामान्य रोग एवं रोगाणु"}, {"en": "Immunity: innate and adaptive", "hi": "प्रतिरक्षा: सहज एवं उपार्जित"}, {"en": "Cancer, AIDS, drug abuse", "hi": "कैंसर, एड्स, मादक द्रव्य"}]},
+          {"en": "Microbes in Human Welfare", "hi": "मानव कल्याण में सूक्ष्मजीव", "topics": [{"en": "Microbes in food processing", "hi": "खाद्य प्रसंस्करण में सूक्ष्मजीव"}, {"en": "Microbes in sewage treatment", "hi": "वाहित मल उपचार में सूक्ष्मजीव"}, {"en": "Microbes in biocontrol and biofertilizers", "hi": "जैव नियंत्रण एवं जैव उर्वरक"}]},
+          {"en": "Biotechnology — Principles and Processes", "hi": "जैव प्रौद्योगिकी — सिद्धांत तथा प्रक्रम", "topics": [{"en": "Principles of biotechnology", "hi": "जैव प्रौद्योगिकी के सिद्धांत"}, {"en": "Tools of recombinant DNA technology", "hi": "पुनर्योगज DNA प्रौद्योगिकी के उपकरण"}]},
+          {"en": "Biotechnology and Its Applications", "hi": "जैव प्रौद्योगिकी और इसके अनुप्रयोग", "topics": [{"en": "Applications in agriculture and medicine", "hi": "कृषि एवं चिकित्सा में अनुप्रयोग"}, {"en": "Ethical issues in biotechnology", "hi": "जैव प्रौद्योगिकी में नैतिक मुद्दे"}]},
+          {"en": "Organisms and Populations", "hi": "जीव और समष्टियाँ", "topics": [{"en": "Organism and its environment", "hi": "जीव एवं इसका पर्यावरण"}, {"en": "Population attributes and growth", "hi": "समष्टि विशेषताएँ एवं वृद्धि"}]},
+          {"en": "Ecosystem", "hi": "पारिस्थितिकी तंत्र", "topics": [{"en": "Ecosystem structure and function", "hi": "पारितंत्र की संरचना एवं कार्य"}, {"en": "Energy flow; nutrient cycling", "hi": "ऊर्जा प्रवाह; पोषक चक्रण"}]},
+          {"en": "Biodiversity and Conservation", "hi": "जैव विविधता एवं संरक्षण", "topics": [{"en": "Biodiversity: types and importance", "hi": "जैव विविधता: प्रकार एवं महत्व"}, {"en": "Threats to biodiversity", "hi": "जैव विविधता के लिए खतरे"}, {"en": "In situ and ex situ conservation", "hi": "स्वस्थाने एवं बाह्य स्थाने संरक्षण"}]}
+        ]
+      }
+    }
+  ]
+}

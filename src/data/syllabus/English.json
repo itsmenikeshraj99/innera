@@ -1,0 +1,2609 @@
+{
+  "subjectId": "english",
+  "classes": [
+    {
+      "classId": "class6",
+      "subjects": {
+        "poorvi": {
+          "bookName": "Poorvi",
+          "icon": "🌅",
+          "edition": "current",
+          "note": "Current NCERT textbook (NEP 2020 / NCF-SE 2023), replaces Honeysuckle & A Pact with the Sun",
+          "chapters": [
+            {
+              "title": "A Bottle of Dew",
+              "type": "Story (Unit 1: Fables and Folk Tales)",
+              "topics": [
+                "Rama Natha's obsession with turning objects into gold",
+                "A sage's guidance to collect dew from banana plants",
+                "Theme: true wealth lies in hard work, not magic"
+              ]
+            },
+            {
+              "title": "The Raven and the Fox",
+              "type": "Story (Unit 1: Fables and Folk Tales)",
+              "topics": [
+                "Classic fable of flattery and cunning",
+                "A fox tricks a raven into dropping its cheese",
+                "Moral: beware of flattery"
+              ]
+            },
+            {
+              "title": "Rama to the Rescue",
+              "type": "Story (Unit 1: Fables and Folk Tales)",
+              "topics": [
+                "Episode from the Ramayana",
+                "Courage and duty",
+                "Indian mythological storytelling"
+              ]
+            },
+            {
+              "title": "The Unlikely Best Friends",
+              "type": "Story (Unit 2: Friendship)",
+              "topics": [
+                "An unusual friendship between different animals",
+                "Theme of acceptance and companionship"
+              ]
+            },
+            {
+              "title": "A Friend's Prayer",
+              "type": "Poem (Unit 2: Friendship)",
+              "topics": [
+                "A heartfelt poem about the value of friendship",
+                "Emotional expression through verse"
+              ]
+            },
+            {
+              "title": "The Chair",
+              "type": "Story (Unit 2: Friendship)",
+              "topics": [
+                "Mario and his friends learn about true friendship",
+                "A magical or symbolic chair as plot device"
+              ]
+            },
+            {
+              "title": "Neem Baba",
+              "type": "Story (Unit 3: Nurturing Nature)",
+              "topics": [
+                "Amber's journey exploring a neem tree",
+                "Connection between children and nature"
+              ]
+            },
+            {
+              "title": "What a Bird Thought",
+              "type": "Poem (Unit 3: Nurturing Nature)",
+              "topics": [
+                "A bird's perspective on freedom and growth",
+                "Nature imagery and reflection"
+              ]
+            },
+            {
+              "title": "Spices that Heal Us",
+              "type": "Prose (Unit 3: Nurturing Nature)",
+              "topics": [
+                "Turmeric, fenugreek, and other healing spices",
+                "Traditional Indian knowledge of natural remedies"
+              ]
+            },
+            {
+              "title": "Change of Heart",
+              "type": "Story (Unit 4: Sports and Wellness)",
+              "topics": [
+                "Prabhat discovers joy in playing beyond winning",
+                "Theme: sportsmanship over competition"
+              ]
+            },
+            {
+              "title": "The Winner",
+              "type": "Poem (Unit 4: Sports and Wellness)",
+              "topics": [
+                "Reflection on what it truly means to win",
+                "Values of perseverance and character"
+              ]
+            },
+            {
+              "title": "Yoga — A Way of Life",
+              "type": "Prose (Unit 4: Sports and Wellness)",
+              "topics": [
+                "Introduction to yoga as a holistic practice",
+                "Physical and mental wellness through yoga"
+              ]
+            },
+            {
+              "title": "Hamara Bharat — Incredible India!",
+              "type": "Prose (Unit 5: Culture and Tradition)",
+              "topics": [
+                "India's cultural diversity and unity",
+                "Regional traditions and heritage"
+              ]
+            },
+            {
+              "title": "The Kites",
+              "type": "Poem (Unit 5: Culture and Tradition)",
+              "topics": [
+                "Imagery of kites and freedom",
+                "Festive and cultural associations"
+              ]
+            },
+            {
+              "title": "Ila Sachani: Embroidering Dreams with Her Feet",
+              "type": "Prose - Biography (Unit 5: Culture and Tradition)",
+              "topics": [
+                "An inspiring story of overcoming physical disability",
+                "Embroidery skill achieved despite challenges",
+                "Determination and self-belief"
+              ]
+            },
+            {
+              "title": "National War Memorial",
+              "type": "Prose (Unit 5: Culture and Tradition)",
+              "topics": [
+                "Tribute to India's armed forces",
+                "Patriotism and remembrance"
+              ]
+            }
+          ]
+        },
+        "honeysuckle": {
+          "bookName": "Honeysuckle (Previous NCERT)",
+          "icon": "📖",
+          "edition": "previous",
+          "note": "Previous NCERT main reader, replaced by Poorvi",
+          "chapters": [
+            {
+              "title": "Who Did Patrick's Homework?",
+              "type": "Prose",
+              "topics": [
+                "A boy who dislikes doing homework",
+                "A mysterious little man who does his work",
+                "Twist ending — magic turns against Patrick",
+                "Theme: value of doing your own work"
+              ]
+            },
+            {
+              "title": "How the Dog Found Himself a New Master!",
+              "type": "Prose",
+              "topics": [
+                "The story of how dogs became domesticated",
+                "Dog's search for the most powerful master",
+                "Encounters with rabbit, tiger, and man",
+                "Loyalty and companionship theme"
+              ]
+            },
+            {
+              "title": "Taro's Reward",
+              "type": "Prose",
+              "topics": [
+                "Japanese folk tale about a poor woodcutter",
+                "Taro's kindness towards his old father",
+                "Magical waterfall of sake wine",
+                "Reward for filial devotion"
+              ]
+            },
+            {
+              "title": "An Indian-American Woman in Space: Kalpana Chawla",
+              "type": "Prose (Biography)",
+              "topics": [
+                "Kalpana Chawla's early life in India",
+                "Her journey to becoming an astronaut",
+                "Her space missions",
+                "Legacy and inspiration for young people"
+              ]
+            },
+            {
+              "title": "A Different Kind of School",
+              "type": "Prose",
+              "topics": [
+                "A school where children teach each other",
+                "Helen Keller as an inspiration",
+                "The value of empathy and inclusive education",
+                "Overcoming physical challenges"
+              ]
+            },
+            {
+              "title": "Who I Am",
+              "type": "Prose",
+              "topics": [
+                "Four different children share their unique stories",
+                "Overcoming obstacles: disability, poverty",
+                "Self-identity and self-belief"
+              ]
+            },
+            {
+              "title": "Fair Play",
+              "type": "Prose",
+              "topics": [
+                "A story about honesty and justice among children",
+                "Conflict and resolution over a cricket match",
+                "Value of fairness"
+              ]
+            },
+            {
+              "title": "A Game of Chance",
+              "type": "Prose",
+              "topics": [
+                "A visit to a village fair",
+                "Description of a lottery game",
+                "Lesson about gambling and its consequences"
+              ]
+            },
+            {
+              "title": "Desert Animals",
+              "type": "Prose",
+              "topics": [
+                "Adaptations of desert animals",
+                "Camels, snakes, and other desert creatures",
+                "Survival techniques in extreme climate"
+              ]
+            },
+            {
+              "title": "The Banyan Tree",
+              "type": "Prose",
+              "topics": [
+                "A boy's adventure climbing a banyan tree",
+                "Description of the tree's ecosystem",
+                "Squirrels and other creatures on the tree"
+              ]
+            }
+          ]
+        },
+        "pactWithSun": {
+          "bookName": "A Pact with the Sun (Previous NCERT)",
+          "icon": "☀️",
+          "edition": "previous",
+          "note": "Previous NCERT supplementary reader, replaced by Poorvi",
+          "chapters": [
+            {
+              "title": "A Tale of Two Birds",
+              "type": "Story",
+              "topics": [
+                "Two baby birds raised in different environments",
+                "Influence of upbringing on character",
+                "Moral about environment shaping personality"
+              ]
+            },
+            {
+              "title": "The Friendly Mongoose",
+              "type": "Story",
+              "topics": [
+                "A mongoose saves a baby from a snake",
+                "Misunderstanding leads to tragedy",
+                "Lesson: think before acting in haste"
+              ]
+            },
+            {
+              "title": "The Shepherd's Treasure",
+              "type": "Story",
+              "topics": [
+                "A shepherd discovers a mysterious treasure",
+                "Test of honesty and greed",
+                "Reward for truthful behavior"
+              ]
+            },
+            {
+              "title": "Tansen",
+              "type": "Story (Historical)",
+              "topics": [
+                "The legendary musician of Akbar's court",
+                "Tansen's magical musical abilities",
+                "Story of Raga Deepak and rains"
+              ]
+            },
+            {
+              "title": "The Monkey and the Crocodile",
+              "type": "Story",
+              "topics": [
+                "Classic Panchatantra tale",
+                "Monkey's wit outsmarts the crocodile",
+                "Theme: presence of mind saves the day"
+              ]
+            },
+            {
+              "title": "The Wonder Called Sleep",
+              "type": "Prose",
+              "topics": [
+                "Science and importance of sleep",
+                "What happens when we don't sleep enough",
+                "Sleep habits across different animals"
+              ]
+            },
+            {
+              "title": "A Pact with the Sun",
+              "type": "Story",
+              "topics": [
+                "A poor man makes a deal with the Sun God",
+                "Theme of honesty rewarded",
+                "Folk tale with moral lesson"
+              ]
+            },
+            {
+              "title": "What Happened to the Reptiles",
+              "type": "Prose",
+              "topics": [
+                "Evolution and extinction of dinosaurs",
+                "Theories about reptile extinction",
+                "Modern-day reptiles as descendants"
+              ]
+            },
+            {
+              "title": "A Strange Wrestling Match",
+              "type": "Story",
+              "topics": [
+                "A wrestling contest with an unusual twist",
+                "Wit versus brute strength",
+                "Humorous folk tale"
+              ]
+            }
+          ]
+        },
+        "grammar": {
+          "bookName": "English Grammar & Writing Skills",
+          "icon": "✏️",
+          "edition": "both",
+          "note": "",
+          "chapters": [
+            {
+              "title": "Nouns and Pronouns",
+              "type": "Grammar",
+              "topics": [
+                "Types of nouns",
+                "Personal, possessive, reflexive pronouns",
+                "Usage in sentences"
+              ]
+            },
+            {
+              "title": "Verbs and Tenses",
+              "type": "Grammar",
+              "topics": [
+                "Present, past, future tense",
+                "Regular and irregular verbs",
+                "Subject-verb agreement"
+              ]
+            },
+            {
+              "title": "Adjectives and Adverbs",
+              "type": "Grammar",
+              "topics": [
+                "Degrees of comparison",
+                "Types of adverbs",
+                "Placement in sentences"
+              ]
+            },
+            {
+              "title": "Prepositions and Conjunctions",
+              "type": "Grammar",
+              "topics": [
+                "Common prepositions of time/place",
+                "Coordinating and subordinating conjunctions"
+              ]
+            },
+            {
+              "title": "Punctuation and Sentence Structure",
+              "type": "Grammar",
+              "topics": [
+                "Capital letters, full stops, commas",
+                "Simple, compound, complex sentences"
+              ]
+            },
+            {
+              "title": "Writing Skills",
+              "type": "Composition",
+              "topics": [
+                "Paragraph writing",
+                "Letter writing — formal and informal",
+                "Story writing basics"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "classId": "class7",
+      "subjects": {
+        "poorvi": {
+          "bookName": "Poorvi",
+          "icon": "🌅",
+          "edition": "current",
+          "note": "Current NCERT textbook (NEP 2020 / NCF-SE 2023), replaces Honeycomb & An Alien Hand",
+          "chapters": [
+            {
+              "title": "The Day the River Spoke",
+              "type": "Story (Unit 1: Learning Together)",
+              "topics": [
+                "Environmental awareness through a river's perspective",
+                "Encourages listening to nature",
+                "Theme: cooperative learning"
+              ]
+            },
+            {
+              "title": "Try Again",
+              "type": "Poem (Unit 1: Learning Together)",
+              "topics": [
+                "Motivational poem about perseverance",
+                "Never giving up after failure"
+              ]
+            },
+            {
+              "title": "Three Days to See",
+              "type": "Prose (Unit 1: Learning Together)",
+              "topics": [
+                "Excerpt from Helen Keller's autobiography",
+                "Gratitude and appreciation of senses"
+              ]
+            },
+            {
+              "title": "Animals, Birds, and Dr. Dolittle",
+              "type": "Story (Unit 2: Wit and Humour)",
+              "topics": [
+                "Communication between humans and animals",
+                "Imagination and fantasy"
+              ]
+            },
+            {
+              "title": "A Funny Man",
+              "type": "Story (Unit 2: Wit and Humour)",
+              "topics": [
+                "A humorous character study",
+                "Comic timing and wordplay"
+              ]
+            },
+            {
+              "title": "Say the Right Thing",
+              "type": "Prose (Unit 2: Wit and Humour)",
+              "topics": [
+                "Art of communication",
+                "Knowing what, how, and when to speak"
+              ]
+            },
+            {
+              "title": "My Brother's Great Invention",
+              "type": "Story (Unit 3: Dreams and Discovery)",
+              "topics": [
+                "A tale of innovation and creativity",
+                "Spirit of invention despite failure"
+              ]
+            },
+            {
+              "title": "Paper Boats",
+              "type": "Poem (Unit 3: Dreams and Discovery)",
+              "topics": [
+                "Rabindranath Tagore's poem on childhood innocence",
+                "Floating dreams and distant connections"
+              ]
+            },
+            {
+              "title": "North, South, East, West",
+              "type": "Poem (Unit 3: Dreams and Discovery)",
+              "topics": [
+                "Exploration and directions as metaphor",
+                "Sense of discovery"
+              ]
+            },
+            {
+              "title": "The Tunnel",
+              "type": "Story (Unit 4: Travel and Adventure)",
+              "topics": [
+                "Ruskin Bond's suspenseful adventure story",
+                "Valuable life lessons through adventure"
+              ]
+            },
+            {
+              "title": "Travel",
+              "type": "Poem (Unit 4: Travel and Adventure)",
+              "topics": [
+                "Theme of journey and discovery",
+                "Descriptive imagery of new places"
+              ]
+            },
+            {
+              "title": "Conquering the Summit",
+              "type": "Prose (Unit 4: Travel and Adventure)",
+              "topics": [
+                "Mountaineering adventure narrative",
+                "Perseverance in the face of physical challenge"
+              ]
+            },
+            {
+              "title": "A Homage to Our Brave Soldiers",
+              "type": "Prose (Unit 5: Bravehearts)",
+              "topics": [
+                "Tribute to India's armed forces",
+                "Themes of courage and heroism"
+              ]
+            },
+            {
+              "title": "My Dear Soldiers",
+              "type": "Poem (Unit 5: Bravehearts)",
+              "topics": [
+                "Poetic tribute to soldiers",
+                "Patriotism and sacrifice"
+              ]
+            },
+            {
+              "title": "Rani Abbakka",
+              "type": "Prose - Biography (Unit 5: Bravehearts)",
+              "topics": [
+                "Historical account of Rani Abbakka's resistance against colonial powers",
+                "Courage and leadership of a woman warrior"
+              ]
+            }
+          ]
+        },
+        "honeycomb": {
+          "bookName": "Honeycomb (Previous NCERT)",
+          "icon": "🍯",
+          "edition": "previous",
+          "note": "Previous NCERT main reader, replaced by Poorvi",
+          "chapters": [
+            {
+              "title": "Three Questions",
+              "type": "Prose",
+              "topics": [
+                "A king seeks answers to three important questions",
+                "Wisdom of a hermit",
+                "Theme: the present moment matters most"
+              ]
+            },
+            {
+              "title": "A Gift of Chappals",
+              "type": "Prose",
+              "topics": [
+                "A young girl's simple act of kindness",
+                "Gandhian values reflected in story",
+                "Compassion for the less fortunate"
+              ]
+            },
+            {
+              "title": "Gopal and the Hilsa Fish",
+              "type": "Play",
+              "topics": [
+                "A humorous folk tale turned into a play",
+                "Trickery and wit of Gopal",
+                "Court of King Krishnachandra"
+              ]
+            },
+            {
+              "title": "The Ashes That Made Trees Bloom",
+              "type": "Prose (Folk Tale)",
+              "topics": [
+                "Japanese folk tale of an honest old couple",
+                "Magic dog and its ashes",
+                "Greed versus honesty theme"
+              ]
+            },
+            {
+              "title": "Quality",
+              "type": "Prose",
+              "topics": [
+                "An old German bootmaker's dedication to craft",
+                "Impact of mass production on small businesses",
+                "Theme of quality vs quantity"
+              ]
+            },
+            {
+              "title": "Expert Detectives",
+              "type": "Prose",
+              "topics": [
+                "Children playing detective games",
+                "A mysterious mix-up mystery",
+                "Humour and adventure"
+              ]
+            },
+            {
+              "title": "The Invention of Vita-Wonk",
+              "type": "Prose",
+              "topics": [
+                "Roald Dahl style fantasy invention story",
+                "A wonder chewing gum that changes age",
+                "Science fiction elements"
+              ]
+            },
+            {
+              "title": "Fire: Friend and Foe",
+              "type": "Prose",
+              "topics": [
+                "Discovery and uses of fire",
+                "Fire safety measures",
+                "Fire as both helpful and destructive"
+              ]
+            },
+            {
+              "title": "A Bicycle in Good Repair",
+              "type": "Prose",
+              "topics": [
+                "A humorous mishap about fixing a bicycle",
+                "Chain of comic errors",
+                "Satire on overconfidence"
+              ]
+            },
+            {
+              "title": "The Story of Cricket",
+              "type": "Prose",
+              "topics": [
+                "History and evolution of cricket",
+                "Rules and format changes over time",
+                "Cricket's popularity in India"
+              ]
+            }
+          ]
+        },
+        "alienHand": {
+          "bookName": "An Alien Hand (Previous NCERT)",
+          "icon": "👽",
+          "edition": "previous",
+          "note": "Previous NCERT supplementary reader, replaced by Poorvi",
+          "chapters": [
+            {
+              "title": "The Tiny Teacher",
+              "type": "Story",
+              "topics": [
+                "Life and society of ants",
+                "Organisation and teamwork among ants",
+                "Lessons humans can learn from insects"
+              ]
+            },
+            {
+              "title": "Bringing Up Kari",
+              "type": "Story",
+              "topics": [
+                "A pet elephant's upbringing",
+                "Bond between the narrator and Kari",
+                "Elephant behavior and training"
+              ]
+            },
+            {
+              "title": "Golu Grows a Nose",
+              "type": "Story",
+              "topics": [
+                "A baby elephant's growing trunk",
+                "Humorous and imaginative story",
+                "Elephant calf's adventures"
+              ]
+            },
+            {
+              "title": "Chandni",
+              "type": "Story",
+              "topics": [
+                "A goat named Chandni and her adventures",
+                "Bond between animals and children",
+                "Rural life setting"
+              ]
+            },
+            {
+              "title": "The Bear Story",
+              "type": "Story",
+              "topics": [
+                "An unexpected encounter with a bear",
+                "Courage and quick thinking",
+                "Nature and wildlife theme"
+              ]
+            },
+            {
+              "title": "A Tiger in the House",
+              "type": "Story",
+              "topics": [
+                "A pet tiger cub's growth into adulthood",
+                "Dilemma of keeping a wild animal as pet",
+                "Emotional and touching conclusion"
+              ]
+            },
+            {
+              "title": "An Alien Hand",
+              "type": "Science Fiction",
+              "topics": [
+                "Encounter with an alien on Earth",
+                "Science fiction and imagination",
+                "Theme of friendship across species"
+              ]
+            }
+          ]
+        },
+        "grammar": {
+          "bookName": "English Grammar & Writing Skills",
+          "icon": "✏️",
+          "edition": "both",
+          "note": "",
+          "chapters": [
+            {
+              "title": "Tenses in Detail",
+              "type": "Grammar",
+              "topics": [
+                "Simple, continuous, perfect tenses",
+                "Correct tense usage in context"
+              ]
+            },
+            {
+              "title": "Modals",
+              "type": "Grammar",
+              "topics": [
+                "Can, could, may, might, must, should",
+                "Expressing ability, permission, obligation"
+              ]
+            },
+            {
+              "title": "Active and Passive Voice",
+              "type": "Grammar",
+              "topics": [
+                "Rules for voice conversion",
+                "Usage in different tenses"
+              ]
+            },
+            {
+              "title": "Direct and Indirect Speech",
+              "type": "Grammar",
+              "topics": [
+                "Reporting verbs",
+                "Changes in pronouns and tenses"
+              ]
+            },
+            {
+              "title": "Clauses",
+              "type": "Grammar",
+              "topics": [
+                "Noun, adjective, adverb clauses",
+                "Identifying clause types"
+              ]
+            },
+            {
+              "title": "Writing Skills",
+              "type": "Composition",
+              "topics": [
+                "Diary entry writing",
+                "Notice and message writing",
+                "Article writing basics"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "classId": "class8",
+      "subjects": {
+        "poorvi": {
+          "bookName": "Poorvi",
+          "icon": "🌅",
+          "edition": "current",
+          "note": "Current NCERT textbook (NEP 2020 / NCF-SE 2023), replaces Honeydew & It So Happened",
+          "chapters": [
+            {
+              "title": "The Wit that Won Hearts",
+              "type": "Story (Unit 1: Wit and Wisdom)",
+              "topics": [
+                "Tenali Ramakrishna resolves royal misunderstandings",
+                "Vijayanagara Empire setting",
+                "Wit and intelligence as tools for problem-solving"
+              ]
+            },
+            {
+              "title": "A Concrete Example",
+              "type": "Poem (Unit 1: Wit and Wisdom)",
+              "topics": [
+                "Mrs. Jones's stone garden and delicate plants",
+                "Humour through wordplay"
+              ]
+            },
+            {
+              "title": "Wisdom Paves the Way",
+              "type": "Story (Unit 1: Wit and Wisdom)",
+              "topics": [
+                "Four young men impress the King of Ujjain",
+                "Insight and reasoning over brute strength"
+              ]
+            },
+            {
+              "title": "A Tale of Valour: Major Somnath Sharma and the Battle of Badgam",
+              "type": "Prose - Biography (Unit 2: Values and Dispositions)",
+              "topics": [
+                "Heroic account of Major Somnath Sharma",
+                "Battle of Badgam and strategic thinking",
+                "Patriotism and sacrifice"
+              ]
+            },
+            {
+              "title": "Somebody's Mother",
+              "type": "Poem (Unit 2: Values and Dispositions)",
+              "topics": [
+                "A poignant poem on human compassion and kindness",
+                "Value of helping strangers"
+              ]
+            },
+            {
+              "title": "Verghese Kurien — I Too Had A Dream",
+              "type": "Prose - Biography (Unit 2: Values and Dispositions)",
+              "topics": [
+                "Father of the White Revolution in India",
+                "Vision and determination in dairy cooperative movement"
+              ]
+            },
+            {
+              "title": "The Case of the Fifth Word",
+              "type": "Story (Unit 3: Mystery and Magic)",
+              "topics": [
+                "A mystery-solving narrative",
+                "Logical deduction and clue-based storytelling"
+              ]
+            },
+            {
+              "title": "The Magic Brush of Dreams",
+              "type": "Story (Unit 3: Mystery and Magic)",
+              "topics": [
+                "Fantasy story involving a magical paintbrush",
+                "Imagination and wonder"
+              ]
+            },
+            {
+              "title": "Spectacular Wonders",
+              "type": "Prose (Unit 3: Mystery and Magic)",
+              "topics": [
+                "Exploration of natural or man-made wonders",
+                "Curiosity-driven descriptive writing"
+              ]
+            },
+            {
+              "title": "The Cherry Tree",
+              "type": "Story (Unit 4: Environment)",
+              "topics": [
+                "Ruskin Bond's story of planting and nurturing a tree",
+                "Patience and connection with nature"
+              ]
+            },
+            {
+              "title": "Harvest Hymn",
+              "type": "Poem (Unit 4: Environment)",
+              "topics": [
+                "Poem celebrating agricultural harvest",
+                "Gratitude towards nature and farmers"
+              ]
+            },
+            {
+              "title": "Waiting for the Rain",
+              "type": "Prose (Unit 4: Environment)",
+              "topics": [
+                "Drought and the anticipation of monsoon",
+                "Human dependence on natural cycles"
+              ]
+            },
+            {
+              "title": "Feathered Friend",
+              "type": "Story (Unit 5: Science and Curiosity)",
+              "topics": [
+                "A bond between humans and birds",
+                "Observations of bird behaviour"
+              ]
+            },
+            {
+              "title": "Magnifying Glass",
+              "type": "Poem (Unit 5: Science and Curiosity)",
+              "topics": [
+                "Curiosity and scientific wonder",
+                "Exploring the world through observation"
+              ]
+            },
+            {
+              "title": "Bibha Chowdhuri: The Beam of Light that Lit the Path for Women in Indian Science",
+              "type": "Prose - Biography (Unit 5: Science and Curiosity)",
+              "topics": [
+                "Pioneering Indian woman physicist",
+                "Contribution to cosmic ray research",
+                "Breaking barriers for women in science"
+              ]
+            }
+          ]
+        },
+        "honeydew": {
+          "bookName": "Honeydew (Previous NCERT)",
+          "icon": "🍈",
+          "edition": "previous",
+          "note": "Previous NCERT main reader, replaced by Poorvi",
+          "chapters": [
+            {
+              "title": "The Best Christmas Present in the World",
+              "type": "Prose",
+              "topics": [
+                "A story about WWI soldiers",
+                "An unexpected Christmas truce",
+                "Anti-war message and humanity"
+              ]
+            },
+            {
+              "title": "The Tsunami",
+              "type": "Prose",
+              "topics": [
+                "Real accounts of the 2004 tsunami",
+                "Survival stories and human resilience",
+                "Natural disaster awareness"
+              ]
+            },
+            {
+              "title": "Glimpses of the Past",
+              "type": "Prose (History)",
+              "topics": [
+                "History of British colonial rule via pictures",
+                "Key events: 1857, Jallianwala Bagh",
+                "Freedom struggle timeline"
+              ]
+            },
+            {
+              "title": "Bepin Choudhury's Lapse of Memory",
+              "type": "Prose",
+              "topics": [
+                "A Satyajit Ray mystery story",
+                "Bepin's strange memory loss",
+                "Twist revealing a prank"
+              ]
+            },
+            {
+              "title": "The Summit Within",
+              "type": "Prose",
+              "topics": [
+                "Mountaineer's account of climbing Everest",
+                "Physical and spiritual challenges",
+                "Self-discovery through adventure"
+              ]
+            },
+            {
+              "title": "This is Jody's Fawn",
+              "type": "Prose",
+              "topics": [
+                "A boy's bond with an orphaned fawn",
+                "Themes of care and responsibility",
+                "Nature and animal companionship"
+              ]
+            },
+            {
+              "title": "A Visit to Cambridge",
+              "type": "Prose",
+              "topics": [
+                "Firdaus Kanga's interview with Stephen Hawking",
+                "Hawking's life with ALS disease",
+                "Triumph of the human spirit"
+              ]
+            },
+            {
+              "title": "A Short Monsoon Diary",
+              "type": "Prose",
+              "topics": [
+                "Ruskin Bond's account of monsoon in the hills",
+                "Nature descriptions",
+                "Personal diary style writing"
+              ]
+            },
+            {
+              "title": "The Great Stone Face – I & II",
+              "type": "Prose",
+              "topics": [
+                "Nathaniel Hawthorne's classic tale",
+                "A boy who grows up resembling a legendary face",
+                "Theme of noble character shaping destiny"
+              ]
+            }
+          ]
+        },
+        "itSoHappened": {
+          "bookName": "It So Happened (Previous NCERT)",
+          "icon": "📚",
+          "edition": "previous",
+          "note": "Previous NCERT supplementary reader, replaced by Poorvi",
+          "chapters": [
+            {
+              "title": "How the Camel Got His Hump",
+              "type": "Story",
+              "topics": [
+                "Rudyard Kipling's Just So story",
+                "A lazy camel's punishment",
+                "Origin myth style narrative"
+              ]
+            },
+            {
+              "title": "Children at Work",
+              "type": "Story",
+              "topics": [
+                "Child labour issues",
+                "A boy trapped in bonded labour",
+                "Social awareness theme"
+              ]
+            },
+            {
+              "title": "The Selfish Giant",
+              "type": "Story",
+              "topics": [
+                "Oscar Wilde's classic tale",
+                "A giant who learns to share his garden",
+                "Themes of selfishness and redemption"
+              ]
+            },
+            {
+              "title": "The Treasure Within",
+              "type": "Story",
+              "topics": [
+                "A story about hidden talents",
+                "Self-discovery and confidence",
+                "Overcoming self-doubt"
+              ]
+            },
+            {
+              "title": "Princess September",
+              "type": "Story",
+              "topics": [
+                "Somerset Maugham's tale of a princess and a bird",
+                "Freedom versus captivity theme",
+                "Fable-like narrative"
+              ]
+            },
+            {
+              "title": "The Fight",
+              "type": "Story",
+              "topics": [
+                "A conflict between two friends",
+                "Resolution through understanding",
+                "Coming of age themes"
+              ]
+            },
+            {
+              "title": "The Open Window",
+              "type": "Story",
+              "topics": [
+                "Saki's ironic and humorous short story",
+                "A young girl's elaborate prank",
+                "Twist ending"
+              ]
+            },
+            {
+              "title": "Jalebis",
+              "type": "Story",
+              "topics": [
+                "A boy's temptation and guilt over stolen money",
+                "Moral lesson about honesty",
+                "Everyday life in India"
+              ]
+            },
+            {
+              "title": "The Comet – I & II",
+              "type": "Story",
+              "topics": [
+                "Science fiction about a comet approaching Earth",
+                "Human reactions to impending disaster",
+                "Humour and irony"
+              ]
+            }
+          ]
+        },
+        "grammar": {
+          "bookName": "English Grammar & Writing Skills",
+          "icon": "✏️",
+          "edition": "both",
+          "note": "",
+          "chapters": [
+            {
+              "title": "Determiners",
+              "type": "Grammar",
+              "topics": [
+                "Articles, quantifiers, demonstratives",
+                "Correct usage rules"
+              ]
+            },
+            {
+              "title": "Verbs: Forms and Usage",
+              "type": "Grammar",
+              "topics": [
+                "Transitive and intransitive verbs",
+                "Phrasal verbs"
+              ]
+            },
+            {
+              "title": "Reported Speech (Advanced)",
+              "type": "Grammar",
+              "topics": [
+                "Reporting questions and commands",
+                "Complex sentence transformations"
+              ]
+            },
+            {
+              "title": "Clauses and Sentence Types",
+              "type": "Grammar",
+              "topics": [
+                "Complex and compound-complex sentences",
+                "Connectors and conjunctions"
+              ]
+            },
+            {
+              "title": "Editing and Omission",
+              "type": "Grammar",
+              "topics": [
+                "Error identification exercises",
+                "Common grammatical mistakes"
+              ]
+            },
+            {
+              "title": "Writing Skills",
+              "type": "Composition",
+              "topics": [
+                "Formal letter writing",
+                "Report writing",
+                "Story completion"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "classId": "class9",
+      "subjects": {
+        "kaveri": {
+          "bookName": "Kaveri",
+          "icon": "🌊",
+          "edition": "current",
+          "note": "Current NCERT textbook (2026-27, NCF-SE 2023), replaces Beehive & Moments — 8 units, each pairing one prose with one poem",
+          "chapters": [
+            {
+              "title": "How I Taught My Grandmother to Read",
+              "type": "Prose (Unit 1)",
+              "topics": [
+                "Sudha Murty's account of teaching her grandmother literacy",
+                "Learning leads to independence at any age",
+                "Intergenerational bond through education"
+              ]
+            },
+            {
+              "title": "Bharat Our Land",
+              "type": "Poem (Unit 1)",
+              "topics": [
+                "Poetic tribute to the Indian subcontinent",
+                "Cultural pride and belonging"
+              ]
+            },
+            {
+              "title": "Gifts of Grace: Honouring Our Vocations",
+              "type": "Prose (Unit 2)",
+              "topics": [
+                "Dignity of labour across different professions",
+                "Respect for diverse vocations"
+              ]
+            },
+            {
+              "title": "The Pot Maker / Canvas of Soil",
+              "type": "Poem (Unit 2)",
+              "topics": [
+                "Craftsmanship and traditional skills",
+                "Connection between artisan and material"
+              ]
+            },
+            {
+              "title": "I Cannot Remember My Mother",
+              "type": "Poem (Unit 3)",
+              "topics": [
+                "Tagore's reflective poem on childhood memory",
+                "Emotional and nostalgic imagery"
+              ]
+            },
+            {
+              "title": "Nine Gold Medals",
+              "type": "Prose (Unit 4)",
+              "topics": [
+                "Inspiring account of sportsmanship at Special Olympics",
+                "Compassion over competition"
+              ]
+            },
+            {
+              "title": "A Friend Found in Music",
+              "type": "Prose (Unit 5)",
+              "topics": [
+                "The healing and connective power of music",
+                "Friendship formed through shared art"
+              ]
+            },
+            {
+              "title": "Words",
+              "type": "Poem (Unit 6)",
+              "topics": [
+                "Reflection on the power and impact of language",
+                "Poetic exploration of expression"
+              ]
+            },
+            {
+              "title": "Believe in Yourself",
+              "type": "Prose (Unit 7/8)",
+              "topics": [
+                "Self-confidence and resilience themes",
+                "Motivational narrative for young readers"
+              ]
+            }
+          ]
+        },
+        "beehive": {
+          "bookName": "Beehive (Previous NCERT)",
+          "icon": "🐝",
+          "edition": "previous",
+          "note": "Previous NCERT main reader, replaced by Kaveri from 2026-27",
+          "chapters": [
+            {
+              "title": "The Fun They Had",
+              "type": "Prose",
+              "topics": [
+                "Science fiction about future education",
+                "Comparison of traditional and mechanical schools",
+                "Isaac Asimov's vision of technology in education"
+              ]
+            },
+            {
+              "title": "The Sound of Music",
+              "type": "Prose (Biography)",
+              "topics": [
+                "Evelyn Glennie's story — deaf percussionist",
+                "Bismillah Khan's journey with shehnai",
+                "Overcoming disability through passion for music"
+              ]
+            },
+            {
+              "title": "The Little Girl",
+              "type": "Prose",
+              "topics": [
+                "A young girl's fear of her father",
+                "Growth of understanding between father and daughter",
+                "Theme: perception versus reality"
+              ]
+            },
+            {
+              "title": "A Truly Beautiful Mind",
+              "type": "Prose (Biography)",
+              "topics": [
+                "Life of Albert Einstein",
+                "His unconventional thinking and struggles in school",
+                "Contribution to science and pacifism"
+              ]
+            },
+            {
+              "title": "The Snake and the Mirror",
+              "type": "Prose",
+              "topics": [
+                "A humorous encounter between a doctor and a snake",
+                "Self-admiration and vanity theme",
+                "Comic irony"
+              ]
+            },
+            {
+              "title": "My Childhood",
+              "type": "Prose (Autobiography)",
+              "topics": [
+                "A.P.J. Abdul Kalam's early life",
+                "Communal harmony in his hometown",
+                "Influence of teachers and family"
+              ]
+            },
+            {
+              "title": "Packing",
+              "type": "Prose (Humour)",
+              "topics": [
+                "Jerome K. Jerome's comic account of packing a bag",
+                "Chaos caused by friends' interference",
+                "Satire on human nature"
+              ]
+            },
+            {
+              "title": "Reach for the Top",
+              "type": "Prose (Biography)",
+              "topics": [
+                "Santosh Yadav — Everest climber",
+                "Maria Sharapova — tennis champion",
+                "Determination and achievement"
+              ]
+            },
+            {
+              "title": "The Bond of Love",
+              "type": "Prose",
+              "topics": [
+                "A pet bear's bond with its family",
+                "Emotional attachment between humans and animals",
+                "Bittersweet ending of separation"
+              ]
+            },
+            {
+              "title": "Kathmandu",
+              "type": "Prose (Travelogue)",
+              "topics": [
+                "Vikram Seth's travel account of Kathmandu",
+                "Description of temples and culture",
+                "Historical and architectural richness"
+              ]
+            },
+            {
+              "title": "If I Were You",
+              "type": "Play",
+              "topics": [
+                "A thriller involving identity theft",
+                "Suspense and quick thinking",
+                "Twist in the climax"
+              ]
+            }
+          ]
+        },
+        "moments": {
+          "bookName": "Moments (Previous NCERT)",
+          "icon": "⏳",
+          "edition": "previous",
+          "note": "Previous NCERT supplementary reader, replaced by Kaveri from 2026-27",
+          "chapters": [
+            {
+              "title": "The Lost Child",
+              "type": "Story",
+              "topics": [
+                "A child lost in a village fair",
+                "Materialism versus parental love",
+                "Emotional reunion theme"
+              ]
+            },
+            {
+              "title": "The Adventures of Toto",
+              "type": "Story",
+              "topics": [
+                "Ruskin Bond's tale of a mischievous pet monkey",
+                "Humorous family incidents",
+                "Bond between pet and owner"
+              ]
+            },
+            {
+              "title": "Iswaran the Storyteller",
+              "type": "Story",
+              "topics": [
+                "A cook who tells thrilling ghost stories",
+                "Blurring of imagination and reality",
+                "Humour and suspense"
+              ]
+            },
+            {
+              "title": "In the Kingdom of Fools",
+              "type": "Story",
+              "topics": [
+                "A folk tale satirizing foolish rulers",
+                "Guru and disciple escape execution",
+                "Irony and wit"
+              ]
+            },
+            {
+              "title": "The Happy Prince",
+              "type": "Story",
+              "topics": [
+                "Oscar Wilde's tale of a statue and a swallow",
+                "Selflessness and sacrifice",
+                "Social inequality theme"
+              ]
+            },
+            {
+              "title": "Weathering the Storm in Ersama",
+              "type": "Story",
+              "topics": [
+                "A real account of the Odisha cyclone",
+                "Courage of a young boy during disaster",
+                "Human resilience"
+              ]
+            },
+            {
+              "title": "The Last Leaf",
+              "type": "Story",
+              "topics": [
+                "O. Henry's story of hope and sacrifice",
+                "An old painter's final masterpiece",
+                "Theme: will to live"
+              ]
+            },
+            {
+              "title": "A House is Not a Home",
+              "type": "Story",
+              "topics": [
+                "Reflection on the meaning of home",
+                "Emotional versus physical shelter",
+                "Compassion for the homeless"
+              ]
+            },
+            {
+              "title": "The Beggar",
+              "type": "Story",
+              "topics": [
+                "A beggar's transformation through honest work",
+                "Anton Chekhov's moral tale",
+                "Redemption and self-respect"
+              ]
+            }
+          ]
+        },
+        "mainCourseBook": {
+          "bookName": "Main Course Book (CBSE Communicative)",
+          "icon": "📗",
+          "edition": "communicative",
+          "note": "CBSE Communicative English course (used by some CBSE-affiliated schools alongside/instead of NCERT)",
+          "chapters": [
+            {
+              "title": "Health and Medicine",
+              "type": "Unit (Reading & Speaking)",
+              "topics": [
+                "Passages on health awareness and medical topics",
+                "Vocabulary building around wellness"
+              ]
+            },
+            {
+              "title": "Education",
+              "type": "Unit (Reading & Speaking)",
+              "topics": [
+                "Texts exploring value and purpose of education",
+                "Discussion and comprehension exercises"
+              ]
+            },
+            {
+              "title": "Science",
+              "type": "Unit (Reading & Speaking)",
+              "topics": [
+                "Science-themed reading passages",
+                "Technical vocabulary and comprehension"
+              ]
+            },
+            {
+              "title": "Environment",
+              "type": "Unit (Reading & Speaking)",
+              "topics": [
+                "Environmental issues and conservation",
+                "Persuasive and descriptive writing practice"
+              ]
+            },
+            {
+              "title": "Travel and Tourism",
+              "type": "Unit (Reading & Speaking)",
+              "topics": [
+                "Travel-related vocabulary and dialogues",
+                "Cultural exchange through travel narratives"
+              ]
+            },
+            {
+              "title": "National Integration",
+              "type": "Unit (Reading & Speaking)",
+              "topics": [
+                "Unity in diversity themes",
+                "Communication skills practice"
+              ]
+            }
+          ]
+        },
+        "wordsExpressions1": {
+          "bookName": "Words and Expressions 1 (Workbook)",
+          "icon": "📘",
+          "edition": "communicative",
+          "note": "CBSE Communicative workbook accompanying Main Course Book",
+          "chapters": [
+            {
+              "title": "Vocabulary Building Exercises",
+              "type": "Workbook",
+              "topics": [
+                "Word formation, synonyms, antonyms",
+                "Idiomatic expressions practice"
+              ]
+            },
+            {
+              "title": "Grammar in Context",
+              "type": "Workbook",
+              "topics": [
+                "Applied grammar exercises tied to unit themes",
+                "Error correction and editing tasks"
+              ]
+            },
+            {
+              "title": "Integrated Grammar Practice",
+              "type": "Workbook",
+              "topics": [
+                "Combined grammar and vocabulary tasks",
+                "Practice for board-style questions"
+              ]
+            }
+          ]
+        },
+        "literatureReaderCbse": {
+          "bookName": "Interact in English — Literature Reader (CBSE)",
+          "icon": "📙",
+          "edition": "communicative",
+          "note": "CBSE Communicative supplementary literature reader",
+          "chapters": [
+            {
+              "title": "The Fun They Had",
+              "type": "Prose (shared with Beehive)",
+              "topics": [
+                "Same content as in the NCERT Beehive reader",
+                "Science fiction on the future of education"
+              ]
+            },
+            {
+              "title": "Poetry Selections",
+              "type": "Poetry",
+              "topics": [
+                "Curated poems for literary appreciation",
+                "Analysis of theme, tone and imagery"
+              ]
+            },
+            {
+              "title": "Short Story Selections",
+              "type": "Prose",
+              "topics": [
+                "Selected short stories for comprehension and discussion",
+                "Character and plot analysis exercises"
+              ]
+            }
+          ]
+        },
+        "workbookCbse": {
+          "bookName": "Workbook (CBSE Communicative)",
+          "icon": "📓",
+          "edition": "communicative",
+          "note": "Companion practice workbook for CBSE Communicative English course",
+          "chapters": [
+            {
+              "title": "Comprehension Practice",
+              "type": "Workbook",
+              "topics": [
+                "Unseen passage practice",
+                "Note-making and summarizing exercises"
+              ]
+            },
+            {
+              "title": "Writing Skill Practice",
+              "type": "Workbook",
+              "topics": [
+                "Letter, notice, and article writing drills",
+                "Structured writing frameworks"
+              ]
+            }
+          ]
+        },
+        "threeMenInABoat": {
+          "bookName": "Three Men in a Boat",
+          "icon": "🚤",
+          "edition": "novel",
+          "note": "Long Reading Text (Novel) by Jerome K. Jerome — CBSE Class 9",
+          "chapters": [
+            {
+              "title": "Three Men in a Boat — Novel Overview",
+              "type": "Novel by Jerome K. Jerome (Long Reading Text)",
+              "topics": [
+                "Three friends — J. (narrator), George, and Harris — along with their dog Montmorency, take a comic boating trip up the River Thames",
+                "The story opens with the three 'hypochondriacs' discussing their imaginary ailments before deciding a holiday will cure them",
+                "Humorous mishaps include struggles with an oil stove, getting lost in Hampton Court Maze, and troubles opening a tin of pineapple",
+                "Digressions into local history along the Thames (Kingston, Hampton Court, Magna Carta island) blend travelogue with comedy",
+                "Central themes: friendship, humour, the escape from modern civilisation, and finding joy in simple pleasures",
+                "Known for its blend of slapstick comedy with reflective, almost poetic passages about nature"
+              ]
+            }
+          ]
+        },
+        "gulliversTravels": {
+          "bookName": "Gulliver's Travels",
+          "icon": "🗺️",
+          "edition": "novel",
+          "note": "Long Reading Text (Novel) by Jonathan Swift — CBSE Class 9 (often abridged Parts I & II: Lilliput and Brobdingnag)",
+          "chapters": [
+            {
+              "title": "Gulliver's Travels — Novel Overview",
+              "type": "Novel by Jonathan Swift (Long Reading Text)",
+              "topics": [
+                "Part I — A Voyage to Lilliput: Gulliver is shipwrecked among six-inch-tall people; observes their petty political conflicts (Big-Endians vs Little-Endians)",
+                "Part II — A Voyage to Brobdingnag: Gulliver becomes a tiny curiosity among 60-foot giants, exposing human pettiness by comparison",
+                "Part III — Laputa and surrounding lands: satire on impractical scientists, philosophers, and 'projectors' detached from reality",
+                "Part IV — The Houyhnhnms: rational horses contrasted with brutish Yahoos, Swift's sharpest satire on human nature",
+                "Central themes: political satire, human folly and pride, relativity of size and perspective, critique of 18th-century English society",
+                "Gulliver serves as an everyman narrator whose journeys mirror Swift's broader commentary on politics, science, and morality"
+              ]
+            }
+          ]
+        },
+        "grammar": {
+          "bookName": "English Grammar & Writing Skills",
+          "icon": "✏️",
+          "edition": "both",
+          "note": "",
+          "chapters": [
+            {
+              "title": "Tenses (Advanced Usage)",
+              "type": "Grammar",
+              "topics": [
+                "Perfect continuous tenses",
+                "Tense consistency in writing"
+              ]
+            },
+            {
+              "title": "Modals (Advanced)",
+              "type": "Grammar",
+              "topics": [
+                "Modal perfect forms",
+                "Expressing possibility and deduction"
+              ]
+            },
+            {
+              "title": "Subject-Verb Concord",
+              "type": "Grammar",
+              "topics": [
+                "Agreement rules with collective nouns",
+                "Tricky agreement cases"
+              ]
+            },
+            {
+              "title": "Determiners (Advanced)",
+              "type": "Grammar",
+              "topics": [
+                "Usage of few, a few, the few",
+                "Quantifiers with countable/uncountable nouns"
+              ]
+            },
+            {
+              "title": "Reported Speech (All Forms)",
+              "type": "Grammar",
+              "topics": [
+                "Reporting statements, questions, commands, exclamations"
+              ]
+            },
+            {
+              "title": "Writing Skills",
+              "type": "Composition",
+              "topics": [
+                "Formal and informal letters",
+                "Diary entry",
+                "Story writing",
+                "Analytical paragraph"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "classId": "class10",
+      "subjects": {
+        "firstFlight": {
+          "bookName": "First Flight",
+          "icon": "✈️",
+          "edition": "current",
+          "note": "",
+          "chapters": [
+            {
+              "title": "A Letter to God",
+              "type": "Prose",
+              "topics": [
+                "A farmer's unwavering faith in God",
+                "Postal workers' compassion",
+                "Irony of faith and disillusionment"
+              ]
+            },
+            {
+              "title": "Nelson Mandela: Long Walk to Freedom",
+              "type": "Prose (Autobiography)",
+              "topics": [
+                "Mandela's inauguration speech",
+                "The struggle against apartheid",
+                "Freedom as a continuous journey"
+              ]
+            },
+            {
+              "title": "Two Stories about Flying",
+              "type": "Prose",
+              "topics": [
+                "'His First Flight' — a seagull's fear of flying",
+                "'Black Aeroplane' — a pilot's mysterious guide through a storm",
+                "Themes of courage and the unknown"
+              ]
+            },
+            {
+              "title": "From the Diary of Anne Frank",
+              "type": "Prose (Diary)",
+              "topics": [
+                "Anne Frank's life in hiding during WWII",
+                "Her thoughts on loneliness and identity",
+                "Historical context of the Holocaust"
+              ]
+            },
+            {
+              "title": "Glimpses of India",
+              "type": "Prose",
+              "topics": [
+                "'A Baker from Goa' — traditions of Goan bakers",
+                "'Coorg' — description of Coorg's culture and landscape",
+                "'Tea from Assam' — history of tea plantations"
+              ]
+            },
+            {
+              "title": "Mijbil the Otter",
+              "type": "Prose",
+              "topics": [
+                "Author's journey bringing home a pet otter",
+                "Otter's playful and mischievous nature",
+                "Bond between man and animal"
+              ]
+            },
+            {
+              "title": "Madam Rides the Bus",
+              "type": "Prose",
+              "topics": [
+                "A young girl's first solo bus journey",
+                "Excitement and self-discovery",
+                "Innocent perspective of childhood"
+              ]
+            },
+            {
+              "title": "The Sermon at Benares",
+              "type": "Prose",
+              "topics": [
+                "Buddha's teaching on the inevitability of death",
+                "Kisa Gotami's story of loss and enlightenment",
+                "Philosophical reflection"
+              ]
+            },
+            {
+              "title": "The Proposal",
+              "type": "Play",
+              "topics": [
+                "Anton Chekhov's comic play about a marriage proposal",
+                "Constant arguments between the characters",
+                "Satire on human quarrelsomeness"
+              ]
+            }
+          ]
+        },
+        "footprints": {
+          "bookName": "Footprints without Feet",
+          "icon": "👣",
+          "edition": "current",
+          "note": "",
+          "chapters": [
+            {
+              "title": "A Triumph of Surgery",
+              "type": "Story",
+              "topics": [
+                "A comic vet story about an overfed dog",
+                "Tricky owner and clever solution",
+                "Humour in animal care"
+              ]
+            },
+            {
+              "title": "The Thief's Story",
+              "type": "Story",
+              "topics": [
+                "A thief's changing relationship with his victim",
+                "Internal conflict and moral transformation",
+                "Theme of trust and redemption"
+              ]
+            },
+            {
+              "title": "The Midnight Visitor",
+              "type": "Story",
+              "topics": [
+                "A spy thriller with a clever twist",
+                "Ausable outsmarts a rival spy",
+                "Suspense and wit"
+              ]
+            },
+            {
+              "title": "A Question of Trust",
+              "type": "Story",
+              "topics": [
+                "A jewel thief outwitted by another con artist",
+                "Irony of deception among thieves",
+                "Twist ending"
+              ]
+            },
+            {
+              "title": "Footprints without Feet",
+              "type": "Science Fiction",
+              "topics": [
+                "H.G. Wells-inspired story of an invisible man",
+                "Consequences of scientific experimentation",
+                "Moral dilemma of misuse of power"
+              ]
+            },
+            {
+              "title": "The Making of a Scientist",
+              "type": "Story",
+              "topics": [
+                "Richard Ebright's journey to becoming a scientist",
+                "Curiosity fostered by his mother",
+                "Real-life inspiration for young learners"
+              ]
+            },
+            {
+              "title": "The Necklace",
+              "type": "Story",
+              "topics": [
+                "Guy de Maupassant's classic tale of vanity",
+                "A woman's life ruined by a borrowed necklace",
+                "Irony and consequence of pride"
+              ]
+            },
+            {
+              "title": "Bholi",
+              "type": "Story",
+              "topics": [
+                "A girl overcoming childhood trauma and social stigma",
+                "Empowerment through education",
+                "Theme of self-worth"
+              ]
+            },
+            {
+              "title": "The Book That Saved the Earth",
+              "type": "Play (Science Fiction)",
+              "topics": [
+                "A humorous alien invasion story",
+                "Misinterpretation of a children's book by Martians",
+                "Satire and comedy"
+              ]
+            }
+          ]
+        },
+        "mainCourseBook": {
+          "bookName": "Main Course Book (CBSE Communicative)",
+          "icon": "📗",
+          "edition": "communicative",
+          "note": "CBSE Communicative English course for Class 10",
+          "chapters": [
+            {
+              "title": "Social Issues",
+              "type": "Unit (Reading & Speaking)",
+              "topics": [
+                "Passages on contemporary social issues",
+                "Discussion and debate skill-building"
+              ]
+            },
+            {
+              "title": "Environment",
+              "type": "Unit (Reading & Speaking)",
+              "topics": [
+                "Climate and conservation themed texts",
+                "Persuasive writing practice"
+              ]
+            },
+            {
+              "title": "Adventure and Exploration",
+              "type": "Unit (Reading & Speaking)",
+              "topics": [
+                "Adventure narratives and travel writing",
+                "Descriptive vocabulary building"
+              ]
+            },
+            {
+              "title": "Science and Technology",
+              "type": "Unit (Reading & Speaking)",
+              "topics": [
+                "Science-themed comprehension passages",
+                "Technical writing conventions"
+              ]
+            }
+          ]
+        },
+        "wordsExpressions2": {
+          "bookName": "Words and Expressions 2 (Workbook)",
+          "icon": "📘",
+          "edition": "communicative",
+          "note": "CBSE Communicative workbook accompanying Main Course Book for Class 10",
+          "chapters": [
+            {
+              "title": "Vocabulary and Grammar Integration",
+              "type": "Workbook",
+              "topics": [
+                "Applied vocabulary tied to unit themes",
+                "Grammar in communicative contexts"
+              ]
+            },
+            {
+              "title": "Board Exam Style Practice",
+              "type": "Workbook",
+              "topics": [
+                "Practice questions mirroring board exam patterns",
+                "Error analysis and correction"
+              ]
+            }
+          ]
+        },
+        "literatureReaderCbse": {
+          "bookName": "Interact in English — Literature Reader (CBSE)",
+          "icon": "📙",
+          "edition": "communicative",
+          "note": "CBSE Communicative supplementary literature reader for Class 10",
+          "chapters": [
+            {
+              "title": "Prose and Poetry Selections",
+              "type": "Literature",
+              "topics": [
+                "Curated prose and poems for comprehension",
+                "Literary device identification and analysis"
+              ]
+            },
+            {
+              "title": "Play Extracts",
+              "type": "Drama",
+              "topics": [
+                "Excerpts from plays for performance-based learning",
+                "Character study and dialogue analysis"
+              ]
+            }
+          ]
+        },
+        "workbookCbse": {
+          "bookName": "Workbook (CBSE Communicative)",
+          "icon": "📓",
+          "edition": "communicative",
+          "note": "Companion practice workbook for CBSE Communicative English course, Class 10",
+          "chapters": [
+            {
+              "title": "Integrated Grammar and Writing",
+              "type": "Workbook",
+              "topics": [
+                "Combined grammar-writing exercises",
+                "Formal and informal writing formats practice"
+              ]
+            }
+          ]
+        },
+        "annefrank": {
+          "bookName": "The Diary of a Young Girl (Anne Frank)",
+          "icon": "📔",
+          "edition": "novel",
+          "note": "Long Reading Text (Autobiography/Diary) by Anne Frank — supplementary reading for Class 10",
+          "chapters": [
+            {
+              "title": "The Diary of a Young Girl — Book Overview",
+              "type": "Diary/Autobiography by Anne Frank (Long Reading Text)",
+              "topics": [
+                "Anne Frank's real diary written while hiding from Nazi persecution in Amsterdam (1942–1944)",
+                "Life in the secret 'Annexe' with her family and others, and the daily fears of discovery",
+                "Anne's reflections on adolescence, identity, family relationships, and hope amid horror",
+                "Historical context of the Holocaust and Nazi occupation of the Netherlands",
+                "The diary ends abruptly before her capture; she died in a concentration camp in 1945",
+                "Enduring themes: courage, the power of writing, resilience of the human spirit, and the tragedy of war"
+              ]
+            }
+          ]
+        },
+        "storyOfMyLife": {
+          "bookName": "The Story of My Life (Helen Keller)",
+          "icon": "📖",
+          "edition": "novel",
+          "note": "Long Reading Text (Autobiography) by Helen Keller — supplementary reading for Class 10",
+          "chapters": [
+            {
+              "title": "The Story of My Life — Book Overview",
+              "type": "Autobiography by Helen Keller (Long Reading Text)",
+              "topics": [
+                "Helen Keller's account of losing sight and hearing after a childhood illness",
+                "Her breakthrough moment learning language through teacher Anne Sullivan (the famous 'water' scene)",
+                "Her education and remarkable achievement of graduating from Radcliffe College",
+                "Overcoming immense physical challenges through determination and support",
+                "Themes: triumph of the human will, the transformative power of education, disability and resilience"
+              ]
+            }
+          ]
+        },
+        "cantervilleGhost": {
+          "bookName": "The Canterville Ghost",
+          "icon": "👻",
+          "edition": "novel",
+          "note": "Long Reading Text (Novella) by Oscar Wilde — supplementary reading for Class 10",
+          "chapters": [
+            {
+              "title": "The Canterville Ghost — Novella Overview",
+              "type": "Novella by Oscar Wilde (Long Reading Text)",
+              "topics": [
+                "An American family moves into a haunted English mansion and refuses to be scared of its resident ghost",
+                "Comic reversal: the pragmatic, modern Americans outwit and humiliate the traditional ghost with their unsentimental attitude",
+                "Virginia, the young daughter, eventually helps the ghost find peace and release from his centuries-old curse",
+                "Blend of gothic horror parody with romance and redemption",
+                "Themes: clash of old-world tradition versus modernity, forgiveness, innocence, and spiritual redemption"
+              ]
+            }
+          ]
+        },
+        "upFromSlavery": {
+          "bookName": "Up From Slavery (Booker T. Washington)",
+          "icon": "📕",
+          "edition": "novel",
+          "note": "Long Reading Text (Autobiography) by Booker T. Washington — supplementary reading for Class 10",
+          "chapters": [
+            {
+              "title": "Up From Slavery — Book Overview",
+              "type": "Autobiography by Booker T. Washington (Long Reading Text)",
+              "topics": [
+                "Booker T. Washington's journey from childhood enslavement to becoming a renowned educator",
+                "His struggle for education despite poverty and racial discrimination in the post-Civil War American South",
+                "Founding and building the Tuskegee Institute for African-American education",
+                "His philosophy of self-reliance, vocational education, and gradual social progress",
+                "Themes: perseverance, the transformative power of education, racial uplift, and personal dignity"
+              ]
+            }
+          ]
+        },
+        "grammar": {
+          "bookName": "English Grammar & Writing Skills (Board Level)",
+          "icon": "✏️",
+          "edition": "current",
+          "note": "",
+          "chapters": [
+            {
+              "title": "Tenses and Modals (Board Level)",
+              "type": "Grammar",
+              "topics": [
+                "Comprehensive tense revision",
+                "Modal verbs in context-based questions"
+              ]
+            },
+            {
+              "title": "Voice and Narration (Board Level)",
+              "type": "Grammar",
+              "topics": [
+                "Active-passive transformation practice",
+                "Direct-indirect speech in exam format"
+              ]
+            },
+            {
+              "title": "Gap Filling and Editing",
+              "type": "Grammar",
+              "topics": [
+                "Determiners, prepositions in context",
+                "Error correction exercises"
+              ]
+            },
+            {
+              "title": "Sentence Reordering",
+              "type": "Grammar",
+              "topics": [
+                "Jumbled words into meaningful sentences",
+                "Clause and phrase ordering"
+              ]
+            },
+            {
+              "title": "Writing Skills (Board Level)",
+              "type": "Composition",
+              "topics": [
+                "Formal letters — complaint, inquiry, order",
+                "Analytical paragraph writing",
+                "Story and article writing"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "classId": "class11",
+      "subjects": {
+        "hornbill": {
+          "bookName": "Hornbill",
+          "icon": "🦜",
+          "edition": "current",
+          "note": "Rationalised edition — 'Landscape of the Soul' and 'The Browning Version' removed as per latest CBSE reduced syllabus",
+          "chapters": [
+            {
+              "title": "The Portrait of a Lady",
+              "type": "Prose",
+              "topics": [
+                "Khushwant Singh's memoir of his grandmother",
+                "Changing relationship due to modernization",
+                "Themes of tradition and detachment"
+              ]
+            },
+            {
+              "title": "We're Not Afraid to Die... if We Can All Be Together",
+              "type": "Prose",
+              "topics": [
+                "A family's sailing voyage disaster",
+                "Courage and teamwork during crisis",
+                "Survival against natural calamity"
+              ]
+            },
+            {
+              "title": "Discovering Tut: the Saga Continues",
+              "type": "Prose",
+              "topics": [
+                "Modern forensic investigation of Tutankhamun's mummy",
+                "History and mystery of ancient Egypt",
+                "Science meeting archaeology"
+              ]
+            },
+            {
+              "title": "The Ailing Planet: the Green Movers Whisper",
+              "type": "Prose",
+              "topics": [
+                "Environmental degradation and its causes",
+                "Global movements for conservation",
+                "Call to environmental responsibility"
+              ]
+            },
+            {
+              "title": "The Adventure",
+              "type": "Story (Science Fiction)",
+              "topics": [
+                "Alternate history and parallel universe concept",
+                "A historian's journey through time",
+                "Philosophical questions about fate"
+              ]
+            },
+            {
+              "title": "Silk Road",
+              "type": "Prose (Travelogue)",
+              "topics": [
+                "Journey along the ancient Silk Road to Tibet",
+                "Cultural and geographical descriptions",
+                "Adventure and self-discovery"
+              ]
+            }
+          ]
+        },
+        "snapshots": {
+          "bookName": "Snapshots",
+          "icon": "📸",
+          "edition": "current",
+          "note": "Rationalised edition — 'Ranga's Marriage', 'Albert Einstein at School', and 'The Ghat of the Only World' removed as per latest CBSE reduced syllabus",
+          "chapters": [
+            {
+              "title": "The Summer of the Beautiful White Horse",
+              "type": "Story",
+              "topics": [
+                "Two boys borrow a horse without permission",
+                "Themes of honesty and cultural values",
+                "Armenian family traditions"
+              ]
+            },
+            {
+              "title": "The Address",
+              "type": "Story",
+              "topics": [
+                "Post-war story about lost belongings",
+                "Search for identity and memory",
+                "Emotional reflection on loss"
+              ]
+            },
+            {
+              "title": "Mother's Day",
+              "type": "Play",
+              "topics": [
+                "A satirical play about family and gender roles",
+                "Comic reversal of household responsibilities",
+                "Social commentary"
+              ]
+            },
+            {
+              "title": "Birth",
+              "type": "Story",
+              "topics": [
+                "A doctor's account of a difficult childbirth",
+                "Emotional tension and relief",
+                "Celebration of new life"
+              ]
+            },
+            {
+              "title": "The Tale of Melon City",
+              "type": "Poem/Story",
+              "topics": [
+                "A satirical tale about a foolish king and justice",
+                "Irony and political commentary",
+                "Humour in verse form"
+              ]
+            }
+          ]
+        },
+        "wovenWords": {
+          "bookName": "Woven Words (Elective)",
+          "icon": "🧵",
+          "edition": "elective",
+          "note": "Elective NCERT supplementary reader for Class 11 (prose, fiction, poetry, and drama sections)",
+          "chapters": [
+            {
+              "title": "Prose Section",
+              "type": "Prose Anthology",
+              "topics": [
+                "Selected essays and non-fiction pieces from world literature",
+                "Diverse authorial voices and styles"
+              ]
+            },
+            {
+              "title": "Fiction Section",
+              "type": "Short Stories",
+              "topics": [
+                "Short stories by acclaimed international and Indian authors",
+                "Varied narrative techniques and themes"
+              ]
+            },
+            {
+              "title": "Poetry Section",
+              "type": "Poetry Anthology",
+              "topics": [
+                "Curated poems spanning different eras and poets",
+                "Focus on poetic form, imagery, and interpretation"
+              ]
+            },
+            {
+              "title": "Drama Section",
+              "type": "Play Extracts",
+              "topics": [
+                "Extracts from notable plays",
+                "Dramatic structure, dialogue, and stagecraft"
+              ]
+            }
+          ]
+        },
+        "houndOfBaskervilles": {
+          "bookName": "The Hound of the Baskervilles",
+          "icon": "🐕",
+          "edition": "novel",
+          "note": "Long Reading Text (Novel) by Arthur Conan Doyle — supplementary reading for Class 11",
+          "chapters": [
+            {
+              "title": "The Hound of the Baskervilles — Novel Overview",
+              "type": "Novel by Arthur Conan Doyle (Long Reading Text)",
+              "topics": [
+                "Sherlock Holmes and Dr. Watson investigate a supposed supernatural curse afflicting the Baskerville family on Dartmoor",
+                "Sir Charles Baskerville's mysterious death and the arrival of his heir, Sir Henry, into a web of danger",
+                "Holmes's methodical deduction gradually unmasks a very human, calculated murder plot disguised as a legendary curse",
+                "Atmospheric gothic setting of the foggy moor heightens suspense throughout the mystery",
+                "Themes: reason versus superstition, greed and inheritance, classic detective fiction conventions"
+              ]
+            }
+          ]
+        },
+        "invisibleMan": {
+          "bookName": "The Invisible Man",
+          "icon": "🫥",
+          "edition": "novel",
+          "note": "Long Reading Text (Science Fiction Novel) by H.G. Wells — supplementary reading for Class 11",
+          "chapters": [
+            {
+              "title": "The Invisible Man — Novel Overview",
+              "type": "Novel by H.G. Wells (Long Reading Text)",
+              "topics": [
+                "Griffin, a scientist, discovers a method to become invisible but cannot reverse the process",
+                "His descent into isolation, paranoia, and increasingly violent behaviour as society rejects him",
+                "Conflict between Griffin and the villagers/authorities as his invisibility is exploited for crime and terror",
+                "His eventual downfall and death, becoming visible again only in death",
+                "Themes: the corrupting effect of unchecked power, isolation, scientific responsibility, and the double-edged nature of ambition"
+              ]
+            }
+          ]
+        },
+        "grammar": {
+          "bookName": "English Grammar & Writing Skills",
+          "icon": "✏️",
+          "edition": "current",
+          "note": "",
+          "chapters": [
+            {
+              "title": "Tenses and Aspect (Advanced)",
+              "type": "Grammar",
+              "topics": [
+                "Perfect and continuous aspect nuances",
+                "Advanced tense usage in writing"
+              ]
+            },
+            {
+              "title": "Non-Finite Verbs",
+              "type": "Grammar",
+              "topics": [
+                "Gerunds, infinitives, participles",
+                "Usage in complex sentences"
+              ]
+            },
+            {
+              "title": "Connectors and Linkers",
+              "type": "Grammar",
+              "topics": [
+                "Cause-effect, contrast, addition connectors",
+                "Cohesive writing techniques"
+              ]
+            },
+            {
+              "title": "Note-Making and Summarizing",
+              "type": "Composition",
+              "topics": [
+                "Techniques for effective note-making",
+                "Summary writing skills"
+              ]
+            },
+            {
+              "title": "Writing Skills (Advanced)",
+              "type": "Composition",
+              "topics": [
+                "Notice, advertisement, poster writing",
+                "Business/formal letters",
+                "Article and speech writing"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "classId": "class12",
+      "subjects": {
+        "flamingo": {
+          "bookName": "Flamingo",
+          "icon": "🦩",
+          "edition": "current",
+          "note": "Rationalised edition — Poetry chapter 'An Elementary School Classroom in a Slum' removed as per latest CBSE reduced syllabus",
+          "chapters": [
+            {
+              "title": "The Last Lesson",
+              "type": "Prose",
+              "topics": [
+                "A French village's last lesson before German occupation",
+                "Loss of language and identity under colonial control",
+                "Value of one's mother tongue"
+              ]
+            },
+            {
+              "title": "Lost Spring",
+              "type": "Prose",
+              "topics": [
+                "Childhoods lost to poverty and labour",
+                "Stories of ragpickers and bangle-makers",
+                "Social inequality and exploitation"
+              ]
+            },
+            {
+              "title": "Deep Water",
+              "type": "Prose",
+              "topics": [
+                "Author's near-drowning experience",
+                "Overcoming a lifelong fear of water",
+                "Theme of courage and self-conquest"
+              ]
+            },
+            {
+              "title": "The Rattrap",
+              "type": "Prose",
+              "topics": [
+                "A peddler's philosophy of the world as a rattrap",
+                "Kindness transforms a thief's outlook",
+                "Theme of redemption"
+              ]
+            },
+            {
+              "title": "Indigo",
+              "type": "Prose",
+              "topics": [
+                "Gandhi's involvement in the Champaran movement",
+                "Exploitation of indigo farmers by the British",
+                "Fearlessness and justice"
+              ]
+            },
+            {
+              "title": "Poets and Pancakes",
+              "type": "Prose",
+              "topics": [
+                "Behind-the-scenes life at Gemini Studios",
+                "Satirical look at film industry culture",
+                "Humour and irony"
+              ]
+            },
+            {
+              "title": "The Interview",
+              "type": "Prose",
+              "topics": [
+                "Reflections on the pros and cons of interviews",
+                "Interviews of two famous personalities",
+                "Media and personality analysis"
+              ]
+            },
+            {
+              "title": "Going Places",
+              "type": "Prose",
+              "topics": [
+                "A teenager's fantasy about meeting a football star",
+                "Theme of dreams versus reality",
+                "Social class aspirations"
+              ]
+            }
+          ]
+        },
+        "vistas": {
+          "bookName": "Vistas",
+          "icon": "🔭",
+          "edition": "current",
+          "note": "",
+          "chapters": [
+            {
+              "title": "The Third Level",
+              "type": "Story (Science Fiction)",
+              "topics": [
+                "A man discovers a mysterious third level at a train station",
+                "Escape from reality into nostalgia",
+                "Theme of escapism"
+              ]
+            },
+            {
+              "title": "The Tiger King",
+              "type": "Story",
+              "topics": [
+                "A satirical tale of a king obsessed with killing tigers",
+                "Irony of fate and prophecy",
+                "Critique of colonial-era royal privilege"
+              ]
+            },
+            {
+              "title": "Journey to the End of the Earth",
+              "type": "Prose (Travelogue)",
+              "topics": [
+                "Author's expedition to Antarctica",
+                "Climate change and geological history",
+                "Environmental awareness"
+              ]
+            },
+            {
+              "title": "The Enemy",
+              "type": "Story",
+              "topics": [
+                "A Japanese surgeon treats a wounded American soldier",
+                "Conflict between duty and humanity during wartime",
+                "Moral dilemma"
+              ]
+            },
+            {
+              "title": "Should Wizard Hit Mommy?",
+              "type": "Story",
+              "topics": [
+                "A father's bedtime story raises questions about morality",
+                "Children's black-and-white view of justice",
+                "Parenting and storytelling themes"
+              ]
+            },
+            {
+              "title": "On the Face of It",
+              "type": "Play",
+              "topics": [
+                "Friendship between a disfigured boy and an elderly man",
+                "Themes of self-acceptance and prejudice",
+                "Emotional healing"
+              ]
+            },
+            {
+              "title": "Evans Tries an O-Level",
+              "type": "Story",
+              "topics": [
+                "A clever prison escape disguised as an exam",
+                "Twist ending with role reversal",
+                "Suspense and wit"
+              ]
+            },
+            {
+              "title": "Memories of Childhood",
+              "type": "Prose (Autobiography)",
+              "topics": [
+                "'The Cutting of My Long Hair' — Zitkala-Sa's account of forced assimilation",
+                "'We Too Are Human Beings' — Bama's experience of caste discrimination",
+                "Themes of identity and resistance"
+              ]
+            }
+          ]
+        },
+        "kaleidoscope": {
+          "bookName": "Kaleidoscope (Elective)",
+          "icon": "🔮",
+          "edition": "elective",
+          "note": "Elective NCERT supplementary reader for Class 12 (prose, poetry, short stories, and drama)",
+          "chapters": [
+            {
+              "title": "Prose Section",
+              "type": "Prose Anthology",
+              "topics": [
+                "Selected non-fiction essays from Indian and world literature",
+                "Diverse themes and rhetorical styles"
+              ]
+            },
+            {
+              "title": "Poetry Section",
+              "type": "Poetry Anthology",
+              "topics": [
+                "Curated poems for advanced literary analysis",
+                "Study of poetic devices and interpretation"
+              ]
+            },
+            {
+              "title": "Short Stories Section",
+              "type": "Fiction",
+              "topics": [
+                "Short stories exploring varied human experiences",
+                "Character, narrative voice, and theme study"
+              ]
+            },
+            {
+              "title": "Drama Section",
+              "type": "Play Extracts",
+              "topics": [
+                "Extracts from significant plays",
+                "Dramatic irony, dialogue, and staging analysis"
+              ]
+            }
+          ]
+        },
+        "silasMarner": {
+          "bookName": "Silas Marner",
+          "icon": "🧶",
+          "edition": "novel",
+          "note": "Long Reading Text (Novel) by George Eliot — supplementary reading for Class 12",
+          "chapters": [
+            {
+              "title": "Silas Marner — Novel Overview",
+              "type": "Novel by George Eliot (Long Reading Text)",
+              "topics": [
+                "Silas Marner, a weaver, is falsely accused of theft and exiled from his community, becoming a bitter recluse obsessed with hoarding gold",
+                "His gold is stolen, leaving him devastated, until an orphaned toddler named Eppie mysteriously appears at his hearth",
+                "Raising Eppie transforms Silas from an isolated miser into a loving, socially connected father figure",
+                "Parallel plot involving Godfrey Cass, Eppie's biological father, and his own guilt and eventual reckoning",
+                "Themes: redemption through love, community and belonging, the corrupting versus redemptive power of relationships versus material wealth"
+              ]
+            }
+          ]
+        },
+        "invisibleManClass12": {
+          "bookName": "The Invisible Man",
+          "icon": "🫥",
+          "edition": "novel",
+          "note": "Long Reading Text (Science Fiction Novel) by H.G. Wells — also prescribed for Class 12 in some editions",
+          "chapters": [
+            {
+              "title": "The Invisible Man — Novel Overview",
+              "type": "Novel by H.G. Wells (Long Reading Text)",
+              "topics": [
+                "Griffin, a scientist, discovers a method to become invisible but cannot reverse the process",
+                "His descent into isolation, paranoia, and increasingly violent behaviour as society rejects him",
+                "Conflict between Griffin and the villagers/authorities as his invisibility is exploited for crime and terror",
+                "His eventual downfall and death, becoming visible again only in death",
+                "Themes: the corrupting effect of unchecked power, isolation, scientific responsibility, and the double-edged nature of ambition"
+              ]
+            }
+          ]
+        },
+        "grammar": {
+          "bookName": "English Grammar & Writing Skills (Board Level)",
+          "icon": "✏️",
+          "edition": "current",
+          "note": "",
+          "chapters": [
+            {
+              "title": "Advanced Grammar Review",
+              "type": "Grammar",
+              "topics": [
+                "Comprehensive tense and voice review",
+                "Complex sentence transformations"
+              ]
+            },
+            {
+              "title": "Vocabulary and Usage",
+              "type": "Grammar",
+              "topics": [
+                "Idioms and phrases",
+                "Synonyms, antonyms in context"
+              ]
+            },
+            {
+              "title": "Note-Making and Summary (Board Level)",
+              "type": "Composition",
+              "topics": [
+                "Advanced note-making techniques",
+                "Précis writing"
+              ]
+            },
+            {
+              "title": "Writing Skills (Board Level)",
+              "type": "Composition",
+              "topics": [
+                "Formal letter — business and official",
+                "Report writing",
+                "Advertisement and notice writing"
+              ]
+            },
+            {
+              "title": "Long Composition",
+              "type": "Composition",
+              "topics": [
+                "Article writing on contemporary issues",
+                "Speech writing",
+                "Debate and discursive essay"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
