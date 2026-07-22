@@ -1,54 +1,48 @@
-# 🎓 Innera
+# 🌱 Innera
 
-> A modern educational platform designed to make learning simple, engaging, and accessible.
+<p align="center">
+  <img src="./screenshots/logo.png" alt="Innera Logo" width="180"/>
+</p>
 
-![Status](https://img.shields.io/badge/Status-Production-success)
-![Platform](https://img.shields.io/badge/Platform-Android-blue)
-![Built With](https://img.shields.io/badge/Built%20With-React%20Native-61DAFB)
-![License](https://img.shields.io/badge/License-MIT-green)
-
----
-
-## 📖 About
-
-Innera is an educational platform that helps students learn through structured learning paths, subject-wise content, quizzes, and progress tracking.
-
-The application is designed with scalability in mind and aims to support school students, competitive exam aspirants, and lifelong learners through an intuitive mobile experience.
+<p align="center">
+An educational platform designed for structured learning, personalized learning paths, quizzes, and progress tracking.
+</p>
 
 ---
 
-## 🎯 Target Users
+# 📚 About
+
+Innera is a modern educational platform built to help students learn efficiently through organized content, subject-wise navigation, quizzes, and progress tracking.
+
+It aims to provide a simple and engaging learning experience for students and competitive exam aspirants.
+
+---
+
+# 🎯 Target Audience
 
 - School Students
 - College Students
 - Competitive Exam Aspirants
-- Self Learners
+- Working Professionals
 
 ---
 
-## ✨ Features
+# ✨ Features
 
-- Secure Login
-- Subject-wise Learning
-- Chapter Navigation
-- Progress Tracking
-- Clean & Modern UI
-- Responsive Mobile Experience
-
-### 🚧 Upcoming Features
-
-- AI Study Assistant
-- Video Courses
-- Live Classes
-- Practice Quizzes
-- Notes
-- Certificates
-- Leaderboard
-- Parent Dashboard
+- 🔐 Login & Signup
+- 📖 Subject-wise Learning
+- 📚 Chapter Navigation
+- 📝 Quiz Support (Coming Soon)
+- 📊 Progress Tracking
+- 👤 User Profile
+- 💳 Subscription System
+- 🤖 AI Chat (Coming Soon)
+- 🎥 Video Courses (Coming Soon)
+- 🎓 Certificates (Coming Soon)
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 - React Native
 - Expo
@@ -58,44 +52,66 @@ The application is designed with scalability in mind and aims to support school 
 
 ---
 
-## 📂 Project Structure
+# 📱 Screenshots
 
-src/
-├── assets/
-├── components/
-├── firebase/
-├── navigation/
-├── screens/
-├── theme/
+## Login
+
+![](./screenshots/login.png)
+
+## Home
+
+![](./screenshots/home1.png)
+
+![](./screenshots/home2.png)
+
+## Subjects
+
+![](./screenshots/subjects.png)
+
+## Mathematics
+
+![](./screenshots/mathematics.png)
+
+## Science
+
+![](./screenshots/science.png)
+
+## Social Science
+
+![](./screenshots/socialsciencepage.png)
+
+## Profile
+
+![](./screenshots/profile.png)
+
+## Settings
+
+![](./screenshots/setting.png)
+
+## Subscription
+
+![](./screenshots/subscription.png)
 
 ---
 
-## 📱 Screenshots
-
-Coming Soon
-
----
-
-## 🚀 Future Roadmap
+# 🚀 Future Roadmap
 
 - AI Tutor
-- Personalized Learning
-- Gamification
-- Doubt Solving
-- Performance Analytics
+- Live Classes
+- Video Courses
+- Practice Tests
+- Leaderboard
 - Offline Learning
+- Doubt Support
 
 ---
 
-## 👨‍💻 Developer
+# 👨‍💻 Developer
 
-**Nikesh Kumar**
-
-AI Engineer | Mobile App Developer | Mathematics Graduate
-
-GitHub:
-https://github.com/itsmenikeshraj99
+Nikesh Kumar
 
 ---
 
-⭐ If you like this project, don't forget to star the repository.
+# 📄 License
+
+This project is licensed under the MIT License.
