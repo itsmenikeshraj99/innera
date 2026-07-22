@@ -51,47 +51,30 @@ It aims to provide a simple and engaging learning experience for students and co
 - React Navigation
 
 ---
+## 📱 Application Screenshots
 
-# 📱 Screenshots
+<p align="center">
+  <img src="./screenshots/home1.png" width="220"/>
+  <img src="./screenshots/home2.png" width="220"/>
+  <img src="./screenshots/login.png" width="220"/>
+</p>
 
-## Login
+<p align="center">
+  <img src="./screenshots/subjects.png" width="220"/>
+  <img src="./screenshots/mathematics.png" width="220"/>
+  <img src="./screenshots/science.png" width="220"/>
+</p>
 
-![](./screenshots/login.png)
+<p align="center">
+  <img src="./screenshots/socialsciencepage.png" width="220"/>
+  <img src="./screenshots/profile.png" width="220"/>
+  <img src="./screenshots/setting.png" width="220"/>
+</p>
 
-## Home
-
-![](./screenshots/home1.png)
-
-![](./screenshots/home2.png)
-
-## Subjects
-
-![](./screenshots/subjects.png)
-
-## Mathematics
-
-![](./screenshots/mathematics.png)
-
-## Science
-
-![](./screenshots/science.png)
-
-## Social Science
-
-![](./screenshots/socialsciencepage.png)
-
-## Profile
-
-![](./screenshots/profile.png)
-
-## Settings
-
-![](./screenshots/setting.png)
-
-## Subscription
-
-![](./screenshots/subscription.png)
-
+<p align="center">
+  <img src="./screenshots/subscription.png" width="220"/>
+  <img src="./screenshots/logo.png" width="220"/>
+</p>
 ---
 
 # 🚀 Future Roadmap
