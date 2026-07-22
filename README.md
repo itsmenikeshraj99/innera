@@ -73,7 +73,6 @@ It aims to provide a simple and engaging learning experience for students and co
 
 <p align="center">
   <img src="./screenshots/subscription.png" width="220"/>
-  <img src="./screenshots/logo.png" width="220"/>
 </p>
 ---
 
