@@ -1,3 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0; /* Ensures no default margin */
+  padding: 0; /* Ensures no default padding */
+  background-color: #050505; /* Apka Deep black background */
+  overflow-x: hidden; 
+  cursor: none; /* Hide default cursor */
+  font-family: 'Poppins', sans-serif;
+}
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* =========================================
+   1. INNERA INTRO STYLES
+   ========================================= */
+
 /* Base container styling */
 .innera-intro-container {
   display: flex;
@@ -5,10 +33,9 @@
   align-items: center;
   height: 100vh;
   width: 100vw;
-  background-color: #050505; /* Deep black background */
+  background-color: #050505; 
   overflow: hidden;
   position: relative;
-  font-family: 'Poppins', sans-serif; /* A modern font if available */
 }
 
 /* Subtly animated gradient background */
@@ -25,13 +52,13 @@
 /* Main content wrapper */
 .content {
   text-align: center;
-  z-index: 2; /* Ensures content is above background gradient */
-  color: #f0f0f0; /* Off-white for sleek look */
+  z-index: 2; 
+  color: #f0f0f0; 
 }
 
 /* Styling the main Innera heading */
 .hero-text {
-  font-size: 7vw; /* Dynamic size based on screen width */
+  font-size: 7vw; 
   font-weight: 800;
   margin: 0;
   letter-spacing: -2px;
@@ -62,7 +89,7 @@
 .email-input {
   padding: 15px 25px;
   font-size: 1rem;
-  border-radius: 50px; /* Pill shape for a modern look */
+  border-radius: 50px; 
   border: 1px solid rgba(255, 255, 255, 0.2);
   background: rgba(255, 255, 255, 0.05);
   color: white;
@@ -95,16 +122,15 @@
 }
 
 .join-btn:hover {
-  transform: translateY(-3px); /* Subtle lift effect */
+  transform: translateY(-3px); 
   box-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
 }
 
-/* Hide default cursor on the whole page */
-body {
-  cursor: none;
-}
 
-/* Custom Cursor Styling */
+/* =========================================
+   2. CUSTOM CURSOR (Mix-Blend-Mode)
+   ========================================= */
+
 .custom-cursor {
   position: fixed;
   top: 0;
@@ -113,14 +139,14 @@ body {
   height: 20px;
   background-color: white;
   border-radius: 50%;
-  pointer-events: none; /* Taaki cursor clicks ko block na kare */
+  pointer-events: none; 
   z-index: 9999;
-  transform: translate(-50%, -50%); /* Mouse point ko bilkul center mein rakhne ke liye */
-  mix-blend-mode: difference; /* Yeh sabse cool part hai: background ke hisaab se color invert ho jayega */
-  transition: width 0.2s, height 0.2s; /* Agar hum aage chalkar hover pe size bada karna chahein */
+  transform: translate(-50%, -50%); 
+  mix-blend-mode: difference; /* Best part! */
+  transition: width 0.2s, height 0.2s; 
 }
 
-/* Jab text input par hover karein toh default text cursor wapas aa jaye taaki type karna aasaan ho */
-input[type="email"] {
+/* Input boxes pe type karte waqt text cursor show ho */
+input[type="email"], input[type="text"] {
   cursor: text;
 }
