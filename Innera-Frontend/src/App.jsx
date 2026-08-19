@@ -7,7 +7,7 @@ function App() {
   const subtitleRef = useRef(null);
   const formRef = useRef(null);
   const cursorRef = useRef(null);
-  const buttonRef = useRef(null); // Naya reference button ke liye
+  const buttonRef = useRef(null); // New reference for the button
   const [email, setEmail] = useState('');
 
   useEffect(() => {
@@ -47,11 +47,11 @@ function App() {
     
     const magneticMove = (e) => {
       const rect = btn.getBoundingClientRect();
-      // Mouse ki position button ke center se calculate karte hain
+      // Calculate mouse position relative to the button's center
       const x = (e.clientX - rect.left) - rect.width / 2;
       const y = (e.clientY - rect.top) - rect.height / 2;
 
-      // Button ko mouse ki taraf thoda sa shift karna (0.4 multiplier force control karta hai)
+      // Shift the button slightly towards the mouse (0.4 multiplier controls the force)
       gsap.to(btn, {
         x: x * 0.4,
         y: y * 0.4,
@@ -61,7 +61,7 @@ function App() {
     };
 
     const magneticLeave = () => {
-      // Mouse hatne par button wapas 0,0 par elastic bounce ke saath aayega
+      // Return button to 0,0 with an elastic bounce when the mouse leaves
       gsap.to(btn, {
         x: 0,
         y: 0,
@@ -89,8 +89,8 @@ function App() {
     e.preventDefault();
     
     try {
-      // Backend ko request bhej rahe hain
-      const response = await fetch('http://127.0.0.1:8000/api/waitlist', {
+      // Sending request to the backend
+      const response = await fetch('https://innera-backend-m076.onrender.com/api/waitlist', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -102,13 +102,13 @@ function App() {
 
       if (response.ok) {
         alert("🎉 Success: " + data.message);
-        setEmail(''); // Input box ko khali karne ke liye
+        setEmail(''); // Clear the input box
       } else {
-        alert("Oops! Kuch gadbad ho gayi.");
+        alert("❌ Oops! Something went wrong. Please try again.");
       }
     } catch (error) {
       console.error("Connection Error:", error);
-      alert("Backend se connect nahi ho paya. Kya server chalu hai?");
+      alert("❌ Unable to connect to the server. Please check your internet connection or try again later.");
     }
   };
 
